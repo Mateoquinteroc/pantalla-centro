@@ -1,0 +1,143 @@
+{
+    "Taller":[
+    {
+        "tipo":"Taller",
+        "fecha": "Martes 31 del 2023",
+        "hora": "12:00",
+        "titulo":"ver ciudad",
+        "lugar":"auditorio",
+        "detalle":"inscripcion previa",
+        "id":2020,
+        "color":"bg-red-600/50"
+    },
+
+    {
+        "tipo":"Taller",
+        "fecha": "Martes 31 del 2023",
+        "hora": "12:00",
+        "titulo":"taller de cotidianidad",
+        "lugar":"maker space",
+        "detalle":"inscripcion previa",
+        "id":2022,
+        "color":"bg-yellow-400/50"
+    },
+    {
+        "tipo":"Taller",
+        "fecha": "Martes 31 del 2023",
+        "hora": "12:00",
+        "titulo":"taller de cotidianidad",
+        "lugar":"maker space",
+        "detalle":"inscripcion previa",
+        "id":2023,
+        "color":"bg-blue-700/50"
+    }
+],
+"Charla":[
+
+    {
+        "tipo":"Charla",
+        "fecha": "Martes 31 del 2023",
+        "hora": "12:00",
+        "titulo":"taller de cotidianidad",
+        "lugar":"maker space",
+        "detalle":"inscripcion previa",
+        "id":2021,
+        "color":"bg-blue-700/50"
+    },
+    {
+        "tipo":"Charla",
+        "fecha": "Martes 31 del 2023",
+        "hora": "12:00",
+        "titulo":"taller de cotidianidad",
+        "lugar":"auditorio",
+        "detalle":"inscripcion previa",
+        "id":2020,
+        "color":"bg-yellow-400/50"
+    }
+
+
+]
+}
+
+
+//////////
+
+
+[
+    {
+        "tipo":"Taller",
+        "fecha": "Martes 31 del 2023",
+        "hora": "12:00",
+        "titulo":"ver ciudad",
+        "lugar":"auditorio",
+        "detalle":"inscripcion previa",
+        "id":2020,
+        "color":"bg-red-600/50"
+    },
+    {
+        "tipo":"Taller",
+        "fecha": "Martes 31 del 2023",
+        "hora": "12:00",
+        "titulo":"taller de cotidianidad",
+        "lugar":"maker space",
+        "detalle":"inscripcion previa",
+        "id":2022,
+        "color":"bg-yellow-400/50"
+    },
+    {
+        "tipo":"Taller",
+        "fecha": "Martes 31 del 2023",
+        "hora": "12:00",
+        "titulo":"taller de cotidianidad",
+        "lugar":"maker space",
+        "detalle":"inscripcion previa",
+        "id":2023,
+        "color":"bg-blue-700/50"
+    },
+
+    {
+        "tipo":"Charla",
+        "fecha": "Martes 31 del 2023",
+        "hora": "12:00",
+        "titulo":"taller de cotidianidad",
+        "lugar":"maker space",
+        "detalle":"inscripcion previa",
+        "id":2021,
+        "color":"bg-blue-700/50"
+    },
+    {
+        "tipo":"Charla",
+        "fecha": "Martes 31 del 2023",
+        "hora": "12:00",
+        "titulo":"taller de cotidianidad",
+        "lugar":"auditorio",
+        "detalle":"inscripcion previa",
+        "id":2020,
+        "color":"bg-yellow-400/50"
+    }
+
+]
+
+/////////
+
+const CardDia = (Data) => {
+    const colors = "bg-red-600/50 bg-yellow-400/50 bg-blue-700/50"
+    const color = Data.Data.color
+
+        return (
+            <div className={`top-0 right-0  ${color} w-full h-[50vh] p-10 `} >
+                <div>
+                    <p className='text-3xl text-white font-medium  bg-black pl-2 pr-5 w-[30%] font-sans'>{Data.Data.tipo}</p>
+                </div>
+                <div>
+                    <p className='text-2xl text-white font-medium mt-[25%] font-sans'>{Data.Data.fecha}</p>
+                    <p className='text-2xl text-white font-medium -m-3 ml-0 font-sans font-light'>{Data.Data.hora}</p>
+                    <p className='text-2xl text-white font-medium font-sans font-bold '>{Data.Data.titulo}</p>
+                    <p className='text-2xl text-white font-medium -m-3 ml-0 font-sans font-normal'>{Data.Data.lugar}</p>
+                    <p className='text-2xl text-white font-medium -m-3 ml-0 font-sans font-light'>{Data.Data.detalle}</p>
+                </div>
+            </div>
+        )
+}
+
+export default CardDia
