@@ -8,7 +8,7 @@
         "lugar":"Auditorio",
         "detalle":"",
         "id":2020,
-        "color":"bg-blue-700/50",
+        "color":"bg-azul",
         "descripcion":"Del 27 al 30 de noviembre de 2023 se llevará a cabo el Festival Internacional de Clarinete de la Universidad de Caldas en el Centro Cultural Universitario Rogelio Salmona. Este evento, coordinado por los profesores Hernán Darío Gutiérrez y Fredy Pinzón y tiene como objetivo ofrecer un espacio académico y cultural a los estudiantes de clarinete, a los estudiantes de los programas de música y a la comunidad en general, quienes podrán disfrutar de los conciertos programados."
     }, {
         "tipo":"Clase magistral",
@@ -18,7 +18,7 @@
         "lugar":"Auditorio",
         "detalle":"",
         "id":2020,
-        "color":"bg-blue-700/50",
+        "color":"bg-amarillo",
         "descripcion":"Del 27 al 30 de noviembre de 2023 se llevará a cabo el Festival Internacional de Clarinete de la Universidad de Caldas en el Centro Cultural Universitario Rogelio Salmona. Este evento, coordinado por los profesores Hernán Darío Gutiérrez y Fredy Pinzón y tiene como objetivo ofrecer un espacio académico y cultural a los estudiantes de clarinete, a los estudiantes de los programas de música y a la comunidad en general, quienes podrán disfrutar de los conciertos programados."
     },  {
         "tipo":"conversatorio",
@@ -28,7 +28,7 @@
         "lugar":"Auditorio",
         "detalle":"",
         "id":2020,
-        "color":"bg-blue-700/50",
+        "color":"bg-naranja",
         "descripcion":"Del 27 al 30 de noviembre de 2023 se llevará a cabo el Festival Internacional de Clarinete de la Universidad de Caldas en el Centro Cultural Universitario Rogelio Salmona. Este evento, coordinado por los profesores Hernán Darío Gutiérrez y Fredy Pinzón y tiene como objetivo ofrecer un espacio académico y cultural a los estudiantes de clarinete, a los estudiantes de los programas de música y a la comunidad en general, quienes podrán disfrutar de los conciertos programados."
     },   {
         "tipo":"Clase magistral",
@@ -38,7 +38,7 @@
         "lugar":"Auditorio",
         "detalle":"",
         "id":2020,
-        "color":"bg-blue-700/50",
+        "color":"bg-rojo",
         "descripcion":"Del 27 al 30 de noviembre de 2023 se llevará a cabo el Festival Internacional de Clarinete de la Universidad de Caldas en el Centro Cultural Universitario Rogelio Salmona. Este evento, coordinado por los profesores Hernán Darío Gutiérrez y Fredy Pinzón y tiene como objetivo ofrecer un espacio académico y cultural a los estudiantes de clarinete, a los estudiantes de los programas de música y a la comunidad en general, quienes podrán disfrutar de los conciertos programados."
     } ,   {
         "tipo":"Clase magistral",
@@ -48,7 +48,7 @@
         "lugar":"Auditorio",
         "detalle":"",
         "id":2020,
-        "color":"bg-blue-700/50",
+        "color":"bg-azul",
         "descripcion":"Del 27 al 30 de noviembre de 2023 se llevará a cabo el Festival Internacional de Clarinete de la Universidad de Caldas en el Centro Cultural Universitario Rogelio Salmona. Este evento, coordinado por los profesores Hernán Darío Gutiérrez y Fredy Pinzón y tiene como objetivo ofrecer un espacio académico y cultural a los estudiantes de clarinete, a los estudiantes de los programas de música y a la comunidad en general, quienes podrán disfrutar de los conciertos programados."
     } ,   {
         "tipo":"Clase magistral",
@@ -58,7 +58,7 @@
         "lugar":"Auditorio",
         "detalle":"",
         "id":2020,
-        "color":"bg-blue-700/50",
+        "color":"bg-naranja",
         "descripcion":"Del 27 al 30 de noviembre de 2023 se llevará a cabo el Festival Internacional de Clarinete de la Universidad de Caldas en el Centro Cultural Universitario Rogelio Salmona. Este evento, coordinado por los profesores Hernán Darío Gutiérrez y Fredy Pinzón y tiene como objetivo ofrecer un espacio académico y cultural a los estudiantes de clarinete, a los estudiantes de los programas de música y a la comunidad en general, quienes podrán disfrutar de los conciertos programados."
     } ,  {
         "tipo":"Clase magistral",
@@ -68,7 +68,7 @@
         "lugar":"Auditorio",
         "detalle":"",
         "id":2020,
-        "color":"bg-blue-700/50",
+        "color":"bg-azul",
         "descripcion":"Del 27 al 30 de noviembre de 2023 se llevará a cabo el Festival Internacional de Clarinete de la Universidad de Caldas en el Centro Cultural Universitario Rogelio Salmona. Este evento, coordinado por los profesores Hernán Darío Gutiérrez y Fredy Pinzón y tiene como objetivo ofrecer un espacio académico y cultural a los estudiantes de clarinete, a los estudiantes de los programas de música y a la comunidad en general, quienes podrán disfrutar de los conciertos programados."
     } ,  {
         "tipo":"Clase magistral",
@@ -78,7 +78,7 @@
         "lugar":"Auditorio",
         "detalle":"",
         "id":2020,
-        "color":"bg-blue-700/50",
+        "color":"bg-amarillo",
         "descripcion":"Del 27 al 30 de noviembre de 2023 se llevará a cabo el Festival Internacional de Clarinete de la Universidad de Caldas en el Centro Cultural Universitario Rogelio Salmona. Este evento, coordinado por los profesores Hernán Darío Gutiérrez y Fredy Pinzón y tiene como objetivo ofrecer un espacio académico y cultural a los estudiantes de clarinete, a los estudiantes de los programas de música y a la comunidad en general, quienes podrán disfrutar de los conciertos programados."
     }
 ],
@@ -91,7 +91,7 @@
         "lugar":"Auditorio",
         "detalle":"Recital de estudiantes | Evento abierto ",
         "id":2020,
-        "color":"bg-yellow-400/50",
+        "color":"bg-amarillo",
         "descripcion":"Del 27 al 30 de noviembre de 2023 se llevará a cabo el Festival Internacional de Clarinete de la Universidad de Caldas en el Centro Cultural Universitario Rogelio Salmona. Este evento, coordinado por los profesores Hernán Darío Gutiérrez y Fredy Pinzón y tiene como objetivo ofrecer un espacio académico y cultural a los estudiantes de clarinete, a los estudiantes de los programas de música y a la comunidad en general, quienes podrán disfrutar de los conciertos programados."
     },       {
         "tipo":"Concierto",
@@ -101,7 +101,7 @@
         "lugar":"Auditorio",
         "detalle":"Recital egresados Departamento de Música de la Universidad de Caldas / Evento abierto",
         "id":2020,
-        "color":"bg-yellow-400/50",
+        "color":"bg-rojo",
         "descripcion":"Del 27 al 30 de noviembre de 2023 se llevará a cabo el Festival Internacional de Clarinete de la Universidad de Caldas en el Centro Cultural Universitario Rogelio Salmona. Este evento, coordinado por los profesores Hernán Darío Gutiérrez y Fredy Pinzón y tiene como objetivo ofrecer un espacio académico y cultural a los estudiantes de clarinete, a los estudiantes de los programas de música y a la comunidad en general, quienes podrán disfrutar de los conciertos programados."
     },   {
         "tipo":"Concierto",
@@ -111,7 +111,7 @@
         "lugar":"Café Cultural",
         "detalle":"Abierto al público",
         "id":2020,
-        "color":"bg-yellow-400/50",
+        "color":"bg-azul",
        "descripcion":"Se realizará un concierto didáctico de Jazz en el marco de una visita guiada de los estudiantes del Colegio El Rosario al Centro de Bibliotecas del CCU Rogelio Salmona. Es un evento abierto a cargo de los estudiantes de jazz del Departamento de Música de la Universidad de Caldas."
     }, {
         "tipo":"Concierto",
@@ -121,7 +121,7 @@
         "lugar":"Auditorio",
         "detalle":"Recital de estudiantes / Evento abierto",
         "id":2020,
-        "color":"bg-yellow-400/50",
+        "color":"bg-rojo",
        "descripcion":"Del 27 al 30 de noviembre de 2023 se llevará a cabo el Festival Internacional de Clarinete de la Universidad de Caldas en el Centro Cultural Universitario Rogelio Salmona. Este evento, coordinado por los profesores Hernán Darío Gutiérrez y Fredy Pinzón y tiene como objetivo ofrecer un espacio académico y cultural a los estudiantes de clarinete, a los estudiantes de los programas de música y a la comunidad en general, quienes podrán disfrutar de los conciertos programados."
     },{
         "tipo":"Concierto",
@@ -131,7 +131,7 @@
         "lugar":"Auditorio",
         "detalle":"Recital de maestros internacionales invitados / Evento abierto",
         "id":2020,
-        "color":"bg-yellow-400/50",
+        "color":"bg-azul",
        "descripcion":"Del 27 al 30 de noviembre de 2023 se llevará a cabo el Festival Internacional de Clarinete de la Universidad de Caldas en el Centro Cultural Universitario Rogelio Salmona. Este evento, coordinado por los profesores Hernán Darío Gutiérrez y Fredy Pinzón y tiene como objetivo ofrecer un espacio académico y cultural a los estudiantes de clarinete, a los estudiantes de los programas de música y a la comunidad en general, quienes podrán disfrutar de los conciertos programados."
     },{
         "tipo":"Concierto",
@@ -141,7 +141,7 @@
         "lugar":"Auditorio",
         "detalle":"Recital de estudiantes / Evento abierto",
         "id":2020,
-        "color":"bg-yellow-400/50",
+        "color":"bg-azul",
         "descripcion":"Del 27 al 30 de noviembre de 2023 se llevará a cabo el Festival Internacional de Clarinete de la Universidad de Caldas en el Centro Cultural Universitario Rogelio Salmona. Este evento, coordinado por los profesores Hernán Darío Gutiérrez y Fredy Pinzón y tiene como objetivo ofrecer un espacio académico y cultural a los estudiantes de clarinete, a los estudiantes de los programas de música y a la comunidad en general, quienes podrán disfrutar de los conciertos programados."
     }, {
         "tipo":"Concierto",
@@ -151,7 +151,7 @@
         "lugar":"Auditorio",
         "detalle":"Concierto Corno de Clarinetes Universidad de Caldas / Evento abierto",
         "id":2020,
-        "color":"bg-yellow-400/50",
+        "color":"bg-azul",
         "descripcion":"Del 27 al 30 de noviembre de 2023 se llevará a cabo el Festival Internacional de Clarinete de la Universidad de Caldas en el Centro Cultural Universitario Rogelio Salmona. Este evento, coordinado por los profesores Hernán Darío Gutiérrez y Fredy Pinzón y tiene como objetivo ofrecer un espacio académico y cultural a los estudiantes de clarinete, a los estudiantes de los programas de música y a la comunidad en general, quienes podrán disfrutar de los conciertos programados."
     }, {
         "tipo":"Concierto",
@@ -161,7 +161,7 @@
         "lugar":"Auditorio",
         "detalle":"Recital de estudiantes / Evento abierto",
         "id":2020,
-        "color":"bg-yellow-400/50",
+        "color":"bg-naranja",
         "descripcion":"Del 27 al 30 de noviembre de 2023 se llevará a cabo el Festival Internacional de Clarinete de la Universidad de Caldas en el Centro Cultural Universitario Rogelio Salmona. Este evento, coordinado por los profesores Hernán Darío Gutiérrez y Fredy Pinzón y tiene como objetivo ofrecer un espacio académico y cultural a los estudiantes de clarinete, a los estudiantes de los programas de música y a la comunidad en general, quienes podrán disfrutar de los conciertos programados."
     }, {
         "tipo":"Concierto",
@@ -171,7 +171,7 @@
         "lugar":"Auditorio",
         "detalle":"Concierto Orquesta Sinfónica de Caldas / Evento abierto",
         "id":2020,
-        "color":"bg-yellow-400/50",
+        "color":"bg-naranja",
         "descripcion":"Del 27 al 30 de noviembre de 2023 se llevará a cabo el Festival Internacional de Clarinete de la Universidad de Caldas en el Centro Cultural Universitario Rogelio Salmona. Este evento, coordinado por los profesores Hernán Darío Gutiérrez y Fredy Pinzón y tiene como objetivo ofrecer un espacio académico y cultural a los estudiantes de clarinete, a los estudiantes de los programas de música y a la comunidad en general, quienes podrán disfrutar de los conciertos programados."
     }
 ],
@@ -185,7 +185,7 @@
         "lugar":"Oculo",
         "detalle":"",
         "id":2021,
-        "color":"bg-blue-700/50",
+        "color":"bg-azul",
         "descripcion":""
     },
     {
@@ -196,7 +196,7 @@
         "lugar":"Oculo",
         "detalle":"Evento Cerrado",
         "id":2020,
-        "color":"bg-blue-700/50",
+        "color":"bg-azul",
         "descripcion":""
     }
 
@@ -210,7 +210,7 @@
     "lugar":"auditorio",
     "detalle":"Evento Cerrado",
     "id":2020,
-    "color":"bg-red-600/50",
+    "color":"bg-azul",
     "descripcion":""
 }
 ],
@@ -224,7 +224,7 @@
         "lugar":"Ante sala Auditorio",
         "detalle":"Evento abierto",
         "id":2020,
-        "color":"bg-orange-600/50",
+        "color":"bg-naranja",
         "descripcion":""
     }
 ]
