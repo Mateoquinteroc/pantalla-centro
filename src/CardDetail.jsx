@@ -45,14 +45,14 @@ const CardDetail = ({ eventos }) => {
     return (
         
         <aside 
-        className={` ${Context.isCardDetailOpen ? 'flex' : 'hidden'} fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-slate-50/90 w-[90vw] h-[90vh] rounded-3xl z-10 overflow-x-hidden`}>
+        className={` ${Context.isCardDetailOpen ? 'flex' : 'hidden'} fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-10 bg-slate-50/90 w-[90vw] h-[70vh] rounded-3xl z-10 overflow-x-hidden`}>
             <XMarkIcon className='absolute right-0 h-10 w-10 text-black-500 m-4 '
             onClick={() => Context.closeCardDetail()}></XMarkIcon>
             <ArrowSmallRightIcon className='absolute w-11 right-0 mt-[50vh] transition-transform delay-300' onClick={(event) => siguienteCard(event)}></ArrowSmallRightIcon>
             <ArrowSmallLeftIcon className='absolute w-11 l-0 mt-[50vh] transition-transform delay-300' onClick={(event) => anteriorCard(event)}></ArrowSmallLeftIcon>
             {Context.eventSelect && (
-            <div className={`absolute top-0 right-0 inline-block w-[80vw] h-[65%] inset-x-0 mx-auto my-10 rounded-3xl ${Context.eventSelect.color} transition ease-in-out delay-150 duration-700 active:-translate-x-[30vw]`} onClick={(event) => siguienteCard(event)}>
-            <h2 className='4xl:text-7xl text-3xl text-white font-medium bg-black mt-[10%] pl-2 pr-5 inline-block w-auto font-sans m-3 '>{Context.eventSelect.tipo}</h2>
+            <div className={` grid grid-cols-4 absolute top-0 right-0 inline-block w-[80vw] h-[65%] inset-x-0 mx-auto my-10 rounded-3xl ${Context.eventSelect.color} transition ease-in-out delay-150 duration-700 active:-translate-x-[30vw]`} onClick={(event) => siguienteCard(event)}>
+            <h2 className='col-start-2 col-span-1 4xl:text-7xl text-3xl text-white font-medium bg-black mt-[10%] pl-2 pr-5 inline-block w-auto font-sans m-3 '>{Context.eventSelect.tipo}</h2>
             <p className='4xl:text-6xl text-2xl text-white font-medium font-sans mt-[50px] ml-5'> Fecha: {Context.eventSelect.fecha}</p>
             <p className='4xl:text-6xl text-2xl text-white font-medium m-0  font-sans ml-5 '>Hora: {Context.eventSelect.hora}</p>
             <p className='4xl:text-6xl text-2xl text-white font-medium font-sans ml-5 w-[30%]'>Titulo: {Context.eventSelect.titulo}</p>
