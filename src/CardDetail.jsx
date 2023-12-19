@@ -51,15 +51,18 @@ const CardDetail = ({ eventos }) => {
             <ArrowSmallRightIcon className='absolute w-11 right-0 mt-[50vh] transition-transform delay-300' onClick={(event) => siguienteCard(event)}></ArrowSmallRightIcon>
             <ArrowSmallLeftIcon className='absolute w-11 l-0 mt-[50vh] transition-transform delay-300' onClick={(event) => anteriorCard(event)}></ArrowSmallLeftIcon>
             {Context.eventSelect && (
-            <div className={` grid grid-cols-4 absolute top-0 right-0 inline-block w-[80vw] h-[65%] inset-x-0 mx-auto my-10 rounded-3xl ${Context.eventSelect.color} transition ease-in-out delay-150 duration-700 active:-translate-x-[30vw]`} onClick={(event) => siguienteCard(event)}>
-            <h2 className='col-start-2 col-span-1 4xl:text-7xl text-3xl text-white font-medium bg-black mt-[10%] pl-2 pr-5 inline-block w-auto font-sans m-3 '>{Context.eventSelect.tipo}</h2>
-            <p className='4xl:text-6xl text-2xl text-white font-medium font-sans mt-[50px] ml-5'> Fecha: {Context.eventSelect.fecha}</p>
-            <p className='4xl:text-6xl text-2xl text-white font-medium m-0  font-sans ml-5 '>Hora: {Context.eventSelect.hora}</p>
-            <p className='4xl:text-6xl text-2xl text-white font-medium font-sans ml-5 w-[30%]'>Titulo: {Context.eventSelect.titulo}</p>
-            <p className='4xl:text-6xl text-2xl text-white font-medium font-sans ml-5'>Lugar: {Context.eventSelect.lugar}</p>
-            <p className='4xl:text-6xl text-2xl text-white font-medium font-sans ml-5 w-[30%]'>{Context.eventSelect.detalle}</p>
-            <h2 className='absolute left-[50%] -inset-y-10 w-auto 4xl:h-[80px] h-10 4xl:text-7xl text-3xl text-white font-medium bg-black font-sans m-3 mt-[10%] ml-3'>Descripcion</h2>
-            <p className='absolute right-0 -inset-y-10 w-[40%] h-auto mt-[15%] 4xl:text-5xl text-2xl text-white font-medium font-sans mr-[10%]'>{Context.eventSelect.descripcion}</p>
+            <div className={` grid grid-cols-4 absolute top-0 right-0 inline-block w-[85vw] h-[65%] inset-x-0 mx-auto my-10 rounded-3xl ${Context.eventSelect.color} transition ease-in-out delay-150 duration-700 active:-translate-x-[30vw]`} onClick={(event) => siguienteCard(event)}>
+            <figure className='col-start-1 row-span-4 ml-5 mt-[15%]  '>
+                <img className="" src={Context.eventSelect.imagen}/>
+            </figure>
+            <p className='col-start-2 row-start-1 4xl:text-6xl text-2xl text-white font-medium font-sans mt-[25%] ml-10 '><br/> {Context.eventSelect.fecha}</p>
+            <p className='col-start-2 row-start-1 4xl:text-6xl text-2xl text-white font-medium m-0  font-sans ml-10 mt-[40%]'>{Context.eventSelect.hora}</p>
+            <p className='col-start-2 row-start-2 4xl:text-5xl text-2xl text-white font-medium font-sans ml-10 w-fit'>{Context.eventSelect.titulo}</p>
+            <p className='col-start-2 row-start-3 4xl:text-6xl text-2xl text-white font-medium font-sans ml-10'>{Context.eventSelect.lugar}</p>
+            <p className='col-start-2 row-start-4 4xl:text-5xl text-2xl text-white font-medium font-sans ml-10 w-[30%]'>{Context.eventSelect.detalle}</p>
+            {/* <h2 className='4xl:text-7xl text-3xl text-white font-medium bg-black mt-[10%] pl-2 pr-5 inline-block w-fit h-fit font-sans m-3 '>{Context.eventSelect.tipo}</h2> */}
+            <h2 className='absolute left-[50%] -inset-y-10 w-auto 4xl:h-[80px] h-10 4xl:text-7xl text-3xl text-white font-medium font-sans m-3 mt-[10%] ml-3'>Descripcion</h2>
+            <p className='absolute right-0 -inset-y-10 w-[40%] h-auto mt-[15%] 4xl:text-4xl text-2xl text-white font-medium font-sans mr-[10%]'>{Context.eventSelect.descripcion}</p>
             </div>
                 )}
             <aside className={`fixed mr-10 ml-5 p-10 flex flex-rows items-center justify-center gap-1 bottom-5  w-[90vw]  overflow-x-scroll  scroll-pl-2`}>

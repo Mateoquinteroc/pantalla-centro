@@ -9,6 +9,10 @@ export const CardSelectProvider= ({children}) => {
     const [isCardDetailOpen, setIsCardDetailOpen] = useState(false)
     const openCardDetail = () => setIsCardDetailOpen(true)
     const closeCardDetail = () => setIsCardDetailOpen(false)
+
+    const [isCardBaseDetailsOpen, setIsCardBaseDetailsOpen] = useState(false)
+    const openCardBaseDetails = () => setIsCardBaseDetailsOpen(true)
+    const closeCardBaseDetails = () => setIsCardBaseDetailsOpen(false)
     
     // Ver detalle de seleccion 
     const [eventSelect, setEventSelect] = useState({})
@@ -30,7 +34,10 @@ export const CardSelectProvider= ({children}) => {
             eventoSeleccionado,
             setEventoSeleccionado,
             currentIndex,
-            setCurrentIndex
+            setCurrentIndex,
+            isCardBaseDetailsOpen,
+            openCardBaseDetails,
+            closeCardBaseDetails
         }}>
         {children}
         </CardSelectContext.Provider>

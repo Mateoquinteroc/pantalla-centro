@@ -6,6 +6,7 @@ import { CardSelectProvider } from "./Context"
 import CardDetail from './CardDetail';
 import PrincipalCard from './PrincipalCard';
 import FooterCard from './FooterCard';
+import CardBaseDetails from './CardBaseDetails';
 
 function App() {
   const categorias = Object.values(Data);
@@ -16,6 +17,7 @@ function App() {
       <div className="bg-cover  bg-[url('../public/img/fondo.png')] h-screen overflow-y-auto z-0">
       <PrincipalCard className="3 ml-[10%] mr-[10%] z-0"/>
       <FooterCard/>
+      <CardBaseDetails/>
       <CardDetail eventos={eventos} />
         <div className='grid grid-cols-3 ml-[26%] mr-[26%] gap-x-[10px] gap-y-3 z-0'>
           
