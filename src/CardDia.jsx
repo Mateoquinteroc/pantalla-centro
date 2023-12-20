@@ -34,7 +34,7 @@ const CardDia = ({ categoria }) => {
 
         <div key={subIndex}>
           <div className={`${categoria[subIndex].color} w-[14vw] h-auto p-3 mb-3 ml-3 mt-3 mix-blend-normal`}
-          onClick={() => {verEventoSeleccionado(categoria[0]);
+          onClick={() => {verEventoSeleccionado(categoria[subIndex]);
           }}>
             {/* <p className='4xl:text-3xl text-md text-white font-semibold font-sans'>{evento.fecha}</p> */}
             <p className='4xl:text-3xl text-md text-white font-open-sans font-bold '>{evento.titulo}</p>

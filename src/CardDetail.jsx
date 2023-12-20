@@ -36,6 +36,7 @@ const CardDetail = ({ eventos }) => {
         Context.setCurrentIndex(beforeIndex);
         Context.setEventSelect(beforeEvent)
     }
+    console.log(eventos)
 
     const imagenUrl = "https://drive.google.com/uc?export=download&id="
     useEffect(() => {
@@ -56,20 +57,20 @@ const CardDetail = ({ eventos }) => {
             <figure className='col-start-1 row-span-4 ml-5 mt-[10%] '>
                 <img className=" ml-5 w-[90%] " src={imagenUrl+Context.eventSelect.imagen}/>
             </figure>
-            <p className='col-start-2 row-start-1 4xl:text-6xl text-2xl text-white font-medium font-open-sans mt-[25%] ml-10 '><br/> {Context.eventSelect.fecha}</p>
+            <p className='col-start-2 row-start-1 4xl:text-6xl text-2xl text-white font-medium font-open-sans mt-[10%] ml-10 '><br/> {Context.eventSelect.fecha}</p>
             <p className='col-start-2 row-start-1 4xl:text-6xl text-2xl text-white font-medium font-open-sans m-0  ml-10 mt-[40%]'>{Context.eventSelect.hora}</p>
             <p className='col-start-2 row-start-2 4xl:text-5xl text-2xl text-white font-medium font-open-sans ml-10 w-fit'>{Context.eventSelect.titulo}</p>
             <p className='col-start-2 row-start-3 4xl:text-6xl text-2xl text-white font-medium font-open-sans ml-10'>{Context.eventSelect.lugar}</p>
             <p className='col-start-2 row-start-4 4xl:text-5xl text-2xl text-white font-medium font-open-sans ml-10 w-[30%]'>{Context.eventSelect.detalle}</p>
             {/* <h2 className='4xl:text-7xl text-3xl text-white font-medium bg-black mt-[10%] pl-2 pr-5 inline-block w-fit h-fit font-sans m-3 '>{Context.eventSelect.tipo}</h2> */}
-            <h2 className='absolute left-[50%] -inset-y-10 w-auto 4xl:h-[80px] h-10 4xl:text-7xl text-3xl text-white font-medium font-open-sans m-3 mt-[10%] ml-3'>Descripcion</h2>
-            <p className='absolute right-0 -inset-y-10 w-[40%] h-auto mt-[15%] 4xl:text-4xl text-2xl text-white font-medium font-open-sans mr-[10%]'>{Context.eventSelect.descripcion}</p>
+            <h2 className='absolute left-[50%] -inset-y-10 w-auto 4xl:h-[80px] h-10 4xl:text-7xl text-3xl text-white font-medium font-open-sans m-3 mt-[5%] ml-3'>Descripción</h2>
+            <p className='absolute right-0 -inset-y-10 w-[40%] h-auto mt-[10%] 4xl:text-4xl text-2xl text-white font-medium font-open-sans mr-[10%]'>{Context.eventSelect.descripcion}</p>
             </div>
                 )}
-            <aside className={`fixed mr-10 ml-5 p-10 flex flex-rows items-center justify-center gap-1 bottom-5  w-[90vw]  overflow-x-scroll  scroll-pl-2`}>
+            <aside className={`fixed mr-10 ml-5 p-10 flex flex-rows  gap-1 bottom-5  w-[90vw] rigth-0 overflow-x-scroll  scroll-pl-2 snap-start`}>
             {eventos.map((evento, index) => (
                 <div key={index} >
-                    <div className={`transform hover:-translate-y-10 static h-[150px] 4xl:h-[300px] rounded-sm  ${evento.color}`}
+                    <div className={`transform hover:-translate-y-10 static h-fit 4xl:h-fit p-5 rounded-sm  ${evento.color}`}
                     onClick={() => selectorEvento(evento)}
                     >
                     <h2 className='4xl:text-4xl text-md text-white font-medium bg-black pl-3 pr-5 m-1 4xl:mb-5 mb-1 4xl:ml-8 ml-2 w-auto font-open-sans rounded-sm line-clamp-1'>{evento.tipo}</h2>
