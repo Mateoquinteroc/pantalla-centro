@@ -16,6 +16,9 @@ export default {
         naranja: '#ec6e25ff',
         rojo: '#cd1532ff'
       },
+      fontFamily: {
+        'open-sans' : ['Open Sans', 'sans-serif']
+    }
     },
   },
   plugins: [],
