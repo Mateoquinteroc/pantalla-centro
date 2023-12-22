@@ -11,11 +11,18 @@ export const CardSelectProvider= ({children}) => {
     const closeCardDetail = () => setIsCardDetailOpen(false)
 
     const [isCardBaseDetailsOpen, setIsCardBaseDetailsOpen] = useState(false)
-    const openCardBaseDetails = () => setIsCardBaseDetailsOpen(true)
+    const openCardBaseDetails = () => 
+    {setIsCardBaseDetailsOpen(true)
+    setIsCardDetailOpen(false)
+    setIsQrOpen(false)}
     const closeCardBaseDetails = () => setIsCardBaseDetailsOpen(false)
 
     const [isQrOpen, setIsQrOpen] = useState(false)
-    const openQr = () => setIsQrOpen(true)
+    const openQr = () => 
+    {setIsQrOpen(true)
+    setIsCardDetailOpen(false)
+    setIsCardBaseDetailsOpen(false)}
+
     const closeQr = () => setIsQrOpen(false)
     
     // Ver detalle de seleccion 
