@@ -33,7 +33,7 @@ const CardDia = ({ categoria }) => {
       {categoria.map((evento, subIndex) => (
 
         <div key={subIndex}>
-          <div className={`${categoria[subIndex].color} 4xl:w-[14vw] h-auto 4xl:p-3 mb-3 ml-5 mt-3 mix-blend-normal 3xl:w-[13vw] 3xl:p-1`}
+          <div className={`${categoria[subIndex].color} 4xl:w-[14vw] h-auto 4xl:p-3 mb-3 ml-5 mt-3 mix-blend-normal 3xl:w-[13vw] 3xl:p-1 3xl:ml-3`}
           onClick={() => {verEventoSeleccionado(categoria[subIndex]);
           }}>
             {/* <p className='4xl:text-3xl text-md text-white font-semibold font-sans'>{evento.fecha}</p> */}

@@ -53,7 +53,7 @@ const CardDetail = ({ eventos }) => {
             <ArrowSmallRightIcon className='absolute 4xl:w-11 3xl:w-7 right-0 mt-[30vh] transition-transform delay-300' onClick={(event) => siguienteCard(event)}></ArrowSmallRightIcon>
             <ArrowSmallLeftIcon className='absolute 4xl:w-11 3xl:w-7 l-0 mt-[30vh] transition-transform delay-300' onClick={(event) => anteriorCard(event)}></ArrowSmallLeftIcon>
             {Context.eventSelect && (
-            <div className={` grid grid-cols-4 absolute top-0 right-0 inline-block 4xl:w-[85vw] 4xl:h-[65%] 3xl:h-[60%] inset-x-0 mx-auto m-10 rounded-3xl ${Context.eventSelect.color} transition ease-in-out delay-150 duration-700 active:-translate-x-[30vw]`} onClick={(event) => siguienteCard(event)}>
+            <div className={` grid grid-cols-4 absolute top-0 right-0 inline-block 4xl:w-[85vw] 3xl:w-[85vw] 4xl:h-[65%] 3xl:h-[60%] inset-x-0 mx-auto m-10 rounded-3xl ${Context.eventSelect.color} transition ease-in-out delay-150 duration-700 active:-translate-x-[30vw]`} onClick={(event) => siguienteCard(event)}>
             <figure className='absolute col-start-1 row-span-4 ml-5 top-1/2 left-1 transform -translate-x-1 -translate-y-1/2'>
                 <img className=" ml-5 w-[19vw]" src={imagenUrl+Context.eventSelect.imagen}/>
             </figure>
