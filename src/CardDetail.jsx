@@ -38,7 +38,6 @@ const CardDetail = ({ eventos }) => {
     }
     console.log(eventos)
 
-    const imagenUrl = "https://drive.google.com/uc?export=download&id="
     useEffect(() => {
     }, [Context.eventSelect])  
 
@@ -55,7 +54,7 @@ const CardDetail = ({ eventos }) => {
             {Context.eventSelect && (
             <div className={` grid grid-cols-4 absolute top-0 right-0 inline-block 4xl:w-[85vw] 3xl:w-[85vw] 4xl:h-[65%] 3xl:h-[60%] inset-x-0 mx-auto m-10 rounded-3xl ${Context.eventSelect.color} transition ease-in-out delay-150 duration-700 active:-translate-x-[30vw]`} onClick={(event) => siguienteCard(event)}>
             <figure className='absolute col-start-1 row-span-4 ml-5 top-1/2 left-1 transform -translate-x-1 -translate-y-1/2'>
-                <img className=" ml-5 w-[19vw]" src={imagenUrl+Context.eventSelect.imagen}/>
+                <img src={Context.eventSelect.imagen} className=" ml-5 w-[19vw]" />
             </figure>
             <p className='col-start-2 row-start-1 4xl:text-6xl text-2xl text-white font-bold font-open-sans 4xl:mt-[10%] ml-10  3xl:mt-1'><br/> {Context.eventSelect.fecha}</p>
             <p className='col-start-2 row-start-1 4xl:text-6xl text-2xl text-white font-medium font-open-sans m-0  ml-10 4xl:mt-[40%] 3xl:mt-[25%]'>{Context.eventSelect.hora}</p>
