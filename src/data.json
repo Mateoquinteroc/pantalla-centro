@@ -10,7 +10,7 @@
         "detalle": "",
         "id": 2020,
         "color": "bg-azul",
-        "imagen": "",
+        "imagen": "evento privado",
         "descripcion": "Fortalecer alianza universidad en tu pueblo"
       },
       {
@@ -20,7 +20,7 @@
         "hora": "8:00 am - 8:00 pm",
         "titulo": "Otro mundo posible: Narrativas del barrio Bajo Andes",
         "lugar": "Sala exposiciones",
-        "detalle": "",
+        "detalle": "abierto al publico",
         "id": 2020,
         "color": "bg-naranja",
         "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQYJZSa-ZBy3MP7XZ4BzvVBY818Pevgsg6W7qJ8z6tmdHLNP-kmw1pWWBZCg8Zo9MiOY5zK1o8XcK-Vyny8VS7PI2qUlw=w4825-h2700",
@@ -35,7 +35,7 @@
         "hora": "8:00 am - 8:00 pm",
         "titulo": "Otro mundo posible: Narrativas del barrio Bajo Andes",
         "lugar": "Sala exposiciones",
-        "detalle": "",
+        "detalle": "abierto al publico",
         "id": 2020,
         "color": "bg-naranja",
         "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQYJZSa-ZBy3MP7XZ4BzvVBY818Pevgsg6W7qJ8z6tmdHLNP-kmw1pWWBZCg8Zo9MiOY5zK1o8XcK-Vyny8VS7PI2qUlw=w4825-h2700",
@@ -50,7 +50,7 @@
         "hora": "8:00 am - 8:00 pm",
         "titulo": "Otro mundo posible: Narrativas del barrio Bajo Andes",
         "lugar": "Sala exposiciones",
-        "detalle": "",
+        "detalle": "abierto al publico",
         "id": 2020,
         "color": "bg-naranja",
         "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQYJZSa-ZBy3MP7XZ4BzvVBY818Pevgsg6W7qJ8z6tmdHLNP-kmw1pWWBZCg8Zo9MiOY5zK1o8XcK-Vyny8VS7PI2qUlw=w4825-h2700",
@@ -65,7 +65,7 @@
         "hora": "8:00 am - 8:00 pm",
         "titulo": "Otro mundo posible: Narrativas del barrio Bajo Andes",
         "lugar": "Sala exposiciones",
-        "detalle": "",
+        "detalle": "abierto al publico",
         "id": 2020,
         "color": "bg-naranja",
         "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQYJZSa-ZBy3MP7XZ4BzvVBY818Pevgsg6W7qJ8z6tmdHLNP-kmw1pWWBZCg8Zo9MiOY5zK1o8XcK-Vyny8VS7PI2qUlw=w4825-h2700",
@@ -80,7 +80,7 @@
         "hora": "8:00 am - 8:00 pm",
         "titulo": "Otro mundo posible: Narrativas del barrio Bajo Andes",
         "lugar": "Sala exposiciones",
-        "detalle": "",
+        "detalle": "abierto al publico",
         "id": 2020,
         "color": "bg-naranja",
         "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQYJZSa-ZBy3MP7XZ4BzvVBY818Pevgsg6W7qJ8z6tmdHLNP-kmw1pWWBZCg8Zo9MiOY5zK1o8XcK-Vyny8VS7PI2qUlw=w4825-h2700",
@@ -96,7 +96,7 @@
         "detalle": "",
         "id": 2020,
         "color": "bg-amarillo",
-        "imagen": "",
+        "imagen": "abierto al publico",
         "descripcion": "II Concierto de Temporada. Dirección: Leonardo Marulanda. Entrada libr"
       }
     ]
