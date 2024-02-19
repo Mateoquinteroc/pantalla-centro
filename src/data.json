@@ -19,7 +19,7 @@
         "mes": "Febrero",
         "hora": "8:00 a.m. a 8:00 p.m.",
         "titulo": "Otro mundo posible: Narrativas del barrio Bajo Andes",
-        "lugar": "Sala exposiciones",
+        "lugar": "Sala exposiciones principal (piso 4)",
         "detalle": "Abierto al publico",
         "id": 2020,
         "color": "bg-naranja",
@@ -34,7 +34,7 @@
         "mes": "Febrero",
         "hora": "8:00 a.m. a 8:00 p.m.",
         "titulo": "Otro mundo posible: Narrativas del barrio Bajo Andes",
-        "lugar": "Sala exposiciones",
+        "lugar": "Sala exposiciones principal (piso 4)",
         "detalle": "Abierto al publico",
         "id": 2020,
         "color": "bg-naranja",
@@ -49,7 +49,7 @@
         "mes": "Febrero",
         "hora": "8:00 a.m. a 8:00 p.m.",
         "titulo": "Otro mundo posible: Narrativas del barrio Bajo Andes",
-        "lugar": "Sala exposiciones",
+        "lugar": "Sala exposiciones principal (piso 4)",
         "detalle": "Abierto al publico",
         "id": 2020,
         "color": "bg-naranja",
@@ -64,7 +64,7 @@
         "mes": "Febrero",
         "hora": "8:00 a.m. a 8:00 p.m.",
         "titulo": "Otro mundo posible: Narrativas del barrio Bajo Andes",
-        "lugar": "Sala exposiciones",
+        "lugar": "Sala exposiciones principal (piso 4)",
         "detalle": "Abierto al publico",
         "id": 2020,
         "color": "bg-naranja",
@@ -91,13 +91,13 @@
         "fecha": "Viernes 23",
         "mes": "Febrero",
         "hora": "7:00 p.m.",
-        "titulo": "Concierto Orquesta Sinfónica de Caldas.",
+        "titulo": "Concierto Orquesta Sinfónica de Caldas",
         "lugar": "Óculo",
-        "detalle": "",
+        "detalle": "Abierto al publico",
         "id": 2020,
         "color": "bg-amarillo",
         "imagen": "Abierto al publico",
-        "descripcion": "II Concierto de Temporada. Dirección: Leonardo Marulanda. Entrada libr"
+        "descripcion": "II Concierto de Temporada. Dirección: Leonardo Marulanda."
       }
     ]
   }
