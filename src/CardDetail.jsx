@@ -58,8 +58,8 @@ const CardDetail = ({ eventos }) => {
             </figure>
             <p className='col-start-2 row-start-1 4xl:text-6xl text-2xl text-white font-bold font-open-sans 4xl:mt-[10%] ml-10  3xl:mt-1'>{Context.eventSelect.fecha}<br/>{Context.eventSelect.mes} </p>
             <p className='col-start-2 row-start-1 4xl:text-6xl text-2xl text-white font-medium font-open-sans m-0  ml-10 4xl:mt-[40%] 3xl:mt-[25%]'>{Context.eventSelect.hora}</p>
-            <p className='col-start-2 row-start-2 4xl:text-3xl text-2xl text-white font-bold font-open-sans ml-10 w-fit'>{Context.eventSelect.titulo}</p>
-            <p className='col-start-2 row-start-3 4xl:text-3xl text-2xl text-white font-bold font-open-sans ml-10'>{Context.eventSelect.lugar}</p>
+            <p className='col-start-2 row-start-2 4xl:text-4xl text-2xl text-white font-bold font-open-sans ml-10 w-fit'>{Context.eventSelect.titulo}</p>
+            <p className='col-start-2 row-start-3 4xl:text-4xl text-2xl text-white font-bold font-open-sans ml-10'>{Context.eventSelect.lugar}</p>
             <p className='col-start-2 row-start-4 4xl:text-5xl text-2xl text-white font-medium font-open-sans ml-10 w-[40%]'>{Context.eventSelect.detalle}</p>
             {/* <h2 className='4xl:text-7xl text-3xl text-white font-medium bg-black mt-[10%] pl-2 pr-5 inline-block w-fit h-fit font-sans m-3 '>{Context.eventSelect.tipo}</h2> */}
             <h2 className='absolute left-[50%] -inset-y-10 w-auto 4xl:h-[80px] h-10 4xl:text-7xl text-3xl  text-white font-bold font-open-sans m-3 mt-[5%]'>Descripción</h2>
