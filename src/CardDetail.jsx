@@ -69,7 +69,7 @@ const CardDetail = ({ eventos }) => {
             <aside className={`fixed mr-10 3xl:p-2 3xl:bottom-1 4xl:ml-5 4xl:p-10 flex flex-rows  gap-1 bottom-5  w-[90vw] rigth-0 overflow-x-scroll  scroll-pl-2 snap-start`}>
             {eventos.map((evento, index) => (
                 <div key={index} >
-                    <div className={`transform 4xl:hover:-translate-y-10 3xl:hover:-translate-y-5 static h-fit 4xl:h-300px p-5 rounded-sm  ${evento.color}`}
+                    <div className={`transform 4xl:hover:-translate-y-10 3xl:hover:-translate-y-5 static h-fit 4xl:h-fit 4xl:w-300px p-5 rounded-sm  ${evento.color}`}
                     onClick={() => selectorEvento(evento)}
                     >
                     <h2 className='4xl:text-4xl text-md text-white font-medium bg-black pl-3 pr-5 m-1 4xl:mb-5 mb-1 4xl:ml-8 ml-2 w-auto font-open-sans rounded-sm line-clamp-1'>{evento.tipo}</h2>
