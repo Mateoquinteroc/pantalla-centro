@@ -7,11 +7,11 @@
         "hora": "9:00 a.m.",
         "titulo": "Universidad en tu pueblo",
         "lugar": "Auditorio",
-        "detalle": "",
+        "detalle": "Evento privado",
         "id": 2020,
         "color": "bg-azul",
-        "imagen": "Evento privado",
-        "descripcion": "Fortalecer alianza universidad en tu pueblo"
+        "imagen": "",
+        "descripcion": "Primer comité técnico 2024 para el fortalecimiento de las alianzas para la ejecución de la iniciativa Universidad en tu pueblo."
       },
       {
         "tipo": "Exposición",
