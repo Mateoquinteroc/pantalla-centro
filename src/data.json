@@ -1,43 +1,30 @@
 {
     "Lunes": [
       {
-        "tipo": "Clase magistral",
-        "fecha": "Lunes 25 ",
-        "mes": "noviembre",
-        "hora": "8:00 am",
-        "titulo": "XVIII Festival Internacional de Clarinete",
+        "tipo": "Varios",
+        "fecha": "Lunes 19 ",
+        "mes": "Febreo",
+        "hora": "9:00 am",
+        "titulo": "Universidad en tu pueblo",
         "lugar": "Auditorio",
         "detalle": "",
         "id": 2020,
         "color": "bg-azul",
-        "imagen": "https://lh3.googleusercontent.com/u/1/drive-viewer/AEYmBYRrHMUsMIROMcG4YT8MhdXR4DTm-vv8NmAKd7ARrm3LuJRm_ht62igwqZCH-PtAVWQxKhTfCncUxNJrVDTQ6h1x2yt9fg=w1850-h971",
-        "descripcion": "Del 27 al 30 de noviembre de 2023 se llevará a cabo el Festival Internacional de Clarinete de la Universidad de Caldas en el Centro Cultural Universitario Rogelio Salmona. Este evento, coordinado por los profesores Hernán Darío Gutiérrez y Fredy Pinzón y tiene como objetivo ofrecer un espacio académico y cultural a los estudiantes de clarinete, a los estudiantes de los programas de música y a la comunidad en general, quienes podrán disfrutar de los conciertos programados."
+        "imagen": "",
+        "descripcion": "Fortalecer alianza universidad en tu pueblo"
       },
       {
-        "tipo": "Clase magistral",
-        "fecha": "Lunes 25 ",
-        "mes": "noviembre",
-        "hora": "9:00 am",
-        "titulo": "XVIII Festival Internacional de Clarinete",
-        "lugar": "Auditorio",
-        "detalle": "",
-        "id": 2020,
-        "color": "bg-amarillo",
-        "imagen": "https://lh3.googleusercontent.com/u/1/drive-viewer/AEYmBYQKFBc-XGZZrnNuj4Y4Zf3P414dvuYGOrNu3QmF9XlW3D1cAufNPamdNhLPyEqwLKDh638HCLkDSlXEYd8_0XxJauqX_Q=w1850-h971",
-        "descripcion": "Del 27 al 30 de noviembre de 2023 se llevará a cabo el Festival Internacional de Clarinete de la Universidad de Caldas en el Centro Cultural Universitario Rogelio Salmona. Este evento, coordinado por los profesores Hernán Darío Gutiérrez y Fredy Pinzón y tiene como objetivo ofrecer un espacio académico y cultural a los estudiantes de clarinete, a los estudiantes de los programas de música y a la comunidad en general, quienes podrán disfrutar de los conciertos programados."
-      },
-      {
-        "tipo": "Conversatorio",
-        "fecha": "Lunes 27 ",
-        "mes": "noviembre",
-        "hora": "2:30 pm",
-        "titulo": "XVIII Festival Internacional de Clarinete",
-        "lugar": "Auditorio",
+        "tipo": "Exposición",
+        "fecha": "Lunes 19",
+        "mes": "Febreo",
+        "hora": "8:00 am - 8:00 pm",
+        "titulo": "Otro mundo posible: Narrativas del barrio Bajo Andes",
+        "lugar": "Sala exposiciones",
         "detalle": "",
         "id": 2020,
         "color": "bg-naranja",
-        "imagen": "https://lh3.googleusercontent.com/pw/ABLVV84E5_5oBCzutx2J-2yhAGdCkMrkYju0wcBFeHpXFT393Z3xDk40pT6R7gqUu1_0-Py4KIIP2ZXPy1hP5b1WNbSx70CVVCt6imkk56chQDgGB7QM3FhQ8aBB2-XMyku0-WZ4ekX6N6_mAXGkuFwZ7ppaL3y2zbkY2SOZudzNNSm-oDRcFMQisp2NuVVQ3KgWyQ5EPNTrvxFnzIkIWLi7ieMM0mAAa5iT7ifJB0DkhMoQID-0sszEnc4QjrwyS4wJeMhzS2A6kXOEc4mw9ZdcsZVn0BZUQyLaIkoqYz3f90l4YMp7vJGYk5m4Yop8wpX3df8nTJ84P4OWL-98is4LJT4UFC-JjZxBRDE75NdMpMyDz0nGvOQj-lWmgswatMA_fZdEkHFbMTT234d1Oi2hDWAhp2kfBK-9xlXcSHMBTSutKyLmAoMOeL2GMJkdZyL6UQWL6PS-5Md8n7cMjqPmoCfwN8AYYPNY34IzBg5Kde3IdaBLyI7m9-hws1C5bsym0G857DXl3Ho8dqnTMFg5kwm5UO-iJosEKqUw_OK2RrYZuqfJOCA1yzGCQePU25E2oyRdha-q_LWXM-52gFhBz3-pY767iKbfsMZ9g6ukUR3GBQ0xfrkc4JRz-DMa0KzV84QIUjDhWKoUgp13tehi28qehn9tYt2JojmVF_yrqnk138QA-frBSCMBCa3C9uSoMFBsliJWiJT2F-4XBcXYLVGo_IrX_VBYtXH9w4AsDpimeRzLqLF9z2_ULRG09Ckt4VOkJyEB7n7Hmjtds8fBlSz0vBcqfvKO8TYiT0htvi7qLVMJDxlp44XXbChdwM9DqxK61_ENCjaI1d5KCivj4fA3K2-GrHggcMr7OcYT6qsIqXv34b0C0z6shv9FXhpc7ulKaejYlFKObVzy8IElZILShzyehUjuW2eLUDg1fj0LX2A7F_aHooduOrqLoQ=w744-h924-s-no-gm?authuser=1",
-        "descripcion": "Del 27 al 30 de noviembre de 2023 se llevará a cabo el Festival Internacional de Clarinete de la Universidad de Caldas en el Centro Cultural Universitario Rogelio Salmona. Este evento, coordinado por los profesores Hernán Darío Gutiérrez y Fredy Pinzón y tiene como objetivo ofrecer un espacio académico y cultural a los estudiantes de clarinete, a los estudiantes de los programas de música y a la comunidad en general, quienes podrán disfrutar de los conciertos programados."
+        "imagen": "",
+        "descripcion": "Una idea bonita de construir ‘identidad’ se rompe contra la pared de esterilla del barrio. Como una burbuja de jabón que estalla el niño jugando, sonriendo. Tropezar con la realidad y dejar atravesarse. Reconocerse ajeno y propio de un lugar que se arma y rearma en el collage, en la imagen, en las subidas y bajada de la montaña, de los callejones. En el tiempo que va y viene, y es la misma foto de antes, una espiral de rechazo y resistencia. En las conversaciones con y sin imágenes. En la amistad que florece chicañera, cómplice. En el volver y volver a llegar. Irse inundando de las voces de los otros y abriéndoles un espacio, hasta inundar una sala expositiva de narrativas diversas: de otros mundos posibles."
       }
     ],
     "Martes": [
