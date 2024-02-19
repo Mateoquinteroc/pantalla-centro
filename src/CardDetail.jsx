@@ -56,7 +56,7 @@ const CardDetail = ({ eventos }) => {
             <figure className='absolute col-start-1 row-span-4 ml-5 top-1/2 left-1 transform -translate-x-1 -translate-y-1/2'>
                 <img src={Context.eventSelect.imagen} className=" ml-5 w-[19vw]" />
             </figure>
-            <p className='col-start-2 row-start-1 4xl:text-6xl text-2xl text-white font-bold font-open-sans 4xl:mt-[10%] ml-10  3xl:mt-1'><br/> {Context.eventSelect.fecha}</p>
+            <p className='col-start-2 row-start-1 4xl:text-6xl text-2xl text-white font-bold font-open-sans 4xl:mt-[10%] ml-10  3xl:mt-1'>{Context.eventSelect.fecha}<br/>{Context.eventSelect.mes} </p>
             <p className='col-start-2 row-start-1 4xl:text-6xl text-2xl text-white font-medium font-open-sans m-0  ml-10 4xl:mt-[40%] 3xl:mt-[25%]'>{Context.eventSelect.hora}</p>
             <p className='col-start-2 row-start-2 4xl:text-5xl text-2xl text-white font-bold font-open-sans ml-10 w-fit'>{Context.eventSelect.titulo}</p>
             <p className='col-start-2 row-start-3 4xl:text-6xl text-2xl text-white font-bold font-open-sans ml-10'>{Context.eventSelect.lugar}</p>
