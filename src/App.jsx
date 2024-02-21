@@ -17,7 +17,6 @@ function App() {
     <CardSelectProvider >
       <div className="bg-cover  bg-[url('../public/img/fondo.jpg')] h-screen overflow-y-auto z-0">
       <PrincipalCard className="3 ml-[10%] mr-[10%] z-0"/>
-      <Recorrido3d/>
       <BotAI/>
       <FooterCard/>
       <CardDetail eventos={eventos} />

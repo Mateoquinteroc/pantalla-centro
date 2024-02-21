@@ -13,8 +13,8 @@ const FooterCard = () => {
 
     return (
         <div className="absolute bottom-0 right-0 w-full gap-x-[500px] ">
-            <button className={`absolute  h-fit w-fit 4xl:h-[100px] 4xl:w-[300px] bottom-[3vh] left-10 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full z-10 font-open-sans`} onClick={() => {Context.openCardBaseDetails()}}>Recorrido</button>
-            <button className="absolute h-fit w-fit 4xl:h-[100px] 4xl:w-[300px] bottom-[3vh] left-[10vw] bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full z-10 font-open-sans" onClick={() => {Context.openQr()}}>ChatBOT</button>
+            {/* <button className={`absolute  h-fit w-fit 4xl:h-[100px] 4xl:w-[300px] bottom-[3vh] left-10 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full z-10 font-open-sans`} onClick={() => {Context.openCardBaseDetails()}}>Recorrido</button> */}
+            <button className="absolute 4xl:h-[150px] 4xl:w-[400px] bottom-[1vh] left-10 bg-blue-500 hover:bg-blue-700 text-white text-4xl font-bold py-2 px-4 rounded-full z-10 font-open-sans" onClick={() => {Context.openQr()}}>ChatBOT</button>
             <figure className="absolute bottom-0 right-0  4xl:mt-0  3xl:w-[35%] 3xl:bottom-0">
             <img className="bottom-0 mt-[5vh] 3xl:mt-0  4xl:mt-0" src={logos}/>
 
