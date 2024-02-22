@@ -1,4 +1,4 @@
-import { createContext, useState, useContext } from "react"
+import { createContext, useState, useContext, useEffect } from "react"
 
  export const CardSelectContext = createContext() 
 
@@ -32,6 +32,7 @@ export const CardSelectProvider= ({children}) => {
 
     const [eventoSeleccionado, setEventoSeleccionado] = useState({})
     const [currentIndex, setCurrentIndex] = useState(null)
+
 
 
     return (

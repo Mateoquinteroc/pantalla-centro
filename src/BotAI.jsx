@@ -8,7 +8,7 @@ const BotAI = () => {
 
     return (
         <aside className={` ${Context.isQrOpen ? 'flex' : 'hidden' } fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-10 bg-slate-50 w-[80vw] h-[70vh] rounded-3xl z-10 overflow-x-hidden`}>
-            <XMarkIcon className='absolute right-0 h-10 w-10 text-black-500 m-4  w-10 3xl:w-7 3xl:m-2'
+            <XMarkIcon className='absolute right-0 h-10 w-10 text-black-500 m-4 4xl:w-10 4xl:m-5'
             onClick={() => Context.closeQr()}></XMarkIcon>
             <div className='grid grid-cols-2' > 
                 <figure>
