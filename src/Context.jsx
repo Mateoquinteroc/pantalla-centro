@@ -3,7 +3,7 @@ import { createContext, useState, useContext, useEffect } from "react"
  export const CardSelectContext = createContext() 
 
 export const CardSelectProvider= ({children}) => {
-    const Context = useContext(CardSelectContext)
+    // const Context = useContext(CardSelectContext)
 
     // Abrir / Cerrar
     const [isCardDetailOpen, setIsCardDetailOpen] = useState(false)
@@ -32,6 +32,20 @@ export const CardSelectProvider= ({children}) => {
 
     const [eventoSeleccionado, setEventoSeleccionado] = useState({})
     const [currentIndex, setCurrentIndex] = useState(null)
+
+    // cerrar ventanas despues de 1 minuto de inactividad 
+
+    useEffect (() => {
+        if (isQrOpen == true) {
+            setTimeout(() => {
+                closeQr()
+            },60000)
+        }else if (isCardDetailOpen == true){
+            setTimeout(() => {
+                closeCardDetail()
+            },60000)
+        } else return
+    }, [isQrOpen, isCardDetailOpen])
 
 
 
