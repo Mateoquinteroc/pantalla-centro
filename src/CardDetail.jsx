@@ -7,7 +7,7 @@ const CardDetail = ({ eventos }) => {
     const Context = useContext(CardSelectContext)
 
 
-    const colors = "bg-red-600/50 bg-yellow-400/50 bg-blue-700/50 bg-orange-600/50";
+    const colors = "bg-red-600/50 bg-yellow-400/50 bg-blue-700/50 bg-orange-600/50 bg-rose-400";
 
     
     const selectorEvento = (eventodetallado) => {
