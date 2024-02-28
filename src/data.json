@@ -45,19 +45,6 @@
       "tipo": "Taller",
       "fecha": "Martes 27",
       "mes": "Febrero",
-      "hora": "2:00 p.m. a 4:00 p.m.",
-      "titulo": "Proyecto archivo musical",
-      "lugar": "MakerSpace (piso 5)",
-      "detalle": "Evento privado",
-      "id": 2020,
-      "color": "bg-magenta",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "tipo": "Taller",
-      "fecha": "Martes 27",
-      "mes": "Febrero",
       "hora": "7:30 a.m.",
       "titulo": "Confluye: ¿Cómo fortalecer el Capital Conversacional?",
       "lugar": "Auditorio",
@@ -66,6 +53,19 @@
       "color": "bg-magenta",
       "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihaEDG4HbDVIF55QqmynLLN7vqZK6Mb7eEnXgqw1IW0CMbeaZH_kLqC9PjUDcnkIfbgsVWFZDqMBMElBzFCLpn58gtmZJA=w3860-h2160",
       "descripcion": "Confluye te invita a vivir una experiencia para comprender cómo fortalecer el Capital Conversacional en organizaciones, equipos de trabajo, juntas directivas y personas. Además, se hará la presentación de la herramienta de medición del Capital Conversacional como un indicador de cultura para que implementes este instrumento."
+    },
+    {
+      "tipo": "Taller",
+      "fecha": "Martes 27",
+      "mes": "Febrero",
+      "hora": "2:00 p.m. a 4:00 p.m.",
+      "titulo": "Proyecto archivo musical",
+      "lugar": "MakerSpace (piso 5)",
+      "detalle": "Evento privado",
+      "id": 2020,
+      "color": "bg-magenta",
+      "imagen": "",
+      "descripcion": ""
     },
     {
       "tipo": "Exposición",

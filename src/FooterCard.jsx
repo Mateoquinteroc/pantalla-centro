@@ -12,14 +12,14 @@ const FooterCard = () => {
 
 
     return (
-        <div className="absolute bottom-0  w-full gap-x-[500px] ">
-            <button className={`absolute  h-fit w-fit 4xl:h-[100px] 3xl:h-[60px] 2xl:h-[40px] 4xl:w-[300px] 4xl:bottom-[3vh] 3xl:bottom-4 left-10 bg-blue-500 hover:bg-blue-700 text-white text-4xl font-bold py-2 px-4 rounded-full z-10 font-open-sans`} onClick={() => {Context.openCardBaseDetails()}}>Recorrido</button>
-            <button className="absolute w-fit h-fit 4xl:h-[100px] 3xl:h-[60px] 4xl:w-[300px] left-[15vw] 4xl:bottom-[3vh] 3xl:bottom-4 bg-blue-500 hover:bg-blue-700 text-white text-4xl font-bold py-2 px-4 rounded-full z-10 font-open-sans " onClick={() => {Context.openQr()}}>ChatBOT</button>
-            <figure className="absolute   4xl:mt-0 r 3xl:w-[30%] 3xl:bottom-0 3xl:right-10 4xl:right-10 ">
-            <img className="bottom-0 mt-[5vh] 3xl:mt-0  4xl:mt-0 z-index-10 " src={logos}/>
+        <div className="absolute bottom-0  w-full  ">
+            <button className={`absolute  h-[60%] 4xl:w-[400px] translate-y-1/3 left-10 bg-blue-500 hover:bg-blue-700 text-white text-[100%] 4xl:text-5xl font-bold px-5 rounded-full z-10 font-open-sans `} onClick={() => {Context.openCardBaseDetails()}}>Recorrido</button>
+            <button className="absolute 4xl:w-[400px] h-[60%] translate-y-1/3 left-[15vw] bg-blue-500 hover:bg-blue-700 text-white text-[1.5vw] font-bold  px-5 rounded-full z-10 font-open-sans " onClick={() => {Context.openQr()}}>ChatBOT</button>
+            <figure className="absolute w-[40%] 4xl:w-[50vh] right-[1vh] mt-[1vh] 4xl:-right-0">
+            <img className="z-index-10 " src={logos}/>
 
            </figure>
-            <div className=" h-[10vh] bg-black/75 "></div>
+            <div className=" h-[10vh] 4xl:h-[8vh] bg-black/75 "></div>
         </div>
     )
 }
