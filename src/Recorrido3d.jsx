@@ -9,7 +9,7 @@ const Recorrido3d = (child) => {
             <XMarkIcon className='absolute right-0 h-10 w-10 3xl:w-7 3xl:m-2 text-black-500 m-4 '
             onClick={() => Context.closeCardBaseDetails()}></XMarkIcon>
             <div > 
-                <iframe className='absolute w-[70vw] h-[60vh] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2' title="CCU Sketchfab" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/b4f7daadedef42be93fe679073983dbe/embed?annotations_visible=1"> </iframe> 
+                <iframe className='absolute w-[70vw] h-[60vh] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2' title="CCUModeloRecorrido" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/c12e18b4daae45449f2670523190fa4b/embed"> </iframe> 
             </div>
         </aside>
     )

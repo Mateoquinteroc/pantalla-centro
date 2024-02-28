@@ -40,12 +40,16 @@ export const CardSelectProvider= ({children}) => {
             setTimeout(() => {
                 closeQr()
             },60000)
+        }else if (isCardBaseDetailsOpen == true) {
+            setTimeout(() => {
+                closeCardBaseDetails()
+            }, 60000)
         }else if (isCardDetailOpen == true){
             setTimeout(() => {
                 closeCardDetail()
             },60000)
         } else return
-    }, [isQrOpen, isCardDetailOpen])
+    }, [isQrOpen, isCardDetailOpen, isCardBaseDetailsOpen])
 
 
 
