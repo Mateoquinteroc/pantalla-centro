@@ -27,9 +27,9 @@ const CardDia = ({ categoria }) => {
 
 
   return (
-    <div className=' top-0 right-0 transform translate-y-1/4 '>
-        <h2 className=' 4xl:text-6xl text-3xl text-white font-bold bg-black pl-3 inline-block w-[15vw] mt-5 mb-3  pb-3 font-open-sans sticky 3xl:pb-1'>{categoria[0].fecha}</h2>
-        <div className='top-0 right-0  inline-block bg-black/70 w-[15vw] h-[30vh] p-1 mt-0 overflow-y-auto 3xl:h-[26vh]'>
+    <div className=' top-0 right-0 transform translate-y-[15%] 4xl:translate-y-1/4 '>
+        <h2 className=' 4xl:text-6xl text-3xl text-white font-bold bg-black pl-3 inline-block w-[15vw]  mt-5 mb-3  pb-3 font-open-sans sticky 3xl:pb-1'>{categoria[0].fecha}</h2>
+        <div className='top-0 right-0  inline-block bg-black/70 w-[15vw]  h-[30vh] p-1 mt-0 overflow-y-auto 3xl:h-[26vh]'>
     
       {categoria.map((evento, subIndex) => (
 
