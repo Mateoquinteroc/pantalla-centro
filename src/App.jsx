@@ -8,6 +8,7 @@ import PrincipalCard from './PrincipalCard';
 import FooterCard from './FooterCard';
 import Recorrido3d from './Recorrido3d';
 import BotAI from './BotAI';
+import touch from '../public/img/touch.png';
 
 function App() {
   const categorias = Object.values(Data);
@@ -16,6 +17,7 @@ function App() {
   return (
     <CardSelectProvider >
       <div className="bg-cover  bg-[url('../public/img/fondo.jpg')] h-screen  overflow-y-auto z-0 ">
+      <img src={`${touch}`} className='absolute right-10 h-[15vh] bottom-[10vh] animate-bounce'/>
       <PrincipalCard className=" ml-[10%] mr-[10%] z-0 "/>
       <Recorrido3d />
       <BotAI/>
