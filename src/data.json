@@ -1,170 +1,88 @@
 {
-    "Lunes": [
-      {
-        "tipo": "Exposición",
-        "fecha": "Lunes 4",
-        "mes": "Marzo",
-        "hora": "8:00 a.m. a 8:00 p.m.",
-        "titulo": "Otro mundo posible: Narrativas del barrio Bajo Andes",
-        "lugar": "Sala exposiciones principal (piso 4)",
-        "detalle": "Abierto al publico",
-        "id": 2020,
-        "color": "bg-naranja",
-        "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQYJZSa-ZBy3MP7XZ4BzvVBY818Pevgsg6W7qJ8z6tmdHLNP-kmw1pWWBZCg8Zo9MiOY5zK1o8XcK-Vyny8VS7PI2qUlw=w4825-h2700",
-        "descripcion": "Una idea bonita de construir ‘identidad’ se rompe contra la pared de esterilla del barrio. Como una burbuja de jabón que estalla el niño jugando, sonriendo. Tropezar con la realidad y dejar atravesarse. Reconocerse ajeno y propio de un lugar que se arma y rearma en el collage, en la imagen, en las subidas y bajada de la montaña, de los callejones. En el tiempo que va y viene, y es la misma foto de antes, una espiral de rechazo y resistencia. En las conversaciones con y sin imágenes. En la amistad que florece chicañera, cómplice. En el volver y volver a llegar. Irse inundando de las voces de los otros y abriéndoles un espacio, hasta inundar una sala expositiva de narrativas diversas: de otros mundos posibles."
-      },
-      {
-          "tipo": "Exposición",
-          "fecha": "Lunes 4",
-          "mes": "Marzo",
-          "hora": "8:00 a.m. a 8:00 p.m.",
-          "titulo": "Camello",
-          "lugar": "Sala exposiciones alterna (piso 1)",
-          "detalle": "Abierto al publico",
-          "id": 2020,
-          "color": "bg-naranja",
-          "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYxrjCc_ZqVmOUpjjgdvYZA3OvukICzcIGhEmvNyv9tjE3O_gkfU1IeRFcV2yUpYOueuOmhxNN2TKhWH53-52dskF7cfA=w3860-h2160",
-          "descripcion": "El camello es un trabajo duro y arduo, inagotable y esencial para el desarrollo de las actividades diarias del rebusque. Así fue como se llamó el compilado de las obras de esta exposición en donde, a partir del diseño, la ilustración y el arte urbano, el artista ssuarezboy reflexiona sobre los trabajos informales que acompañan la cotidianidad de los colombianos en medio del paisaje urbano. Camello es la primera muestra individual del artista manizaleño. En ella pone valor al trabajo informal y la vida popular de muchas familias colombianas empezando por la suya."
-        }
-    ],
-    "Martes": [
-        {
-          "tipo": "Exposición",
-          "fecha": "Martes 5",
-          "mes": "Marzo",
-          "hora": "8:00 a.m. a 8:00 p.m.",
-          "titulo": "Otro mundo posible: Narrativas del barrio Bajo Andes",
-          "lugar": "Sala exposiciones principal (piso 4)",
-          "detalle": "Abierto al publico",
-          "id": 2020,
-          "color": "bg-naranja",
-          "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQYJZSa-ZBy3MP7XZ4BzvVBY818Pevgsg6W7qJ8z6tmdHLNP-kmw1pWWBZCg8Zo9MiOY5zK1o8XcK-Vyny8VS7PI2qUlw=w4825-h2700",
-          "descripcion": "Una idea bonita de construir ‘identidad’ se rompe contra la pared de esterilla del barrio. Como una burbuja de jabón que estalla el niño jugando, sonriendo. Tropezar con la realidad y dejar atravesarse. Reconocerse ajeno y propio de un lugar que se arma y rearma en el collage, en la imagen, en las subidas y bajada de la montaña, de los callejones. En el tiempo que va y viene, y es la misma foto de antes, una espiral de rechazo y resistencia. En las conversaciones con y sin imágenes. En la amistad que florece chicañera, cómplice. En el volver y volver a llegar. Irse inundando de las voces de los otros y abriéndoles un espacio, hasta inundar una sala expositiva de narrativas diversas: de otros mundos posibles."
-        },
-        {
-          "tipo": "Exposición",
-          "fecha": "Martes 5",
-          "mes": "Marzo",
-          "hora": "8:00 a.m. a 8:00 p.m.",
-          "titulo": "Camello",
-          "lugar": "Sala exposiciones alterna (piso 1)",
-          "detalle": "Abierto al publico",
-          "id": 2020,
-          "color": "bg-naranja",
-          "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYxrjCc_ZqVmOUpjjgdvYZA3OvukICzcIGhEmvNyv9tjE3O_gkfU1IeRFcV2yUpYOueuOmhxNN2TKhWH53-52dskF7cfA=w3860-h2160",
-          "descripcion": "El camello es un trabajo duro y arduo, inagotable y esencial para el desarrollo de las actividades diarias del rebusque. Así fue como se llamó el compilado de las obras de esta exposición en donde, a partir del diseño, la ilustración y el arte urbano, el artista ssuarezboy reflexiona sobre los trabajos informales que acompañan la cotidianidad de los colombianos en medio del paisaje urbano. Camello es la primera muestra individual del artista manizaleño. En ella pone valor al trabajo informal y la vida popular de muchas familias colombianas empezando por la suya."
-        }
-    ],
-    "Miércoles": [
-        {
-        "tipo": "Varios",
-        "fecha": "Miércoles 6",
-        "mes": "Marzo",
-        "hora": "8:00 a.m. a 11:00 a.m.",
-        "titulo": "Encuentro con investigadores Fundación WWB Colombia",
-        "lugar": "Café Cultural",
-        "detalle": "Evento privado",
-        "id": 2020,
-        "color": "bg-azul",
-        "imagen": "",
-        "descripcion": ""
-        },
-        {
-        "tipo": "Exposición",
-        "fecha": "Miércoles 6",
-        "mes": "Marzo",
-        "hora": "8:00 a.m. a 8:00 p.m.",
-        "titulo": "Otro mundo posible: Narrativas del barrio Bajo Andes",
-        "lugar": "Sala exposiciones principal (piso 4)",
-        "detalle": "Abierto al publico",
-        "id": 2020,
-        "color": "bg-naranja",
-        "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQYJZSa-ZBy3MP7XZ4BzvVBY818Pevgsg6W7qJ8z6tmdHLNP-kmw1pWWBZCg8Zo9MiOY5zK1o8XcK-Vyny8VS7PI2qUlw=w4825-h2700",
-        "descripcion": "Una idea bonita de construir ‘identidad’ se rompe contra la pared de esterilla del barrio. Como una burbuja de jabón que estalla el niño jugando, sonriendo. Tropezar con la realidad y dejar atravesarse. Reconocerse ajeno y propio de un lugar que se arma y rearma en el collage, en la imagen, en las subidas y bajada de la montaña, de los callejones. En el tiempo que va y viene, y es la misma foto de antes, una espiral de rechazo y resistencia. En las conversaciones con y sin imágenes. En la amistad que florece chicañera, cómplice. En el volver y volver a llegar. Irse inundando de las voces de los otros y abriéndoles un espacio, hasta inundar una sala expositiva de narrativas diversas: de otros mundos posibles."
-      },
-      {
-        "tipo": "Exposición",
-        "fecha": "Miércoles 6",
-        "mes": "Marzo",
-        "hora": "8:00 a.m. a 8:00 p.m.",
-        "titulo": "Camello",
-        "lugar": "Sala exposiciones alterna (piso 1)",
-        "detalle": "Abierto al publico",
-        "id": 2020,
-        "color": "bg-naranja",
-        "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYxrjCc_ZqVmOUpjjgdvYZA3OvukICzcIGhEmvNyv9tjE3O_gkfU1IeRFcV2yUpYOueuOmhxNN2TKhWH53-52dskF7cfA=w3860-h2160",
-        "descripcion": "El camello es un trabajo duro y arduo, inagotable y esencial para el desarrollo de las actividades diarias del rebusque. Así fue como se llamó el compilado de las obras de esta exposición en donde, a partir del diseño, la ilustración y el arte urbano, el artista ssuarezboy reflexiona sobre los trabajos informales que acompañan la cotidianidad de los colombianos en medio del paisaje urbano. Camello es la primera muestra individual del artista manizaleño. En ella pone valor al trabajo informal y la vida popular de muchas familias colombianas empezando por la suya."
-      },
-      {
-        "tipo": "Jornadas académicas",
-        "fecha": "Miércoles 6",
-        "mes": "Marzo",
-        "hora": "5:00 p.m. a 7:00 p.m.",
-        "titulo": "Proyección película Cátedra de Género Universidad de Caldas",
-        "lugar": "Auditorio",
-        "detalle": "Evento privado",
-        "id": 2020,
-        "color": "bg-azuloscuro",
-        "imagen": "",
-        "descripcion": ""
-      }
-    ],
-    "Jueves": [
-      {
-        "tipo": "Exposición",
-        "fecha": "Jueves 7",
-        "mes": "Marzo",
-        "hora": "8:00 a.m. a 8:00 p.m.",
-        "titulo": "Camello",
-        "lugar": "Sala exposiciones alterna (piso 1)",
-        "detalle": "Abierto al publico",
-        "id": 2020,
-        "color": "bg-naranja",
-        "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYxrjCc_ZqVmOUpjjgdvYZA3OvukICzcIGhEmvNyv9tjE3O_gkfU1IeRFcV2yUpYOueuOmhxNN2TKhWH53-52dskF7cfA=w3860-h2160",
-        "descripcion": "El camello es un trabajo duro y arduo, inagotable y esencial para el desarrollo de las actividades diarias del rebusque. Así fue como se llamó el compilado de las obras de esta exposición en donde, a partir del diseño, la ilustración y el arte urbano, el artista ssuarezboy reflexiona sobre los trabajos informales que acompañan la cotidianidad de los colombianos en medio del paisaje urbano. Camello es la primera muestra individual del artista manizaleño. En ella pone valor al trabajo informal y la vida popular de muchas familias colombianas empezando por la suya."
-      },
-      {
-        "tipo": "Varios",
-        "fecha": "Jueves 7",
-        "mes": "Marzo",
-        "hora": "8:00 a.m. a 11:00 a.m.",
-        "titulo": "Encuentro con investigadores Fundación WWB Colombia",
-        "lugar": "Café Cultural",
-        "detalle": "Evento privado",
-        "id": 2020,
-        "color": "bg-azul",
-        "imagen": "",
-        "descripcion": ""
-      }
-        
-    ],
-    "Viernes": [
-      {
-        "tipo": "Jornadas académicas",
-        "fecha": "Viernes 8",
-        "mes": "Marzo",
-        "hora": "5:00 p.m. a 7:00 p.m.",
-        "titulo": "Proyección película Cátedra de Género Universidad de Caldas",
-        "lugar": "Auditorio",
-        "detalle": "Evento privado",
-        "id": 2020,
-        "color": "bg-azuloscuro",
-        "imagen": "",
-        "descripcion": ""
-      },
-      {
-      "tipo": "Exposición",
-      "fecha": "Viernes 8",
+  "Martes": [
+    {
+      "tipo": "Varios",
+      "fecha": "Martes 12",
       "mes": "Marzo",
-      "hora": "8:00 a.m. a 8:00 p.m.",
-      "titulo": "Camello",
-      "lugar": "Sala exposiciones alterna (piso 1)",
+      "hora": "2:00 p.m. a 4:00 p.m.",
+      "titulo": "Encuentro Universidad de Princeton",
+      "lugar": "Auditorio",
+      "detalle": "Evento privado",
+      "id": 2020,
+      "color": "bg-azul",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+          "tipo": "Taller",
+          "fecha": "Martes 12",
+          "mes": "Marzo",
+          "hora": "5:00 p.m. a 7:00 p.m.",
+          "titulo": "Proyecto archivo musical de Caldas y repositorio virtual de la biblioteca",
+          "lugar": "MakerSpace",
+          "detalle": "Evento privado",
+          "id": 2020,
+          "color": "bg-magenta",
+          "imagen": "",
+          "descripcion": ""
+        }
+  ],
+  "Miércoles": [
+      {
+          "tipo": "Varios",
+          "fecha": "Miércoles 13",
+          "mes": "Marzo",
+          "hora": "7:00 a.m.",
+          "titulo": "Encuentro entre el rector e investigadores de la Universidad de Caldas",
+          "lugar": "Café Cultural",
+          "detalle": "Evento privado",
+          "id": 2020,
+          "color": "bg-azul",
+          "imagen": "",
+          "descripcion": ""
+        },
+      {
+      "tipo": "Concierto",
+      "fecha": "Miércoles 13",
+      "mes": "Marzo",
+      "hora": "7:00 p.m.",
+      "titulo": "Concierto de Temporada Orquesta Sinfónica de Caldas",
+      "lugar": "Óculo",
       "detalle": "Abierto al publico",
       "id": 2020,
-      "color": "bg-naranja",
-      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYxrjCc_ZqVmOUpjjgdvYZA3OvukICzcIGhEmvNyv9tjE3O_gkfU1IeRFcV2yUpYOueuOmhxNN2TKhWH53-52dskF7cfA=w3860-h2160",
-      "descripcion": "El camello es un trabajo duro y arduo, inagotable y esencial para el desarrollo de las actividades diarias del rebusque. Así fue como se llamó el compilado de las obras de esta exposición en donde, a partir del diseño, la ilustración y el arte urbano, el artista ssuarezboy reflexiona sobre los trabajos informales que acompañan la cotidianidad de los colombianos en medio del paisaje urbano. Camello es la primera muestra individual del artista manizaleño. En ella pone valor al trabajo informal y la vida popular de muchas familias colombianas empezando por la suya."
+      "color": "bg-amarillo",
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpiha2GJYErTMrooUYgxwOY5YabYcnbBXfuoh5biN-jSt_diyon8ycqPOqtf3LGUTfMSqlS5M4VrDjj3les7HUrZ8iYhCAOw=w2559-h1270",
+      "descripcion": "Les invitamos a disfrutar de una noche para la música y el arte con el Concierto de Temporada a cargo de la Orquesta Sinfónica de Caldas con obras de Smetana, Ravel y Beethoven. Entrada libre. Los esperamos."
     }
-    ]
-  }
-  
+  ],
+  "Jueves": [
+      {
+            "tipo": "Jornadas académicas",
+            "fecha": "Jueves 14",
+            "mes": "Marzo",
+            "hora": "9:00 a.m. a 6:00 p.m.",
+            "titulo": "Ríos en movimiento",
+            "lugar": "Auditorio, Óculo, Vestíbulo (piso 4), MakerSpace",
+            "detalle": "Abierto al publico",
+            "id": 2020,
+            "color": "bg-azuloscuro",
+            "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
+            "descripcion": "El encuentro internacional Ríos en movimiento se organiza como una de las actividades de intercambio de conocimientos de los proyectos de investigación Riverhood y River Commons. El propósito de este encuentro es generar una escenario para que personas pertenecientes a movimientos sociales, comunidades, colectivos y las academias compartan sus experiencias, prácticas y conocimientos sobre defensa y cuidado de ríos e identifiquen espacios de solidaridad y cooperación. Durante el jueves 14 y viernes 15 de marzo se realizarán mesas de conversación para los participantes presenten sus experiencias, estudios y luchas sobre la defensa y cuidado de los ríos. Estos espacios son totalmente abiertos al público."
+          }
+  ],
+  "Viernes": [
+      {
+          "tipo": "Jornadas académicas",
+          "fecha": "Viernes 15",
+          "mes": "Marzo",
+          "hora": "9:00 a.m. a 6:00 p.m.",
+          "titulo": "Ríos en movimiento",
+          "lugar": "Auditorio, Óculo, Vestíbulo (piso 4), MakerSpace",
+          "detalle": "Abierto al publico",
+          "id": 2020,
+          "color": "bg-azuloscuro",
+          "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
+          "descripcion": "El encuentro internacional Ríos en movimiento se organiza como una de las actividades de intercambio de conocimientos de los proyectos de investigación Riverhood y River Commons. El propósito de este encuentro es generar una escenario para que personas pertenecientes a movimientos sociales, comunidades, colectivos y las academias compartan sus experiencias, prácticas y conocimientos sobre defensa y cuidado de ríos e identifiquen espacios de solidaridad y cooperación. Durante el jueves 14 y viernes 15 de marzo se realizarán mesas de conversación para los participantes presenten sus experiencias, estudios y luchas sobre la defensa y cuidado de los ríos. Estos espacios son totalmente abiertos al público."
+        }
+  ]
+}
