@@ -66,6 +66,19 @@
             "detalle": "Abierto al publico",
             "id": 2020,
             "color": "bg-azuloscuro",
+            "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZXT8Ld9yQeVgYJ7qF1eGQZNg85CjewPij3lX4IhtmrYz6-CTdSHS_MpfgUe28iCHXxrUJAKAK3THPl88tT089jbqDX=w4825-h2700",
+            "descripcion": "El encuentro internacional Ríos en movimiento se organiza como una de las actividades de intercambio de conocimientos de los proyectos de investigación Riverhood y River Commons. El propósito de este encuentro es generar una escenario para que personas pertenecientes a movimientos sociales, comunidades, colectivos y las academias compartan sus experiencias, prácticas y conocimientos sobre defensa y cuidado de ríos e identifiquen espacios de solidaridad y cooperación. Durante el jueves 14 y viernes 15 de marzo se realizarán mesas de conversación para los participantes presenten sus experiencias, estudios y luchas sobre la defensa y cuidado de los ríos. Estos espacios son totalmente abiertos al público."
+          },
+          {
+            "tipo": "Exposición",
+            "fecha": "Jueves 14",
+            "mes": "Marzo",
+            "hora": "9:00 a.m. a 6:00 p.m.",
+            "titulo": "Exposición Ríos en movimiento",
+            "lugar": "Sala de exposiciones principal (piso 4)",
+            "detalle": "Abierto al publico",
+            "id": 2020,
+            "color": "bg-naranja",
             "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
             "descripcion": "El encuentro internacional Ríos en movimiento se organiza como una de las actividades de intercambio de conocimientos de los proyectos de investigación Riverhood y River Commons. El propósito de este encuentro es generar una escenario para que personas pertenecientes a movimientos sociales, comunidades, colectivos y las academias compartan sus experiencias, prácticas y conocimientos sobre defensa y cuidado de ríos e identifiquen espacios de solidaridad y cooperación. Durante el jueves 14 y viernes 15 de marzo se realizarán mesas de conversación para los participantes presenten sus experiencias, estudios y luchas sobre la defensa y cuidado de los ríos. Estos espacios son totalmente abiertos al público."
           }
@@ -81,6 +94,19 @@
           "detalle": "Abierto al publico",
           "id": 2020,
           "color": "bg-azuloscuro",
+          "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZXT8Ld9yQeVgYJ7qF1eGQZNg85CjewPij3lX4IhtmrYz6-CTdSHS_MpfgUe28iCHXxrUJAKAK3THPl88tT089jbqDX=w4825-h2700",
+          "descripcion": "El encuentro internacional Ríos en movimiento se organiza como una de las actividades de intercambio de conocimientos de los proyectos de investigación Riverhood y River Commons. El propósito de este encuentro es generar una escenario para que personas pertenecientes a movimientos sociales, comunidades, colectivos y las academias compartan sus experiencias, prácticas y conocimientos sobre defensa y cuidado de ríos e identifiquen espacios de solidaridad y cooperación. Durante el jueves 14 y viernes 15 de marzo se realizarán mesas de conversación para los participantes presenten sus experiencias, estudios y luchas sobre la defensa y cuidado de los ríos. Estos espacios son totalmente abiertos al público."
+        },
+        {
+          "tipo": "Exposición",
+          "fecha": "Jueves 14",
+          "mes": "Marzo",
+          "hora": "9:00 a.m. a 6:00 p.m.",
+          "titulo": "Exposición Ríos en movimiento",
+          "lugar": "Sala de exposiciones principal (piso 4)",
+          "detalle": "Abierto al publico",
+          "id": 2020,
+          "color": "bg-naranja",
           "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
           "descripcion": "El encuentro internacional Ríos en movimiento se organiza como una de las actividades de intercambio de conocimientos de los proyectos de investigación Riverhood y River Commons. El propósito de este encuentro es generar una escenario para que personas pertenecientes a movimientos sociales, comunidades, colectivos y las academias compartan sus experiencias, prácticas y conocimientos sobre defensa y cuidado de ríos e identifiquen espacios de solidaridad y cooperación. Durante el jueves 14 y viernes 15 de marzo se realizarán mesas de conversación para los participantes presenten sus experiencias, estudios y luchas sobre la defensa y cuidado de los ríos. Estos espacios son totalmente abiertos al público."
         }
