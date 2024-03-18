@@ -1,11 +1,65 @@
 {
+  "Lunes": [
+    {
+      "tipo": "Jornadas académicas",
+      "fecha": "Lunes 18",
+      "mes": "Marzo",
+      "hora": "10:00 a.m. a 12:00 p.m.",
+      "titulo": "Proyecto de proyección: 17 Salón de estudiantes y egresados de Diseño visual",
+      "lugar": "Auditorio",
+      "detalle": "Evento privado",
+      "id": 2020,
+      "color": "bg-azul",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+          "tipo": "Taller",
+          "fecha": "Lunes 18",
+          "mes": "Marzo",
+          "hora": "3:00 p.m. a 6:00 p.m.",
+          "titulo": "Proceso de servicio social para la paz CEDAT",
+          "lugar": "Café Cultural",
+          "detalle": "Evento privado",
+          "id": 2020,
+          "color": "bg-magenta",
+          "imagen": "",
+          "descripcion": ""
+        },
+        {
+          "tipo": "Concierto",
+          "fecha": "Lunes 18",
+          "mes": "Marzo",
+          "hora": "7:00 p.m.",
+          "titulo": "Recital ensamble de cornos Universidad de Caldas",
+          "lugar": "Auditorio",
+          "detalle": "Abierto al publico",
+          "id": 2020,
+          "color": "bg-amarillo",
+          "imagen": "",
+          "descripcion": "Los invitamos al concierto del Ensamble de cornos de la Universidad de Caldas dirigido por el maestro Luis Fernando López y conformado por estudiantes del programa de música. En esta ocasión presentarán un recital de bandas sonoras de películas y músuica colombiana. Entrada libre."
+        },
+        {
+          "tipo": "Exposición",
+          "fecha": "Lunes 18",
+          "mes": "Marzo",
+          "hora": "8:00 a.m. a 8:00 p.m.",
+          "titulo": "Exposición Ríos en movimiento",
+          "lugar": "Sala de exposiciones principal (piso 4)",
+          "detalle": "Abierto al publico",
+          "id": 2020,
+          "color": "bg-naranja",
+          "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
+          "descripcion": "Los ríos del Magdalena Caldense aparecen en esta muestra como un escenario de incertidumbre y dolor en donde, probablemente, se encuentran cuerpos no identificados, testigos silenciosos de tragedias desconocidas. Esta exposición contiene piezas de la Galería de Memoria del Conflicto Armado del municipio de Samaná en las que se exploran conceptos como resiliencia, reconciliación, memoria y perdón para sensibilizar al espectador sobre la desaparición forzada. Las obras que aquí se presentan, son el resultado de investigaciones, testimonios y trabajos de campo para esclarecer lo sucedido durante la guerra e incluso en época de posconflicto. Esta muestra hace parte del encuentro internacional Ríos en Movimiento y espera crear conciencia sobre el impacto del conflicto armado interno colombiano en el Magdalena Caldense, su gente y sus ríos."
+        }
+  ],
     "Martes": [
       {
         "tipo": "Varios",
-        "fecha": "Martes 12",
+        "fecha": "Martes 19",
         "mes": "Marzo",
-        "hora": "2:00 p.m. a 4:00 p.m.",
-        "titulo": "Encuentro Universidad de Princeton",
+        "hora": "10:00 a.m.",
+        "titulo": "Entrega de reconocimiento por sus 80 años a CHEC Grupo EPM",
         "lugar": "Auditorio",
         "detalle": "Evento privado",
         "id": 2020,
@@ -25,91 +79,118 @@
             "color": "bg-magenta",
             "imagen": "",
             "descripcion": ""
-          }
-    ],
-    "Miércoles": [
-        {
-            "tipo": "Varios",
-            "fecha": "Miércoles 13",
-            "mes": "Marzo",
-            "hora": "7:00 a.m.",
-            "titulo": "Encuentro entre el rector e investigadores de la Universidad de Caldas",
-            "lugar": "Café Cultural",
-            "detalle": "Evento privado",
-            "id": 2020,
-            "color": "bg-azul",
-            "imagen": "",
-            "descripcion": ""
-          },
-        {
-        "tipo": "Concierto",
-        "fecha": "Miércoles 13",
-        "mes": "Marzo",
-        "hora": "7:00 p.m.",
-        "titulo": "Concierto de Temporada Orquesta Sinfónica de Caldas",
-        "lugar": "Óculo",
-        "detalle": "Abierto al publico",
-        "id": 2020,
-        "color": "bg-amarillo",
-        "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpiha2GJYErTMrooUYgxwOY5YabYcnbBXfuoh5biN-jSt_diyon8ycqPOqtf3LGUTfMSqlS5M4VrDjj3les7HUrZ8iYhCAOw=w2559-h1270",
-        "descripcion": "Les invitamos a disfrutar de una noche para la música y el arte con el Concierto de Temporada a cargo de la Orquesta Sinfónica de Caldas con obras de Smetana, Ravel y Beethoven. Entrada libre. Los esperamos."
-      }
-    ],
-    "Jueves": [
-        {
-              "tipo": "Jornadas académicas",
-              "fecha": "Jueves 14",
-              "mes": "Marzo",
-              "hora": "9:00 a.m. a 6:00 p.m.",
-              "titulo": "Ríos en movimiento",
-              "lugar": "Auditorio, Óculo, Vestíbulo (piso 4), MakerSpace",
-              "detalle": "Abierto al publico",
-              "id": 2020,
-              "color": "bg-azuloscuro",
-              "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZXT8Ld9yQeVgYJ7qF1eGQZNg85CjewPij3lX4IhtmrYz6-CTdSHS_MpfgUe28iCHXxrUJAKAK3THPl88tT089jbqDX=w4825-h2700",
-              "descripcion": "El encuentro internacional Ríos en movimiento se organiza como una de las actividades de intercambio de conocimientos de los proyectos de investigación Riverhood y River Commons. El propósito de este encuentro es generar una escenario para que personas pertenecientes a movimientos sociales, comunidades, colectivos y las academias compartan sus experiencias, prácticas y conocimientos sobre defensa y cuidado de ríos e identifiquen espacios de solidaridad y cooperación. Durante el jueves 14 y viernes 15 de marzo se realizarán mesas de conversación para los participantes presenten sus experiencias, estudios y luchas sobre la defensa y cuidado de los ríos. Estos espacios son totalmente abiertos al público."
-            },
-            {
-              "tipo": "Exposición",
-              "fecha": "Jueves 14",
-              "mes": "Marzo",
-              "hora": "9:00 a.m. a 6:00 p.m.",
-              "titulo": "Exposición Ríos en movimiento",
-              "lugar": "Sala de exposiciones principal (piso 4)",
-              "detalle": "Abierto al publico",
-              "id": 2020,
-              "color": "bg-naranja",
-              "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
-              "descripcion": "El encuentro internacional Ríos en movimiento se organiza como una de las actividades de intercambio de conocimientos de los proyectos de investigación Riverhood y River Commons. El propósito de este encuentro es generar una escenario para que personas pertenecientes a movimientos sociales, comunidades, colectivos y las academias compartan sus experiencias, prácticas y conocimientos sobre defensa y cuidado de ríos e identifiquen espacios de solidaridad y cooperación. Durante el jueves 14 y viernes 15 de marzo se realizarán mesas de conversación para los participantes presenten sus experiencias, estudios y luchas sobre la defensa y cuidado de los ríos. Estos espacios son totalmente abiertos al público."
-            }
-    ],
-    "Viernes": [
-        {
-            "tipo": "Jornadas académicas",
-            "fecha": "Viernes 15",
-            "mes": "Marzo",
-            "hora": "9:00 a.m. a 6:00 p.m.",
-            "titulo": "Ríos en movimiento",
-            "lugar": "Auditorio, Óculo, Vestíbulo (piso 4), MakerSpace",
-            "detalle": "Abierto al publico",
-            "id": 2020,
-            "color": "bg-azuloscuro",
-            "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZXT8Ld9yQeVgYJ7qF1eGQZNg85CjewPij3lX4IhtmrYz6-CTdSHS_MpfgUe28iCHXxrUJAKAK3THPl88tT089jbqDX=w4825-h2700",
-            "descripcion": "El encuentro internacional Ríos en movimiento se organiza como una de las actividades de intercambio de conocimientos de los proyectos de investigación Riverhood y River Commons. El propósito de este encuentro es generar una escenario para que personas pertenecientes a movimientos sociales, comunidades, colectivos y las academias compartan sus experiencias, prácticas y conocimientos sobre defensa y cuidado de ríos e identifiquen espacios de solidaridad y cooperación. Durante el jueves 14 y viernes 15 de marzo se realizarán mesas de conversación para los participantes presenten sus experiencias, estudios y luchas sobre la defensa y cuidado de los ríos. Estos espacios son totalmente abiertos al público."
           },
           {
             "tipo": "Exposición",
-            "fecha": "Jueves 14",
+            "fecha": "Martes 19",
             "mes": "Marzo",
-            "hora": "9:00 a.m. a 6:00 p.m.",
+            "hora": "8:00 a.m. a 8:00 p.m.",
             "titulo": "Exposición Ríos en movimiento",
             "lugar": "Sala de exposiciones principal (piso 4)",
             "detalle": "Abierto al publico",
             "id": 2020,
             "color": "bg-naranja",
             "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
-            "descripcion": "El encuentro internacional Ríos en movimiento se organiza como una de las actividades de intercambio de conocimientos de los proyectos de investigación Riverhood y River Commons. El propósito de este encuentro es generar una escenario para que personas pertenecientes a movimientos sociales, comunidades, colectivos y las academias compartan sus experiencias, prácticas y conocimientos sobre defensa y cuidado de ríos e identifiquen espacios de solidaridad y cooperación. Durante el jueves 14 y viernes 15 de marzo se realizarán mesas de conversación para los participantes presenten sus experiencias, estudios y luchas sobre la defensa y cuidado de los ríos. Estos espacios son totalmente abiertos al público."
+            "descripcion": "Los ríos del Magdalena Caldense aparecen en esta muestra como un escenario de incertidumbre y dolor en donde, probablemente, se encuentran cuerpos no identificados, testigos silenciosos de tragedias desconocidas. Esta exposición contiene piezas de la Galería de Memoria del Conflicto Armado del municipio de Samaná en las que se exploran conceptos como resiliencia, reconciliación, memoria y perdón para sensibilizar al espectador sobre la desaparición forzada. Las obras que aquí se presentan, son el resultado de investigaciones, testimonios y trabajos de campo para esclarecer lo sucedido durante la guerra e incluso en época de posconflicto. Esta muestra hace parte del encuentro internacional Ríos en Movimiento y espera crear conciencia sobre el impacto del conflicto armado interno colombiano en el Magdalena Caldense, su gente y sus ríos."
           }
+    ],
+    "Miércoles": [
+        {
+            "tipo": "Varios",
+            "fecha": "Miércoles 20",
+            "mes": "Marzo",
+            "hora": "2:00 p.m.",
+            "titulo": "Ceremonia entrega de apoyos a formación doctoral",
+            "lugar": "Auditorio",
+            "detalle": "Evento privado",
+            "id": 2020,
+            "color": "bg-azul",
+            "imagen": "",
+            "descripcion": "La Vicerrectoría de Investigaciones y Posgrados invita a la ceremonia de entrega de apoyos a formación doctoral para docentes ocasionales primer corte."
+          },
+          {
+            "tipo": "Exposición",
+            "fecha": "Miércoles 20",
+            "mes": "Marzo",
+            "hora": "8:00 a.m. a 8:00 p.m.",
+            "titulo": "Exposición Ríos en movimiento",
+            "lugar": "Sala de exposiciones principal (piso 4)",
+            "detalle": "Abierto al publico",
+            "id": 2020,
+            "color": "bg-naranja",
+            "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
+            "descripcion": "Los ríos del Magdalena Caldense aparecen en esta muestra como un escenario de incertidumbre y dolor en donde, probablemente, se encuentran cuerpos no identificados, testigos silenciosos de tragedias desconocidas. Esta exposición contiene piezas de la Galería de Memoria del Conflicto Armado del municipio de Samaná en las que se exploran conceptos como resiliencia, reconciliación, memoria y perdón para sensibilizar al espectador sobre la desaparición forzada. Las obras que aquí se presentan, son el resultado de investigaciones, testimonios y trabajos de campo para esclarecer lo sucedido durante la guerra e incluso en época de posconflicto. Esta muestra hace parte del encuentro internacional Ríos en Movimiento y espera crear conciencia sobre el impacto del conflicto armado interno colombiano en el Magdalena Caldense, su gente y sus ríos."
+          }
+    ],
+    "Jueves": [
+        {
+              "tipo": "Jornadas académicas",
+              "fecha": "Jueves 21",
+              "mes": "Marzo",
+              "hora": "9:00 a.m. a 12:00 p.m.",
+              "titulo": "Procesos de enseñanza: aprendizaje en la modalida virtual",
+              "lugar": "Auditorio",
+              "detalle": "Abierto al publico",
+              "id": 2020,
+              "color": "bg-azuloscuro",
+              "imagen": "",
+              "descripcion": "UCaldas Virtual en su propósito de continuar fortaleciendo procesos institucionales relacionados con la formación virtual invita a este evento en el que los invitados realizarán presentaciones de las temáticas relacioandas y se tendrá un panel que permitirá reflexionar sobre los aspectos que la Universidad de Caldas debe apropiar en la estrategia de formación virtual."
+            },
+            {
+              "tipo": "Concierto",
+              "fecha": "Jueves 21",
+              "mes": "Marzo",
+              "hora": "7:00 p.m.",
+              "titulo": "Cátedra de trompeta Universidad de Caldas",
+              "lugar": "Auditorio",
+              "detalle": "Abierto al publico",
+              "id": 2020,
+              "color": "bg-amarillo",
+              "imagen": "",
+              "descripcion": "Los invitamos al concierto de la Cátedra de trompeta de la Universidad de Caldas. Entrada libre."
+            },
+            {
+              "tipo": "Exposición",
+              "fecha": "Jueves 21",
+              "mes": "Marzo",
+              "hora": "8:00 a.m. a 8:00 p.m.",
+              "titulo": "Exposición Ríos en movimiento",
+              "lugar": "Sala de exposiciones principal (piso 4)",
+              "detalle": "Abierto al publico",
+              "id": 2020,
+              "color": "bg-naranja",
+              "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
+              "descripcion": "Los ríos del Magdalena Caldense aparecen en esta muestra como un escenario de incertidumbre y dolor en donde, probablemente, se encuentran cuerpos no identificados, testigos silenciosos de tragedias desconocidas. Esta exposición contiene piezas de la Galería de Memoria del Conflicto Armado del municipio de Samaná en las que se exploran conceptos como resiliencia, reconciliación, memoria y perdón para sensibilizar al espectador sobre la desaparición forzada. Las obras que aquí se presentan, son el resultado de investigaciones, testimonios y trabajos de campo para esclarecer lo sucedido durante la guerra e incluso en época de posconflicto. Esta muestra hace parte del encuentro internacional Ríos en Movimiento y espera crear conciencia sobre el impacto del conflicto armado interno colombiano en el Magdalena Caldense, su gente y sus ríos."
+            }
+    ],
+    "Viernes": [
+        {
+            "tipo": "Taller",
+            "fecha": "Viernes 22",
+            "mes": "Marzo",
+            "hora": "9:00 a.m. a 11:00 a.m.",
+            "titulo": "Colombia potencIA digital: para hacer de Caldas un territorio potencIA digital",
+            "lugar": "Auditorio",
+            "detalle": "Abierto al publico",
+            "id": 2020,
+            "color": "bg-magenta",
+            "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZXT8Ld9yQeVgYJ7qF1eGQZNg85CjewPij3lX4IhtmrYz6-CTdSHS_MpfgUe28iCHXxrUJAKAK3THPl88tT089jbqDX=w4825-h2700",
+            "descripcion": "PotencIA digital es la estrategia del Minsiterio de TIC diseñada para fomentar el desarollo de ecosistemas digitales competitivos e innovadores en todo el país. Les invitamos a este primer taller de co-creación que permitará explorar los desafíos, apuestas, tendencias, actores y áreas a priorizar para identificar los avances y necesidades clave para el desarrollo de innovación a partir de la inteligencia artificial."
+          },
+          {
+            "tipo": "Exposición",
+            "fecha": "Viernes 22",
+            "mes": "Marzo",
+            "hora": "8:00 a.m. a 8:00 p.m.",
+            "titulo": "Exposición Ríos en movimiento",
+            "lugar": "Sala de exposiciones principal (piso 4)",
+            "detalle": "Abierto al publico",
+            "id": 2020,
+            "color": "bg-naranja",
+            "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
+            "descripcion": "Los ríos del Magdalena Caldense aparecen en esta muestra como un escenario de incertidumbre y dolor en donde, probablemente, se encuentran cuerpos no identificados, testigos silenciosos de tragedias desconocidas. Esta exposición contiene piezas de la Galería de Memoria del Conflicto Armado del municipio de Samaná en las que se exploran conceptos como resiliencia, reconciliación, memoria y perdón para sensibilizar al espectador sobre la desaparición forzada. Las obras que aquí se presentan, son el resultado de investigaciones, testimonios y trabajos de campo para esclarecer lo sucedido durante la guerra e incluso en época de posconflicto. Esta muestra hace parte del encuentro internacional Ríos en Movimiento y espera crear conciencia sobre el impacto del conflicto armado interno colombiano en el Magdalena Caldense, su gente y sus ríos."
+          }
+         
     ]
   }
   
