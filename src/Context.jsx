@@ -4,6 +4,7 @@ import { createContext, useState, useContext, useEffect } from "react"
 
 export const CardSelectProvider= ({children}) => {
     // const Context = useContext(CardSelectContext)
+    const [data, setData] = useState(null)
 
     // Abrir / Cerrar
     const [isCardDetailOpen, setIsCardDetailOpen] = useState(false)
@@ -55,6 +56,8 @@ export const CardSelectProvider= ({children}) => {
 
     return (
         <CardSelectContext.Provider value={{
+            data,
+            setData,
             isCardDetailOpen,
             setIsCardDetailOpen,
             openCardDetail,
