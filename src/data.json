@@ -1,48 +1,9 @@
 {
   "Lunes": [
-    {
-      "tipo": "Jornadas académicas",
-      "fecha": "Lunes 18",
-      "mes": "Marzo",
-      "hora": "10:00 a.m. a 12:00 p.m.",
-      "titulo": "Proyecto de proyección: 17 Salón de estudiantes y egresados de Diseño visual",
-      "lugar": "Auditorio",
-      "detalle": "Evento privado",
-      "id": 2020,
-      "color": "bg-azul",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-          "tipo": "Taller",
-          "fecha": "Lunes 18",
-          "mes": "Marzo",
-          "hora": "3:00 p.m. a 6:00 p.m.",
-          "titulo": "Proceso de servicio social para la paz CEDAT",
-          "lugar": "Café Cultural",
-          "detalle": "Evento privado",
-          "id": 2020,
-          "color": "bg-magenta",
-          "imagen": "",
-          "descripcion": ""
-        },
-        {
-          "tipo": "Concierto",
-          "fecha": "Lunes 18",
-          "mes": "Marzo",
-          "hora": "7:00 p.m.",
-          "titulo": "Recital ensamble de cornos Universidad de Caldas",
-          "lugar": "Auditorio",
-          "detalle": "Abierto al publico",
-          "id": 2020,
-          "color": "bg-amarillo",
-          "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYR8_QyJDfWn2yyu5ZqluUne7nmOiBrfIc4_ZY80irKzHof3EYygzccxVJAseO6cT9DOzTQ9zPPIFRhSfe2p1Sli8Cq=w2559-h1270",
-          "descripcion": "Los invitamos al concierto del Ensamble de cornos de la Universidad de Caldas dirigido por el maestro Luis Fernando López y conformado por estudiantes del programa de música. En esta ocasión presentarán un recital de bandas sonoras de películas y músuica colombiana. Entrada libre."
-        },
         {
           "tipo": "Exposición",
-          "fecha": "Lunes 18",
-          "mes": "Marzo",
+          "fecha": "Lunes 1",
+          "mes": "Abril",
           "hora": "8:00 a.m. a 8:00 p.m.",
           "titulo": "Exposición Ríos en movimiento",
           "lugar": "Sala de exposiciones principal (piso 4)",
@@ -55,22 +16,22 @@
   ],
     "Martes": [
       {
-        "tipo": "Varios",
-        "fecha": "Martes 19",
-        "mes": "Marzo",
-        "hora": "10:00 a.m.",
-        "titulo": "Entrega de reconocimiento por sus 80 años a CHEC Grupo EPM",
+        "tipo": "Concierto",
+        "fecha": "Martes 2",
+        "mes": "Abril",
+        "hora": "7:00 p.m.",
+        "titulo": "Recital de trompeta y piano",
         "lugar": "Auditorio",
-        "detalle": "Evento privado",
+        "detalle": "Abierto al público",
         "id": 2020,
-        "color": "bg-azul",
-        "imagen": "",
-        "descripcion": ""
+        "color": "bg-amarillo",
+        "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZSlTn74es5BqRd3pdtGo8zV1lbXivub7w7CMrKhwKxAsCuQtnDUwA1_bsyKJYqhGF5QvubMwskXBaLUiFIvU5BCK0vXw=w2559-h1270-v0",
+        "descripcion": "Los invitamos al concierto de la Cátedra de trompeta y piano de la Universidad de Caldas. La Temporada de Conciertos es organizada por el Departamento de Música, el Centro Cultural Universitario Rogelio Salmona, el Centro Cultural del Banco de la República y el Centro Colombo Americano. Entrada libre."
       },
           {
             "tipo": "Exposición",
-            "fecha": "Martes 19",
-            "mes": "Marzo",
+            "fecha": "Martes 2",
+            "mes": "Abril",
             "hora": "8:00 a.m. a 8:00 p.m.",
             "titulo": "Exposición Ríos en movimiento",
             "lugar": "Sala de exposiciones principal (piso 4)",
@@ -82,23 +43,10 @@
           }
     ],
     "Miércoles": [
-        {
-            "tipo": "Varios",
-            "fecha": "Miércoles 20",
-            "mes": "Marzo",
-            "hora": "2:00 p.m.",
-            "titulo": "Ceremonia entrega de apoyos a formación doctoral",
-            "lugar": "Auditorio",
-            "detalle": "Evento privado",
-            "id": 2020,
-            "color": "bg-azul",
-            "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYndmONEKpkjC6QlqNL1SVKCfhXiQLJ3V-qXhG20hk-NS_Eh-OUFPpw1SSo1zwECHWbQLoSI7d_Ko0e7KAYA8d9h6BP=w2559-h1270",
-            "descripcion": "La Vicerrectoría de Investigaciones y Posgrados invita a la ceremonia de entrega de apoyos a formación doctoral para docentes ocasionales primer corte."
-          },
           {
             "tipo": "Exposición",
-            "fecha": "Miércoles 20",
-            "mes": "Marzo",
+            "fecha": "Miércoles 3",
+            "mes": "Abril",
             "hora": "8:00 a.m. a 8:00 p.m.",
             "titulo": "Exposición Ríos en movimiento",
             "lugar": "Sala de exposiciones principal (piso 4)",
@@ -110,36 +58,10 @@
           }
     ],
     "Jueves": [
-        {
-              "tipo": "Jornadas académicas",
-              "fecha": "Jueves 21",
-              "mes": "Marzo",
-              "hora": "9:00 a.m. a 12:00 p.m.",
-              "titulo": "Procesos de enseñanza: aprendizaje en la modalida virtual",
-              "lugar": "Auditorio",
-              "detalle": "Abierto al publico",
-              "id": 2020,
-              "color": "bg-azuloscuro",
-              "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbfqeQt1FHIj3ZOPRKFeodiFd0qYAAH-ga_jeG7fw4GwysyAcvgDWUNRyFKKCRLUdhutaagCTCBNytsc8eNe6bC85lq=w2559-h1270",
-              "descripcion": "UCaldas Virtual en su propósito de continuar fortaleciendo procesos institucionales relacionados con la formación virtual invita a este evento en el que los invitados realizarán presentaciones de las temáticas relacioandas y se tendrá un panel que permitirá reflexionar sobre los aspectos que la Universidad de Caldas debe apropiar en la estrategia de formación virtual."
-            },
-            {
-              "tipo": "Concierto",
-              "fecha": "Jueves 21",
-              "mes": "Marzo",
-              "hora": "7:00 p.m.",
-              "titulo": "Cátedra de trompeta Universidad de Caldas",
-              "lugar": "Auditorio",
-              "detalle": "Abierto al publico",
-              "id": 2020,
-              "color": "bg-amarillo",
-              "imagen": "",
-              "descripcion": "Los invitamos al concierto de la Cátedra de trompeta de la Universidad de Caldas. Entrada libre."
-            },
             {
               "tipo": "Exposición",
-              "fecha": "Jueves 21",
-              "mes": "Marzo",
+              "fecha": "Jueves 4",
+              "mes": "Abril",
               "hora": "8:00 a.m. a 8:00 p.m.",
               "titulo": "Exposición Ríos en movimiento",
               "lugar": "Sala de exposiciones principal (piso 4)",
@@ -151,23 +73,10 @@
             }
     ],
     "Viernes": [
-        {
-            "tipo": "Taller",
-            "fecha": "Viernes 22",
-            "mes": "Marzo",
-            "hora": "9:00 a.m. a 11:00 a.m.",
-            "titulo": "Colombia potencIA digital: para hacer de Caldas un territorio potencIA digital",
-            "lugar": "Auditorio",
-            "detalle": "Abierto al publico",
-            "id": 2020,
-            "color": "bg-magenta",
-            "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihalJVwkeVZ9Lef_jWCVI5m3E8ZUNx2VMGH-UKGDO1DGs3L5B7xp-kCH8Xmv8iwTsvRNOV89UDtfvzSgdIeTMr9ebQBp=w2559-h1270",
-            "descripcion": "PotencIA digital es la estrategia del Minsiterio de TIC diseñada para fomentar el desarollo de ecosistemas digitales competitivos e innovadores en todo el país. Les invitamos a este primer taller de co-creación que permitará explorar los desafíos, apuestas, tendencias, actores y áreas a priorizar para identificar los avances y necesidades clave para el desarrollo de innovación a partir de la inteligencia artificial."
-          },
           {
             "tipo": "Exposición",
-            "fecha": "Viernes 22",
-            "mes": "Marzo",
+            "fecha": "Viernes 5",
+            "mes": "Abril",
             "hora": "8:00 a.m. a 8:00 p.m.",
             "titulo": "Exposición Ríos en movimiento",
             "lugar": "Sala de exposiciones principal (piso 4)",
