@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect} from 'react';
 import './App.css';
 import CardDia from './CardDia';
 import Data from './data.json';
@@ -10,9 +10,12 @@ import Recorrido3d from './Recorrido3d';
 import BotAI from './BotAI';
 import touch from '../public/img/touch.png';
 
+
 function App() {
+  
   const categorias = Object.values(Data);
   const eventos = Object.values(Data).flatMap(categoria => categoria);
+  console.log (Data)
 
   return (
     <CardSelectProvider >
