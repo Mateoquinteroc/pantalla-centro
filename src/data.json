@@ -1,92 +1,157 @@
 {
   "Lunes": [
-        {
-          "tipo": "Exposición",
-          "fecha": "Lunes 1",
-          "mes": "Abril",
-          "hora": "8:00 a.m. a 8:00 p.m.",
-          "titulo": "Exposición Ríos en movimiento",
-          "lugar": "Sala de exposiciones principal (piso 4)",
-          "detalle": "Abierto al publico",
-          "id": 2020,
-          "color": "bg-naranja",
-          "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
-          "descripcion": "Los ríos del Magdalena Caldense aparecen en esta muestra como un escenario de incertidumbre y dolor en donde, probablemente, se encuentran cuerpos no identificados, testigos silenciosos de tragedias desconocidas. Esta exposición contiene piezas de la Galería de Memoria del Conflicto Armado del municipio de Samaná en las que se exploran conceptos como resiliencia, reconciliación, memoria y perdón para sensibilizar al espectador sobre la desaparición forzada. Las obras que aquí se presentan, son el resultado de investigaciones, testimonios y trabajos de campo para esclarecer lo sucedido durante la guerra e incluso en época de posconflicto. Esta muestra hace parte del encuentro internacional Ríos en Movimiento y espera crear conciencia sobre el impacto del conflicto armado interno colombiano en el Magdalena Caldense, su gente y sus ríos."
-        }
-  ],
-    "Martes": [
       {
-        "tipo": "Concierto",
-        "fecha": "Martes 2",
+        "tipo": "Exposición",
+        "fecha": "Lunes 8",
         "mes": "Abril",
-        "hora": "7:00 p.m.",
-        "titulo": "Recital de trompeta y piano",
-        "lugar": "Auditorio",
-        "detalle": "Abierto al público",
+        "hora": "8:00 a.m. a 8:00 p.m.",
+        "titulo": "Exposición Ríos en movimiento",
+        "lugar": "Sala de exposiciones principal (piso 4)",
+        "detalle": "Abierto al publico",
         "id": 2020,
-        "color": "bg-amarillo",
-        "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZSlTn74es5BqRd3pdtGo8zV1lbXivub7w7CMrKhwKxAsCuQtnDUwA1_bsyKJYqhGF5QvubMwskXBaLUiFIvU5BCK0vXw=w2559-h1270-v0",
-        "descripcion": "Los invitamos al concierto de la Cátedra de trompeta y piano de la Universidad de Caldas. La Temporada de Conciertos es organizada por el Departamento de Música, el Centro Cultural Universitario Rogelio Salmona, el Centro Cultural del Banco de la República y el Centro Colombo Americano. Entrada libre."
-      },
-          {
-            "tipo": "Exposición",
-            "fecha": "Martes 2",
-            "mes": "Abril",
-            "hora": "8:00 a.m. a 8:00 p.m.",
-            "titulo": "Exposición Ríos en movimiento",
-            "lugar": "Sala de exposiciones principal (piso 4)",
-            "detalle": "Abierto al publico",
-            "id": 2020,
-            "color": "bg-naranja",
-            "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
-            "descripcion": "Los ríos del Magdalena Caldense aparecen en esta muestra como un escenario de incertidumbre y dolor en donde, probablemente, se encuentran cuerpos no identificados, testigos silenciosos de tragedias desconocidas. Esta exposición contiene piezas de la Galería de Memoria del Conflicto Armado del municipio de Samaná en las que se exploran conceptos como resiliencia, reconciliación, memoria y perdón para sensibilizar al espectador sobre la desaparición forzada. Las obras que aquí se presentan, son el resultado de investigaciones, testimonios y trabajos de campo para esclarecer lo sucedido durante la guerra e incluso en época de posconflicto. Esta muestra hace parte del encuentro internacional Ríos en Movimiento y espera crear conciencia sobre el impacto del conflicto armado interno colombiano en el Magdalena Caldense, su gente y sus ríos."
-          }
-    ],
-    "Miércoles": [
-          {
-            "tipo": "Exposición",
-            "fecha": "Miércoles 3",
-            "mes": "Abril",
-            "hora": "8:00 a.m. a 8:00 p.m.",
-            "titulo": "Exposición Ríos en movimiento",
-            "lugar": "Sala de exposiciones principal (piso 4)",
-            "detalle": "Abierto al publico",
-            "id": 2020,
-            "color": "bg-naranja",
-            "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
-            "descripcion": "Los ríos del Magdalena Caldense aparecen en esta muestra como un escenario de incertidumbre y dolor en donde, probablemente, se encuentran cuerpos no identificados, testigos silenciosos de tragedias desconocidas. Esta exposición contiene piezas de la Galería de Memoria del Conflicto Armado del municipio de Samaná en las que se exploran conceptos como resiliencia, reconciliación, memoria y perdón para sensibilizar al espectador sobre la desaparición forzada. Las obras que aquí se presentan, son el resultado de investigaciones, testimonios y trabajos de campo para esclarecer lo sucedido durante la guerra e incluso en época de posconflicto. Esta muestra hace parte del encuentro internacional Ríos en Movimiento y espera crear conciencia sobre el impacto del conflicto armado interno colombiano en el Magdalena Caldense, su gente y sus ríos."
-          }
-    ],
-    "Jueves": [
-            {
-              "tipo": "Exposición",
-              "fecha": "Jueves 4",
-              "mes": "Abril",
-              "hora": "8:00 a.m. a 8:00 p.m.",
-              "titulo": "Exposición Ríos en movimiento",
-              "lugar": "Sala de exposiciones principal (piso 4)",
-              "detalle": "Abierto al publico",
-              "id": 2020,
-              "color": "bg-naranja",
-              "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
-              "descripcion": "Los ríos del Magdalena Caldense aparecen en esta muestra como un escenario de incertidumbre y dolor en donde, probablemente, se encuentran cuerpos no identificados, testigos silenciosos de tragedias desconocidas. Esta exposición contiene piezas de la Galería de Memoria del Conflicto Armado del municipio de Samaná en las que se exploran conceptos como resiliencia, reconciliación, memoria y perdón para sensibilizar al espectador sobre la desaparición forzada. Las obras que aquí se presentan, son el resultado de investigaciones, testimonios y trabajos de campo para esclarecer lo sucedido durante la guerra e incluso en época de posconflicto. Esta muestra hace parte del encuentro internacional Ríos en Movimiento y espera crear conciencia sobre el impacto del conflicto armado interno colombiano en el Magdalena Caldense, su gente y sus ríos."
-            }
-    ],
-    "Viernes": [
-          {
-            "tipo": "Exposición",
-            "fecha": "Viernes 5",
-            "mes": "Abril",
-            "hora": "8:00 a.m. a 8:00 p.m.",
-            "titulo": "Exposición Ríos en movimiento",
-            "lugar": "Sala de exposiciones principal (piso 4)",
-            "detalle": "Abierto al publico",
-            "id": 2020,
-            "color": "bg-naranja",
-            "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
-            "descripcion": "Los ríos del Magdalena Caldense aparecen en esta muestra como un escenario de incertidumbre y dolor en donde, probablemente, se encuentran cuerpos no identificados, testigos silenciosos de tragedias desconocidas. Esta exposición contiene piezas de la Galería de Memoria del Conflicto Armado del municipio de Samaná en las que se exploran conceptos como resiliencia, reconciliación, memoria y perdón para sensibilizar al espectador sobre la desaparición forzada. Las obras que aquí se presentan, son el resultado de investigaciones, testimonios y trabajos de campo para esclarecer lo sucedido durante la guerra e incluso en época de posconflicto. Esta muestra hace parte del encuentro internacional Ríos en Movimiento y espera crear conciencia sobre el impacto del conflicto armado interno colombiano en el Magdalena Caldense, su gente y sus ríos."
-          }
-         
-    ]
-  }
+        "color": "bg-naranja",
+        "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
+        "descripcion": "Los ríos del Magdalena Caldense aparecen en esta muestra como un escenario de incertidumbre y dolor en donde, probablemente, se encuentran cuerpos no identificados, testigos silenciosos de tragedias desconocidas. Esta exposición contiene piezas de la Galería de Memoria del Conflicto Armado del municipio de Samaná en las que se exploran conceptos como resiliencia, reconciliación, memoria y perdón para sensibilizar al espectador sobre la desaparición forzada. Las obras que aquí se presentan, son el resultado de investigaciones, testimonios y trabajos de campo para esclarecer lo sucedido durante la guerra e incluso en época de posconflicto. Esta muestra hace parte del encuentro internacional Ríos en Movimiento y espera crear conciencia sobre el impacto del conflicto armado interno colombiano en el Magdalena Caldense, su gente y sus ríos."
+      }
+],
+  "Martes": [
+    {
+      "tipo": "Concierto",
+      "fecha": "Martes 9",
+      "mes": "Abril",
+      "hora": "7:00 p.m.",
+      "titulo": "Recital Cátedra de flautas",
+      "lugar": "Auditorio",
+      "detalle": "Abierto al público",
+      "id": 2020,
+      "color": "bg-amarillo",
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihaMcBCy1_oTyPyLaLcfj_uFPqOHZhAxwyE5PzWHhd5-hE_5tC9COwHZps04o5noYHvBdE2Rk0PhTSRamc3nzlu1wf0oucRB33U=w2559-h1270-v0",
+      "descripcion": "Los invitamos al concierto de la Cátedra de flautas de la Universidad de Caldas. La Temporada de Conciertos es organizada por el Departamento de Música, el Centro Cultural Universitario Rogelio Salmona, el Centro Cultural del Banco de la República y el Centro Colombo Americano. Entrada libre."
+    },
+    {
+      "tipo": "Exposición",
+      "fecha": "Martes 9",
+      "mes": "Abril",
+      "hora": "8:00 a.m. a 8:00 p.m.",
+      "titulo": "Exposición Ríos en movimiento",
+      "lugar": "Sala de exposiciones principal (piso 4)",
+      "detalle": "Abierto al publico",
+      "id": 2020,
+      "color": "bg-naranja",
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
+      "descripcion": "Los ríos del Magdalena Caldense aparecen en esta muestra como un escenario de incertidumbre y dolor en donde, probablemente, se encuentran cuerpos no identificados, testigos silenciosos de tragedias desconocidas. Esta exposición contiene piezas de la Galería de Memoria del Conflicto Armado del municipio de Samaná en las que se exploran conceptos como resiliencia, reconciliación, memoria y perdón para sensibilizar al espectador sobre la desaparición forzada. Las obras que aquí se presentan, son el resultado de investigaciones, testimonios y trabajos de campo para esclarecer lo sucedido durante la guerra e incluso en época de posconflicto. Esta muestra hace parte del encuentro internacional Ríos en Movimiento y espera crear conciencia sobre el impacto del conflicto armado interno colombiano en el Magdalena Caldense, su gente y sus ríos."
+    }
+  ],
+  "Miércoles":[
+    {
+      "tipo": "Varios",
+      "fecha": "Miércoles 10",
+      "mes": "Abril",
+      "hora": "10:00 a.m. a 12:00 p.m.",
+      "titulo": "Reapertura sala de escritores caldenses",
+      "lugar": "Óculo, segundo piso",
+      "detalle": "Abierto al publico",
+      "id": 2020,
+      "color": "bg-azul",
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihaOBWHnrbTs5iWRkAmkcK_gj8LRFDKeUGJQxOLK-b9NjpUkAVwYZVMxBBBSBvRlWK3elRRo2cJZS0h3cIQzwopLE70z89uTbBo=w2559-h1270-v0",
+      "descripcion": "Los invitamos a la reapertura de la Sala de escritores caldenses que se encuentra ubicada en el Centro de Bibliotecas. Con este evento se abre la agenda de conversatorios, visitas guiadas y talleres de promoción de la lectura para la difusión de la colección bibliográfica de los autores de nuestro departamento."
+    },
+    {
+      "tipo": "Concierto",
+      "fecha": "Miércoles 10",
+      "mes": "Abril",
+      "hora": "7:00 p.m.",
+      "titulo": "Concierto de temporada",
+      "lugar": "Auditorio",
+      "detalle": "Abierto al público",
+      "id": 2020,
+      "color": "bg-amarillo",
+      "imagen": "",
+      "descripcion": "La Temporada de Conciertos es organizada por el Departamento de Música, el Centro Cultural Universitario Rogelio Salmona, el Centro Cultural del Banco de la República y el Centro Colombo Americano. Entrada libre."
+    },
+    {
+      "tipo": "Exposición",
+      "fecha": "Miércoles 10",
+      "mes": "Abril",
+      "hora": "8:00 a.m. a 8:00 p.m.",
+      "titulo": "Exposición Ríos en movimiento",
+      "lugar": "Sala de exposiciones principal (piso 4)",
+      "detalle": "Abierto al publico",
+      "id": 2020,
+      "color": "bg-naranja",
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
+      "descripcion": "Los ríos del Magdalena Caldense aparecen en esta muestra como un escenario de incertidumbre y dolor en donde, probablemente, se encuentran cuerpos no identificados, testigos silenciosos de tragedias desconocidas. Esta exposición contiene piezas de la Galería de Memoria del Conflicto Armado del municipio de Samaná en las que se exploran conceptos como resiliencia, reconciliación, memoria y perdón para sensibilizar al espectador sobre la desaparición forzada. Las obras que aquí se presentan, son el resultado de investigaciones, testimonios y trabajos de campo para esclarecer lo sucedido durante la guerra e incluso en época de posconflicto. Esta muestra hace parte del encuentro internacional Ríos en Movimiento y espera crear conciencia sobre el impacto del conflicto armado interno colombiano en el Magdalena Caldense, su gente y sus ríos."
+    }
+],
+  "Jueves": [
+    {
+      "tipo": "Exposición",
+      "fecha": "Jueves 11",
+      "mes": "Abril",
+      "hora": "8:00 a.m. a 8:00 p.m.",
+      "titulo": "Exposición Ríos en movimiento",
+      "lugar": "Sala de exposiciones principal (piso 4)",
+      "detalle": "Abierto al publico",
+      "id": 2020,
+      "color": "bg-naranja",
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
+      "descripcion": "Los ríos del Magdalena Caldense aparecen en esta muestra como un escenario de incertidumbre y dolor en donde, probablemente, se encuentran cuerpos no identificados, testigos silenciosos de tragedias desconocidas. Esta exposición contiene piezas de la Galería de Memoria del Conflicto Armado del municipio de Samaná en las que se exploran conceptos como resiliencia, reconciliación, memoria y perdón para sensibilizar al espectador sobre la desaparición forzada. Las obras que aquí se presentan, son el resultado de investigaciones, testimonios y trabajos de campo para esclarecer lo sucedido durante la guerra e incluso en época de posconflicto. Esta muestra hace parte del encuentro internacional Ríos en Movimiento y espera crear conciencia sobre el impacto del conflicto armado interno colombiano en el Magdalena Caldense, su gente y sus ríos."
+    }
+],
+  "Viernes": [
+    {
+      "tipo": "Foro",
+      "fecha": "Viernes 12",
+      "mes": "Abril",
+      "hora": "10:00 a.m. a 12:00 p.m.",
+      "titulo": "Ciclo de conversaciones: Mujeres y experiencias que transforman realidades",
+      "lugar": "Auditorio",
+      "detalle": "Abierto al publico",
+      "id": 2020,
+      "color": "bg-rojo",
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYmDUdK6lb-ZZ4kjFcmTkvGAs9_3_RkccNC5wBf9pSAsHknYOyg0n4sNBp0Dv29G2zA1-BZSshmucR-whsENou8TLn6s6meHFw=w2559-h1270-v0",
+      "descripcion": "Este es un espacio para hablar sobre las transformaciones reales que muchas mujeres están liderando en sus comunidades. En el primer ciclo, destacaremos las voces y experiencias en los territorios rurales alrededor de temas como el acceso a la educación, la participación política, el emprendimiento, el cuidado y la salud con base en indicadores estadísticos. Entrada libre."
+    },
+    {
+      "tipo": "Jornadas académicas",
+      "fecha": "Viernes 12",
+      "mes": "Abril",
+      "hora": "2:00 p.m. a 4:00 p.m.",
+      "titulo": "Apertura del diplomado Fundamentos y aplicaciones de las técnicas cromatográficas en investigación científica",
+      "lugar": "Auditorio",
+      "detalle": "Abierto al publico",
+      "id": 2020,
+      "color": "bg-azuloscuro",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "tipo": "Concierto",
+      "fecha": "Viernes 12",
+      "mes": "Abril",
+      "hora": "7:00 p.m.",
+      "titulo": "Concierto Orquesta Sinfónica de Caldas",
+      "lugar": "Óculo",
+      "detalle": "Abierto al público",
+      "id": 2020,
+      "color": "bg-amarillo",
+      "imagen": "",
+      "descripcion": "Entrada libre."
+    },
+    {
+      "tipo": "Exposición",
+      "fecha": "Viernes 12",
+      "mes": "Abril",
+      "hora": "8:00 a.m. a 8:00 p.m.",
+      "titulo": "Exposición Ríos en movimiento",
+      "lugar": "Sala de exposiciones principal (piso 4)",
+      "detalle": "Abierto al publico",
+      "id": 2020,
+      "color": "bg-naranja",
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbTHG4K_3AJ0MV7H0nWIIuhmzJfRyqi2sVnpeRCOiCgzRIVGKpv_Ibly3zpkn6nq8j8oY8HJxXyWMFXxRN04M1jPO8Z=w3860-h2160",
+      "descripcion": "Los ríos del Magdalena Caldense aparecen en esta muestra como un escenario de incertidumbre y dolor en donde, probablemente, se encuentran cuerpos no identificados, testigos silenciosos de tragedias desconocidas. Esta exposición contiene piezas de la Galería de Memoria del Conflicto Armado del municipio de Samaná en las que se exploran conceptos como resiliencia, reconciliación, memoria y perdón para sensibilizar al espectador sobre la desaparición forzada. Las obras que aquí se presentan, son el resultado de investigaciones, testimonios y trabajos de campo para esclarecer lo sucedido durante la guerra e incluso en época de posconflicto. Esta muestra hace parte del encuentro internacional Ríos en Movimiento y espera crear conciencia sobre el impacto del conflicto armado interno colombiano en el Magdalena Caldense, su gente y sus ríos."
+    }
+      
+]
+}
   
