@@ -168,6 +168,19 @@
     "descripcion": "El Encuentro regional se hace como parte del Acuerdo de participación entre el gobierno de Colombia y el Ejército de Liberación Nacional para aportar al modelo y plan de participación de la sociedad en la construcción de la paz y las transformaciones en Colombia. Los esperamos."
   },
   {
+    "tipo": "Concierto",
+    "fecha": "Sábado 20",
+    "mes": "Abril",
+    "hora": "7:00 p.m.",
+    "titulo": "Concierto Banda Sinfónica de la Universidad de Caldas",
+    "lugar": "Auditorio",
+    "detalle": "Abierto al público",
+    "id": 2020,
+    "color": "bg-amarillo",
+    "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpiharo6o3T38zkWNAi_2cfub1N6n5qLbdYfhJSONp45pHOJwZUarwnutKXY3pHrD-p5bFGRJtpDxJ-pt9F4f767FmI4iI1MveB0w=w2559-h1270-v0",
+    "descripcion": "Los invitamos al concierto a cargo de la Banda Sinfónica de Caldas con la participación de la Cátedra de Dirección de la Universidad de Caldas y estudiantes invitados de la Banda del Instituto Neira. Entrada libre"
+  },
+  {
     "tipo": "Exposición",
     "fecha": "Sábado 20",
     "mes": "Abril",
