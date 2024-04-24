@@ -16,7 +16,8 @@ export default {
         azuloscuro: '#2d3b73ff',
         naranja: '#ec6e25ff',
         rojo: '#cd1532ff',
-        magenta: '#e73944'
+        magenta: '#e73944',
+        violeta: '#472d52'
       },
       fontFamily: {
         'open-sans' : ['Open Sans', 'sans-serif']

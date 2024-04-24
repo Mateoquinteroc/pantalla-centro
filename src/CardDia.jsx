@@ -10,7 +10,8 @@ const CardDia = ({ categoria }) => {
     'bg-rojo',
     'bg-naranja',
     'bg-magenta',
-    'bg-azuloscuro'
+    'bg-azuloscuro',
+    'bg-violeta'
   ];
   
   const Context = useContext(CardSelectContext)
