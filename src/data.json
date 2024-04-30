@@ -1,103 +1,102 @@
 {
-  "Lunes": [
-      {
-        "tipo": "Exposición",
-        "fecha": "Lunes 22",
-        "mes": "Abril",
-        "hora": "8:00 a.m. a 8:00 p.m.",
-        "titulo": "Exposición Ríos en movimiento",
-        "lugar": "Sala de exposiciones principal (piso 4)",
-        "detalle": "Abierto al público",
-        "id": 2020,
-        "color": "bg-naranja",
-        "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZEmaAO6IvkynoTBMVbESpPGt_nQJb-ByCQxCfKOIixbfEu6S610oln1WoEIT2YsN9-5WneVGeGjiyFfzL67v9QVc-8Za8VDg=w3860-h2160-v0",
-        "descripcion": "Los ríos del Magdalena Caldense aparecen en esta muestra como un escenario de incertidumbre y dolor en donde, probablemente, se encuentran cuerpos no identificados, testigos silenciosos de tragedias desconocidas. Esta exposición contiene piezas de la Galería de Memoria del Conflicto Armado del municipio de Samaná en las que se exploran conceptos como resiliencia, reconciliación, memoria y perdón para sensibilizar al espectador sobre la desaparición forzada. Las obras que aquí se presentan, son el resultado de investigaciones, testimonios y trabajos de campo para esclarecer lo sucedido durante la guerra e incluso en época de posconflicto. Esta muestra hace parte del encuentro internacional Ríos en Movimiento y espera crear conciencia sobre el impacto del conflicto armado interno colombiano en el Magdalena Caldense, su gente y sus ríos."
-      }
-],
   "Martes": [
     {
       "tipo": "Taller",
-      "fecha": "Martes 23",
+      "fecha": "Martes 30",
       "mes": "Abril",
-      "hora": "5:30 p.m. a 7:30 p.m",
-      "titulo": "Charla pesticidas y polinizadores: el frágil equilibro de nuestros ecosistemas",
-      "lugar": "Café Cultural",
+      "hora": "9:00 a.m. a 1:00 p.m",
+      "titulo": "Foro Cultura y Territorio: conversando sobre el plan de desarrollo",
+      "lugar": "Auditorio",
       "detalle": "Abierto al público",
       "id": 2020,
       "color": "bg-magenta",
-      "imagen": "https://lh3.googleusercontent.com/u/1/drive-viewer/AKGpihblOqrpWyfvWsZbrQN9Yoxtz3n3t5lscN2DiDZHuMQcZ8oMn4coZd-RBIAai35_Q_I9VO-nYpkex4j2Sf7CcTk20AXJ_pK3LI4=w3840-h2160-v0",
-      "descripcion": "Los invitamos a este espacio para hablar sobre los pesticidas y su impacto en las abejas que será orientado por el biólogo Diego Riaño, especialista en abejorros del proyecto BeeP. Los temas a abordar son la mitigación de riesgos enfocada en polinizadores y por qué las abejas no generan resistencia a los plaguicidas."
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYmJVTJ4CeZOw4oTFiYtWi-cZ-VZhxERwi73N7WRYkFv9qsaCreaQaLch0FHAntsayxk73zktToXNV-_ES_jZ5BMnWXlzQaOQ=w3860-h2160-rw-v1",
+      "descripcion": "Este es un espacio para alzar tu voz y contribuir a la transformación de tu tierra, tu hogar. Conversa, discute, explora, mapea, escucha junto a líderes locales, gestores y vecinxs comprometidxs con el presente y futuro de nuestro territorio. Es vital que hablemos de la planificación territorial, es esencial que confrontemos el nuevo plan de desarrollo municipal."
     },
     {
       "tipo": "Concierto",
       "fecha": "Martes 23",
       "mes": "Abril",
       "hora": "7:00 p.m.",
-      "titulo": "Concierto Recital Cátedra de Percusión",
+      "titulo": "Concierto Jazz",
       "lugar": "Auditorio",
       "detalle": "Abierto al público",
       "id": 2020,
       "color": "bg-amarillo",
-      "imagen": "https://lh3.googleusercontent.com/u/1/drive-viewer/AKGpihaJVtP46Q-ILoSr21L8zBApSZ3HTgJiXzT7LayV0_0uB5SpT6whKDWs6u0NyVpFx65uNONNynXte-0NYXYNBjDVF0iak-aAxQ=w3840-h2160-v0",
-      "descripcion": "Los invitamos al Recital Cátedra de Percusión de la Universidad de Caldas dirigida por los profesores Uriel Marín y Sebastián Trejos. La Temporada de Conciertos es organizada por el Departamento de Música, el Centro Cultural Universitario Rogelio Salmona, el Centro Cultural del Banco de la República y el Centro Colombo Americano. Entrada libre."
-    }
-  ],
-  "Miércoles":[
-    {
-      "tipo": "Jornadas académicas",
-      "fecha": "Miércoles 24",
-      "mes": "Abril",
-      "hora": "8:00 a.m. a 1:00 p.m.",
-      "titulo": "Encuentro de profesoras y profesores de filosofía de educación secundaria en Manizales y Caldas",
-      "lugar": "Sala de exposiciones principal (piso 4)",
-      "detalle": "Abierto al público",
-      "id": 2020,
-      "color": "bg-naranja",
-      "imagen": "https://lh3.googleusercontent.com/u/1/drive-viewer/AKGpihZuVyRXxH7S8CtgZbc4U2AcxCbDrNzCydBYClRB56-rDUKrVazct1WkanzZy5QoXUqbXENjDiZlxXGdkXoIeqHK8rO0mMAH_w=w3840-h2160-v0",
-      "descripcion": "El encuentro de profesoras y profesores de filosofía de educación secundaria en Manizales y Caldas busca activar la conversación sobre el trabajo filosófico de las mujeres en diferentes momentos de la historia así como las visiones para a formular posibles colaboraciones que permitan aportar al fortalecimiento de la formación filosófica en los colegios de la región."
+      "imagen": "",
+      "descripcion": "Los invitamos al concierto de jazz a cargo de Amalgama Jazz y Sinegos. Dirigido por el maestro Rubén Darío Alarcón. Entrada libre."
     }
   ],
   "Jueves": [
     {
-      "tipo": "Jornadas académicas",
-      "fecha": "Jueves 25",
-      "mes": "Abril",
-      "hora": "8:00 a.m. a 1:00 p.m.",
-      "titulo": "Encuentro de profesoras y profesores de filosofía de educación secundaria en Manizales y Caldas",
-      "lugar": "Sala de exposiciones principal (piso 4)",
+      "tipo": "Exposición",
+      "fecha": "Jueves 2",
+      "mes": "Mayo",
+      "hora": "5:00 p.m.",
+      "titulo": "Apertura exposición Sabedoras ambientales: la paz sabe a cocina Montemariana",
+      "lugar": "Sala de exposición alterna (piso 1)",
       "detalle": "Abierto al público",
       "id": 2020,
       "color": "bg-naranja",
-      "imagen": "https://lh3.googleusercontent.com/u/1/drive-viewer/AKGpihZuVyRXxH7S8CtgZbc4U2AcxCbDrNzCydBYClRB56-rDUKrVazct1WkanzZy5QoXUqbXENjDiZlxXGdkXoIeqHK8rO0mMAH_w=w3840-h2160-v0",
-      "descripcion": "El encuentro de profesoras y profesores de filosofía de educación secundaria en Manizales y Caldas busca activar la conversación sobre el trabajo filosófico de las mujeres en diferentes momentos de la historia así como las visiones para a formular posibles colaboraciones que permitan aportar al fortalecimiento de la formación filosófica en los colegios de la región."
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZPAXAAO9poe-7koN-9rL2PDPzy9PIbXw3gbcBoKuq-T8aJJ2aAAeW6feowXufJbXHZpWEVpocy4FNLFVU7GfzstinfX2F9o5Y=w2559-h1270-rw-v1",
+      "descripcion": "La exposición hace un recorrido por el entramado de la cocina Montemariana, la cual se ha mantenido después del conflicto como una propuesta de paz. Destaca el papel crucial de las mujeres en este entorno, al sacar el trabajo doméstico de los confines privados para convertirlo en un acto público y protagonista. A través de sus conocimientos, las mujeres han transformado la cocina en un epicentro de unión para una comunidad fragmentada por las secuelas del conflicto armado."
+    },
+    {
+      "tipo": "Concierto",
+      "fecha": "Jueves 2",
+      "mes": "Mayo",
+      "hora": "7:00 p.m.",
+      "titulo": "Recital De saxofón y piano",
+      "lugar": "Auditorio",
+      "detalle": "Abierto al público",
+      "id": 2020,
+      "color": "bg-amarillo",
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZEmaAO6IvkynoTBMVbESpPGt_nQJb-ByCQxCfKOIixbfEu6S610oln1WoEIT2YsN9-5WneVGeGjiyFfzL67v9QVc-8Za8VDg=w3860-h2160-v0",
+      "descripcion": "Los invitamos al Recital de saxofón y piano de la Universidad de Caldas. Este evento hace parte de la Temporada de Conciertos liderada por el Departamento de Música de la Universidad de Caldas en colaboración con el Centro Cultural Universitario Rogelio Salmona, el Centro Cultural del Banco de la República y el Centro Colombo Americano. Entrada libre."
     }
 ],
   "Viernes": [
     {
-      "tipo": "Taller",
-      "fecha": "Viernes 26",
-      "mes": "Abril",
-      "hora": "7:00 a.m. a 12:00 p.m.",
-      "titulo": "Colectivo del mundo: programa de Trabajo Social",
-      "lugar": "MakerSpace",
-      "detalle": "Evento privado",
+      "tipo": "Foro",
+      "fecha": "Viernes 3",
+      "mes": "Mayo",
+      "hora": "4:00 p.m.",
+      "titulo": "Conversatorio Paz a través de la cocina y el arte desde los Montes de María y Caldas ",
+      "lugar": "Auditorio",
+      "detalle": "Abierto al público",
       "id": 2020,
-      "color": "bg-magenta",
-      "imagen": "",
-      "descripcion": ""
+      "color": "bg-rojo",
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYYEKzrXwJ_WniEVd_nbyU2bRvpuai0YO9nWvQQI-KJXTosy53OtXL0rQHrpvAWkrpQc-Y1cd2LK-dvN0MbQOu8Ggd8YF7LjUc=w2559-h1270-rw-v1",
+      "descripcion": "Esta conversación hace parte de la exposición Sabedoras ambientales: la paz sabe a cocina Montemariana, una muestra que hace un recorrido por el entramado de la cocina Montemariana, la cual se ha mantenido después del conflicto como una propuesta de paz. Destaca el papel crucial de las mujeres en este entorno, al sacar el trabajo doméstico de los confines privados para convertirlo en un acto público y protagonista. A través de sus conocimientos, las mujeres han transformado la cocina en un epicentro de unión para una comunidad fragmentada por las secuelas del conflicto armado."
     },
     {
+      "tipo": "Concierto",
+      "fecha": "Viernes 3",
+      "mes": "Mayo",
+      "hora": "7:00 p.m.",
+      "titulo": "IX Concierto de Temporada",
+      "lugar": "Óculo",
+      "detalle": "Abierto al público",
+      "id": 2020,
+      "color": "bg-amarillo",
+      "imagen": "",
+      "descripcion": "Los invitamos al IX Concierto de Temporada a cargo de la Orquesta Sinfónica de Caldas con obras de Moreno, Arutunian y Shostakovic. Dirige el maestro Leonardo Marulanda. Entrada libre."
+    }
+  ],
+  "Sábado":[
+    {
       "tipo": "Congreso",
-      "fecha": "Viernes 26",
-      "mes": "Abril",
-      "hora": "8:00 a.m. a 6:00 p.m.",
-      "titulo": "Simposio de Sarcopenia y desnutrición en el adulto mayor",
+      "fecha": "Sábado 4",
+      "mes": "Mayo",
+      "hora": "8:00 a.m. a 4:00 p.m.",
+      "titulo": "I Congreso Funeiico va a tu casa: Enfermedad inflamatoria intestinal desde el cuidado primario",
       "lugar": "Auditorio",
       "detalle": "Abierto al público con inscripción previa",
       "id": 2020,
       "color": "bg-violeta",
-      "imagen": "",
-      "descripcion": "Este evento abordará temas relacionados con el envejecimiento como la sarcopenia y sus consecuencias, la obesidad sarcopénica, la pérdida de peso involuntario, déficit de micronutrientes y vitaminas, trastornos gastrointestinales, entre otros que se suelen presentar en estas edades.El evento está dirigido a profesionales de la salud y cuidadores de adultos mayores, con el objetivo de generar prevención y detección temprana de este tipo de situaciones."
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbKeNwsN7q0M8YKYUwM2dAnO7fjFTczRwIBhHHTB_tqIqWblySOPzGbqYS319APx0hRo3CQ_thBTh6q_B1v3gl2_u9SEgNHjho=w2559-h1270-rw-v1",
+      "descripcion": "El primer Congreso FUNEIICO va a tu casa será una jornada de aprendizajes y una oportunidad para compartir experiencias, discutir casos clínicos y revisar lo último en evidencia científica para ofrecer las mejores alternativas de tratamiento."
     }     
 ]
 }
+  
