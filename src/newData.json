@@ -2,102 +2,105 @@
   "Lunes": [
       {
         "tipo": "Exposición",
-        "fecha": "Lunes 22",
-        "mes": "Abril",
+        "fecha": "Lunes 13",
+        "mes": "mayo",
         "hora": "8:00 a.m. a 8:00 p.m.",
-        "titulo": "Exposición Ríos en movimiento",
-        "lugar": "Sala de exposiciones principal (piso 4)",
+        "titulo": "Exposición Sabedoras ambientales: la paz sabe a cocina Montemariana",
+        "lugar": "Sala de exposición alterna (piso 1)",
         "detalle": "Abierto al público",
         "id": 2020,
         "color": "bg-naranja",
-        "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZEmaAO6IvkynoTBMVbESpPGt_nQJb-ByCQxCfKOIixbfEu6S610oln1WoEIT2YsN9-5WneVGeGjiyFfzL67v9QVc-8Za8VDg=w3860-h2160-v0",
-        "descripcion": "Los ríos del Magdalena Caldense aparecen en esta muestra como un escenario de incertidumbre y dolor en donde, probablemente, se encuentran cuerpos no identificados, testigos silenciosos de tragedias desconocidas. Esta exposición contiene piezas de la Galería de Memoria del Conflicto Armado del municipio de Samaná en las que se exploran conceptos como resiliencia, reconciliación, memoria y perdón para sensibilizar al espectador sobre la desaparición forzada. Las obras que aquí se presentan, son el resultado de investigaciones, testimonios y trabajos de campo para esclarecer lo sucedido durante la guerra e incluso en época de posconflicto. Esta muestra hace parte del encuentro internacional Ríos en Movimiento y espera crear conciencia sobre el impacto del conflicto armado interno colombiano en el Magdalena Caldense, su gente y sus ríos."
+        "imagen": "",
+        "descripcion": "La exposición hace un recorrido por el entramado de la cocina Montemariana, la cual se ha mantenido después del conflicto como una propuesta de paz. Destaca el papel crucial de las mujeres en este entorno, al sacar el trabajo doméstico de los confines privados para convertirlo en un acto público y protagonista. A través de sus conocimientos, las mujeres han transformado la cocina en un epicentro de unión para una comunidad fragmentada por las secuelas del conflicto armado."
       }
+      
 ],
   "Martes": [
     {
-      "tipo": "Taller",
-      "fecha": "Martes 23",
-      "mes": "Abril",
-      "hora": "5:30 p.m. a 7:30 p.m",
-      "titulo": "Charla pesticidas y polinizadores: el frágil equilibro de nuestros ecosistemas",
-      "lugar": "Café Cultural",
+      "tipo": "Exposición",
+      "fecha": "Martes 14",
+      "mes": "mayo",
+      "hora": "8:00 a.m. a 8:00 p.m.",
+      "titulo": "Exposición Sabedoras ambientales: la paz sabe a cocina Montemariana",
+      "lugar": "Sala de exposición alterna (piso 1)",
       "detalle": "Abierto al público",
       "id": 2020,
-      "color": "bg-magenta",
-      "imagen": "https://lh3.googleusercontent.com/u/1/drive-viewer/AKGpihblOqrpWyfvWsZbrQN9Yoxtz3n3t5lscN2DiDZHuMQcZ8oMn4coZd-RBIAai35_Q_I9VO-nYpkex4j2Sf7CcTk20AXJ_pK3LI4=w3840-h2160-v0",
-      "descripcion": "Los invitamos a este espacio para hablar sobre los pesticidas y su impacto en las abejas que será orientado por el biólogo Diego Riaño, especialista en abejorros del proyecto BeeP. Los temas a abordar son la mitigación de riesgos enfocada en polinizadores y por qué las abejas no generan resistencia a los plaguicidas."
+      "color": "bg-naranja",
+      "imagen": "",
+      "descripcion": "La exposición hace un recorrido por el entramado de la cocina Montemariana, la cual se ha mantenido después del conflicto como una propuesta de paz. Destaca el papel crucial de las mujeres en este entorno, al sacar el trabajo doméstico de los confines privados para convertirlo en un acto público y protagonista. A través de sus conocimientos, las mujeres han transformado la cocina en un epicentro de unión para una comunidad fragmentada por las secuelas del conflicto armado."
     },
     {
       "tipo": "Concierto",
-      "fecha": "Martes 23",
-      "mes": "Abril",
+      "fecha": "Martes 14",
+      "mes": "mayo",
       "hora": "7:00 p.m.",
-      "titulo": "Concierto Recital Cátedra de Percusión",
+      "titulo": "Las mujeres en la música clásica",
       "lugar": "Auditorio",
       "detalle": "Abierto al público",
       "id": 2020,
       "color": "bg-amarillo",
-      "imagen": "https://lh3.googleusercontent.com/u/1/drive-viewer/AKGpihaJVtP46Q-ILoSr21L8zBApSZ3HTgJiXzT7LayV0_0uB5SpT6whKDWs6u0NyVpFx65uNONNynXte-0NYXYNBjDVF0iak-aAxQ=w3840-h2160-v0",
-      "descripcion": "Los invitamos al Recital Cátedra de Percusión de la Universidad de Caldas dirigida por los profesores Uriel Marín y Sebastián Trejos. La Temporada de Conciertos es organizada por el Departamento de Música, el Centro Cultural Universitario Rogelio Salmona, el Centro Cultural del Banco de la República y el Centro Colombo Americano. Entrada libre."
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZD0Q_670Fo61PkEw1JCmfdUeeLn4WVH7c-AuxhQDO5hqWNewbFpv5IohtrTwdkisPggGKBUSEr9A5zklRC4K4MfDeaywh5Bg=w2559-h1270-v0",
+      "descripcion": "Los invitamos al concierto Las mujeres en la música clásica a cargo de los profesores del Departamento de Música de la Universidad de Caldas y el semillero de investigación Las mujeres y la flauta traversa. Entrada libre."
     }
   ],
   "Miércoles":[
     {
-      "tipo": "Jornadas académicas",
-      "fecha": "Miércoles 24",
-      "mes": "Abril",
-      "hora": "8:00 a.m. a 1:00 p.m.",
-      "titulo": "Encuentro de profesoras y profesores de filosofía de educación secundaria en Manizales y Caldas",
-      "lugar": "Sala de exposiciones principal (piso 4)",
+      "tipo": "Exposición",
+      "fecha": "Miércoles 15",
+      "mes": "mayo",
+      "hora": "8:00 a.m. a 8:00 p.m.",
+      "titulo": "Exposición Sabedoras ambientales: la paz sabe a cocina Montemariana",
+      "lugar": "Sala de exposición alterna (piso 1)",
       "detalle": "Abierto al público",
       "id": 2020,
       "color": "bg-naranja",
-      "imagen": "https://lh3.googleusercontent.com/u/1/drive-viewer/AKGpihZuVyRXxH7S8CtgZbc4U2AcxCbDrNzCydBYClRB56-rDUKrVazct1WkanzZy5QoXUqbXENjDiZlxXGdkXoIeqHK8rO0mMAH_w=w3840-h2160-v0",
-      "descripcion": "El encuentro de profesoras y profesores de filosofía de educación secundaria en Manizales y Caldas busca activar la conversación sobre el trabajo filosófico de las mujeres en diferentes momentos de la historia así como las visiones para a formular posibles colaboraciones que permitan aportar al fortalecimiento de la formación filosófica en los colegios de la región."
+      "imagen": "",
+      "descripcion": "La exposición hace un recorrido por el entramado de la cocina Montemariana, la cual se ha mantenido después del conflicto como una propuesta de paz. Destaca el papel crucial de las mujeres en este entorno, al sacar el trabajo doméstico de los confines privados para convertirlo en un acto público y protagonista. A través de sus conocimientos, las mujeres han transformado la cocina en un epicentro de unión para una comunidad fragmentada por las secuelas del conflicto armado."
     }
   ],
   "Jueves": [
     {
-      "tipo": "Jornadas académicas",
-      "fecha": "Jueves 25",
-      "mes": "Abril",
-      "hora": "8:00 a.m. a 1:00 p.m.",
-      "titulo": "Encuentro de profesoras y profesores de filosofía de educación secundaria en Manizales y Caldas",
-      "lugar": "Sala de exposiciones principal (piso 4)",
+      "tipo": "Exposición",
+      "fecha": "Jueves 16",
+      "mes": "mayo",
+      "hora": "8:00 a.m. a 8:00 p.m.",
+      "titulo": "Exposición Sabedoras ambientales: la paz sabe a cocina Montemariana ",
+      "lugar": "Sala de exposición alterna (piso 1)",
       "detalle": "Abierto al público",
       "id": 2020,
       "color": "bg-naranja",
-      "imagen": "https://lh3.googleusercontent.com/u/1/drive-viewer/AKGpihZuVyRXxH7S8CtgZbc4U2AcxCbDrNzCydBYClRB56-rDUKrVazct1WkanzZy5QoXUqbXENjDiZlxXGdkXoIeqHK8rO0mMAH_w=w3840-h2160-v0",
-      "descripcion": "El encuentro de profesoras y profesores de filosofía de educación secundaria en Manizales y Caldas busca activar la conversación sobre el trabajo filosófico de las mujeres en diferentes momentos de la historia así como las visiones para a formular posibles colaboraciones que permitan aportar al fortalecimiento de la formación filosófica en los colegios de la región."
+      "imagen": "",
+      "descripcion": "La exposición hace un recorrido por el entramado de la cocina Montemariana, la cual se ha mantenido después del conflicto como una propuesta de paz. Destaca el papel crucial de las mujeres en este entorno, al sacar el trabajo doméstico de los confines privados para convertirlo en un acto público y protagonista. A través de sus conocimientos, las mujeres han transformado la cocina en un epicentro de unión para una comunidad fragmentada por las secuelas del conflicto armado."
     }
 ],
   "Viernes": [
     {
-      "tipo": "Taller",
-      "fecha": "Viernes 26",
-      "mes": "Abril",
-      "hora": "7:00 a.m. a 12:00 p.m.",
-      "titulo": "Colectivo del mundo: programa de Trabajo Social",
-      "lugar": "MakerSpace",
-      "detalle": "Evento privado",
-      "id": 2020,
-      "color": "bg-magenta",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
       "tipo": "Congreso",
-      "fecha": "Viernes 26",
-      "mes": "Abril",
-      "hora": "8:00 a.m. a 6:00 p.m.",
-      "titulo": "Simposio de Sarcopenia y desnutrición en el adulto mayor",
+      "fecha": "Viernes 17",
+      "mes": "mayo",
+      "hora": "7:00 a.m. a 6:00 p.m.",
+      "titulo": "VII Simposio de subespecialidad en medicina interna: I Simposio Regional de Hematología",
       "lugar": "Auditorio",
       "detalle": "Abierto al público con inscripción previa",
       "id": 2020,
       "color": "bg-morado",
-      "imagen": "",
-      "descripcion": "Este evento abordará temas relacionados con el envejecimiento como la sarcopenia y sus consecuencias, la obesidad sarcopénica, la pérdida de peso involuntario, déficit de micronutrientes y vitaminas, trastornos gastrointestinales, entre otros que se suelen presentar en estas edades.El evento está dirigido a profesionales de la salud y cuidadores de adultos mayores, con el objetivo de generar prevención y detección temprana de este tipo de situaciones."
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZEmaAO6IvkynoTBMVbESpPGt_nQJb-ByCQxCfKOIixbfEu6S610oln1WoEIT2YsN9-5WneVGeGjiyFfzL67v9QVc-8Za8VDg=w3860-h2160-v0",
+      "descripcion": "Los esperamos al Simposio de Subespecialidades en Medicina Interna: I Simposio Regional de Hematología. Este evento tiene como objetivo proporcionar herramientas prácticas para la toma de decisiones clínicas relacionadas con la hematología. En el campo de la medicina, el trabajo en equipo es esencial, por ello les damos la más cordial bienvenida al eje hematológico interdisciplinario del primer simposio de hematología del Eje Cafetero. Estamos seguros de que esta experiencia será enriquecedora y colaborativa. La asistencia al Simposio y a los talleres post Congreso es limitada por lo que les recomendamos inscribirse lo antes posible."
+    }
+  ],
+  "Sábado":[
+    {
+      "tipo": "Congreso",
+      "fecha": "Sábado 18",
+      "mes": "mayo",
+      "hora": "8:00 a.m. a 12:00 p.m.",
+      "titulo": "Talleres VII Simposio de subespecialidad en medicina interna: I Simposio Regional de Hematología",
+      "lugar": "Auditorio",
+      "detalle": "Abierto al público con inscripción previa",
+      "id": 2020,
+      "color": "bg-morado",
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYcOjRvqDR2P2jjXDporro1yYguAaxwvq_TEoFkHiWNbYLz6sAJHyx8Vn6Z4hYQw0tBQk91WqZou0C3fpAkiUlGZsek8GO_x0k=w3860-h2160-v0",
+      "descripcion": "Los esperamos al Simposio de Subespecialidades en Medicina Interna: I Simposio Regional de Hematología. Este evento tiene como objetivo proporcionar herramientas prácticas para la toma de decisiones clínicas relacionadas con la hematología.En el campo de la medicina, el trabajo en equipo es esencial, por ello les damos la más cordial bienvenida al eje hematológico interdisciplinario del primer simposio de hematología del Eje Cafetero. Estamos seguros de que esta experiencia será enriquecedora y colaborativa. La asistencia al Simposio y a los talleres post Congreso es limitada por lo que les recomendamos inscribirse lo antes posible."
     }     
 ]
 }

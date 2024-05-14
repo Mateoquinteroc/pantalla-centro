@@ -1,102 +1,106 @@
 {
+  "Lunes": [
+      {
+        "tipo": "Exposición",
+        "fecha": "Lunes 13",
+        "mes": "mayo",
+        "hora": "8:00 a.m. a 8:00 p.m.",
+        "titulo": "Exposición Sabedoras ambientales: la paz sabe a cocina Montemariana",
+        "lugar": "Sala de exposición alterna (piso 1)",
+        "detalle": "Abierto al público",
+        "id": 2020,
+        "color": "bg-naranja",
+        "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihatiDse_b0e3dwbrC4Qgue4o0g2LE_AgG_-fNlwwhYatg67EB9O7JY2gj2DCa5_KydcQ4rLHVNGgxX9Zt0WUpUjTTkRQosh4Xc=w3860-h2160-rw-v1",
+        "descripcion": "La exposición hace un recorrido por el entramado de la cocina Montemariana, la cual se ha mantenido después del conflicto como una propuesta de paz. Destaca el papel crucial de las mujeres en este entorno, al sacar el trabajo doméstico de los confines privados para convertirlo en un acto público y protagonista. A través de sus conocimientos, las mujeres han transformado la cocina en un epicentro de unión para una comunidad fragmentada por las secuelas del conflicto armado."
+      }
+      
+],
   "Martes": [
     {
-      "tipo": "Taller",
-      "fecha": "Martes 30",
-      "mes": "Abril",
-      "hora": "9:00 a.m. a 1:00 p.m",
-      "titulo": "Foro Cultura y Territorio: conversando sobre el plan de desarrollo",
-      "lugar": "Auditorio",
+      "tipo": "Exposición",
+      "fecha": "Martes 14",
+      "mes": "mayo",
+      "hora": "8:00 a.m. a 8:00 p.m.",
+      "titulo": "Exposición Sabedoras ambientales: la paz sabe a cocina Montemariana",
+      "lugar": "Sala de exposición alterna (piso 1)",
       "detalle": "Abierto al público",
       "id": 2020,
-      "color": "bg-magenta",
-      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYmJVTJ4CeZOw4oTFiYtWi-cZ-VZhxERwi73N7WRYkFv9qsaCreaQaLch0FHAntsayxk73zktToXNV-_ES_jZ5BMnWXlzQaOQ=w3860-h2160-rw-v1",
-      "descripcion": "Este es un espacio para alzar tu voz y contribuir a la transformación de tu tierra, tu hogar. Conversa, discute, explora, mapea, escucha junto a líderes locales, gestores y vecinxs comprometidxs con el presente y futuro de nuestro territorio. Es vital que hablemos de la planificación territorial, es esencial que confrontemos el nuevo plan de desarrollo municipal."
+      "color": "bg-naranja",
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihatiDse_b0e3dwbrC4Qgue4o0g2LE_AgG_-fNlwwhYatg67EB9O7JY2gj2DCa5_KydcQ4rLHVNGgxX9Zt0WUpUjTTkRQosh4Xc=w3860-h2160-rw-v1",
+      "descripcion": "La exposición hace un recorrido por el entramado de la cocina Montemariana, la cual se ha mantenido después del conflicto como una propuesta de paz. Destaca el papel crucial de las mujeres en este entorno, al sacar el trabajo doméstico de los confines privados para convertirlo en un acto público y protagonista. A través de sus conocimientos, las mujeres han transformado la cocina en un epicentro de unión para una comunidad fragmentada por las secuelas del conflicto armado."
     },
     {
       "tipo": "Concierto",
-      "fecha": "Martes 23",
-      "mes": "Abril",
+      "fecha": "Martes 14",
+      "mes": "mayo",
       "hora": "7:00 p.m.",
-      "titulo": "Concierto Jazz",
+      "titulo": "Las mujeres en la música clásica",
       "lugar": "Auditorio",
       "detalle": "Abierto al público",
       "id": 2020,
       "color": "bg-amarillo",
-      "imagen": "",
-      "descripcion": "Los invitamos al concierto de jazz a cargo de Amalgama Jazz y Sinegos. Dirigido por el maestro Rubén Darío Alarcón. Entrada libre."
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbFSjA-cnr_uLIYKSwgaGyaBc805lxKddW-abLVKuNZwDsfpYp1NV0Kep16xEqwnsCUuwAGC2L2H5eFdV_ZDzOMUwjiAFpQVw=w2559-h1270-rw-v1",
+      "descripcion": "Los invitamos al concierto Las mujeres en la música clásica a cargo de los profesores del Departamento de Música de la Universidad de Caldas y el semillero de investigación Las mujeres y la flauta traversa. Entrada libre."
+    }
+  ],
+  "Miércoles":[
+    {
+      "tipo": "Exposición",
+      "fecha": "Miércoles 15",
+      "mes": "mayo",
+      "hora": "8:00 a.m. a 8:00 p.m.",
+      "titulo": "Exposición Sabedoras ambientales: la paz sabe a cocina Montemariana",
+      "lugar": "Sala de exposición alterna (piso 1)",
+      "detalle": "Abierto al público",
+      "id": 2020,
+      "color": "bg-naranja",
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihatiDse_b0e3dwbrC4Qgue4o0g2LE_AgG_-fNlwwhYatg67EB9O7JY2gj2DCa5_KydcQ4rLHVNGgxX9Zt0WUpUjTTkRQosh4Xc=w3860-h2160-rw-v1",
+      "descripcion": "La exposición hace un recorrido por el entramado de la cocina Montemariana, la cual se ha mantenido después del conflicto como una propuesta de paz. Destaca el papel crucial de las mujeres en este entorno, al sacar el trabajo doméstico de los confines privados para convertirlo en un acto público y protagonista. A través de sus conocimientos, las mujeres han transformado la cocina en un epicentro de unión para una comunidad fragmentada por las secuelas del conflicto armado."
     }
   ],
   "Jueves": [
     {
       "tipo": "Exposición",
-      "fecha": "Jueves 2",
-      "mes": "Mayo",
-      "hora": "5:00 p.m.",
-      "titulo": "Apertura exposición Sabedoras ambientales: la paz sabe a cocina Montemariana",
+      "fecha": "Jueves 16",
+      "mes": "mayo",
+      "hora": "8:00 a.m. a 8:00 p.m.",
+      "titulo": "Exposición Sabedoras ambientales: la paz sabe a cocina Montemariana ",
       "lugar": "Sala de exposición alterna (piso 1)",
       "detalle": "Abierto al público",
       "id": 2020,
       "color": "bg-naranja",
-      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZPAXAAO9poe-7koN-9rL2PDPzy9PIbXw3gbcBoKuq-T8aJJ2aAAeW6feowXufJbXHZpWEVpocy4FNLFVU7GfzstinfX2F9o5Y=w2559-h1270-rw-v1",
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihatiDse_b0e3dwbrC4Qgue4o0g2LE_AgG_-fNlwwhYatg67EB9O7JY2gj2DCa5_KydcQ4rLHVNGgxX9Zt0WUpUjTTkRQosh4Xc=w3860-h2160-rw-v1",
       "descripcion": "La exposición hace un recorrido por el entramado de la cocina Montemariana, la cual se ha mantenido después del conflicto como una propuesta de paz. Destaca el papel crucial de las mujeres en este entorno, al sacar el trabajo doméstico de los confines privados para convertirlo en un acto público y protagonista. A través de sus conocimientos, las mujeres han transformado la cocina en un epicentro de unión para una comunidad fragmentada por las secuelas del conflicto armado."
-    },
-    {
-      "tipo": "Concierto",
-      "fecha": "Jueves 2",
-      "mes": "Mayo",
-      "hora": "7:00 p.m.",
-      "titulo": "Recital De saxofón y piano",
-      "lugar": "Auditorio",
-      "detalle": "Abierto al público",
-      "id": 2020,
-      "color": "bg-amarillo",
-      "imagen": "",
-      "descripcion": "Los invitamos al Recital de saxofón y piano de la Universidad de Caldas. Este evento hace parte de la Temporada de Conciertos liderada por el Departamento de Música de la Universidad de Caldas en colaboración con el Centro Cultural Universitario Rogelio Salmona, el Centro Cultural del Banco de la República y el Centro Colombo Americano. Entrada libre."
     }
 ],
   "Viernes": [
     {
-      "tipo": "Foro",
-      "fecha": "Viernes 3",
-      "mes": "Mayo",
-      "hora": "4:00 p.m.",
-      "titulo": "Conversatorio Paz a través de la cocina y el arte desde los Montes de María y Caldas ",
+      "tipo": "Congreso",
+      "fecha": "Viernes 17",
+      "mes": "mayo",
+      "hora": "7:00 a.m. a 6:00 p.m.",
+      "titulo": "VII Simposio de subespecialidad en medicina interna: I Simposio Regional de Hematología",
       "lugar": "Auditorio",
-      "detalle": "Abierto al público",
+      "detalle": "Abierto al público con inscripción previa",
       "id": 2020,
-      "color": "bg-rojo",
-      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYYEKzrXwJ_WniEVd_nbyU2bRvpuai0YO9nWvQQI-KJXTosy53OtXL0rQHrpvAWkrpQc-Y1cd2LK-dvN0MbQOu8Ggd8YF7LjUc=w2559-h1270-rw-v1",
-      "descripcion": "Esta conversación hace parte de la exposición Sabedoras ambientales: la paz sabe a cocina Montemariana, una muestra que hace un recorrido por el entramado de la cocina Montemariana, la cual se ha mantenido después del conflicto como una propuesta de paz. Destaca el papel crucial de las mujeres en este entorno, al sacar el trabajo doméstico de los confines privados para convertirlo en un acto público y protagonista. A través de sus conocimientos, las mujeres han transformado la cocina en un epicentro de unión para una comunidad fragmentada por las secuelas del conflicto armado."
-    },
-    {
-      "tipo": "Concierto",
-      "fecha": "Viernes 3",
-      "mes": "Mayo",
-      "hora": "7:00 p.m.",
-      "titulo": "IX Concierto de Temporada",
-      "lugar": "Óculo",
-      "detalle": "Abierto al público",
-      "id": 2020,
-      "color": "bg-amarillo",
-      "imagen": "",
-      "descripcion": "Los invitamos al IX Concierto de Temporada a cargo de la Orquesta Sinfónica de Caldas con obras de Moreno, Arutunian y Shostakovic. Dirige el maestro Leonardo Marulanda. Entrada libre."
+      "color": "bg-violeta",
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihaRHnQ5sWlSffdVliSOCPpRA_G13t9yy4BYHV0I5OaIV7dDJBW3UMREQ2ca8gGWLdZ91ftyUw1CJuheLq36jNG8KTjmTaO7FzQ=w3860-h2160-rw-v1",
+      "descripcion": "Los esperamos al Simposio de Subespecialidades en Medicina Interna: I Simposio Regional de Hematología. Este evento tiene como objetivo proporcionar herramientas prácticas para la toma de decisiones clínicas relacionadas con la hematología. En el campo de la medicina, el trabajo en equipo es esencial, por ello les damos la más cordial bienvenida al eje hematológico interdisciplinario del primer simposio de hematología del Eje Cafetero. Estamos seguros de que esta experiencia será enriquecedora y colaborativa. La asistencia al Simposio y a los talleres post Congreso es limitada por lo que les recomendamos inscribirse lo antes posible."
     }
   ],
   "Sábado":[
     {
       "tipo": "Congreso",
-      "fecha": "Sábado 4",
-      "mes": "Mayo",
-      "hora": "8:00 a.m. a 4:00 p.m.",
-      "titulo": "I Congreso Funeiico va a tu casa: Enfermedad inflamatoria intestinal desde el cuidado primario",
+      "fecha": "Sábado 18",
+      "mes": "mayo",
+      "hora": "8:00 a.m. a 12:00 p.m.",
+      "titulo": "Talleres VII Simposio de subespecialidad en medicina interna: I Simposio Regional de Hematología",
       "lugar": "Auditorio",
       "detalle": "Abierto al público con inscripción previa",
       "id": 2020,
       "color": "bg-violeta",
-      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbKeNwsN7q0M8YKYUwM2dAnO7fjFTczRwIBhHHTB_tqIqWblySOPzGbqYS319APx0hRo3CQ_thBTh6q_B1v3gl2_u9SEgNHjho=w2559-h1270-rw-v1",
-      "descripcion": "El primer Congreso FUNEIICO va a tu casa será una jornada de aprendizajes y una oportunidad para compartir experiencias, discutir casos clínicos y revisar lo último en evidencia científica para ofrecer las mejores alternativas de tratamiento."
+      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihaRHnQ5sWlSffdVliSOCPpRA_G13t9yy4BYHV0I5OaIV7dDJBW3UMREQ2ca8gGWLdZ91ftyUw1CJuheLq36jNG8KTjmTaO7FzQ=w3860-h2160-rw-v1",
+      "descripcion": "Los esperamos al Simposio de Subespecialidades en Medicina Interna: I Simposio Regional de Hematología. Este evento tiene como objetivo proporcionar herramientas prácticas para la toma de decisiones clínicas relacionadas con la hematología.En el campo de la medicina, el trabajo en equipo es esencial, por ello les damos la más cordial bienvenida al eje hematológico interdisciplinario del primer simposio de hematología del Eje Cafetero. Estamos seguros de que esta experiencia será enriquecedora y colaborativa. La asistencia al Simposio y a los talleres post Congreso es limitada por lo que les recomendamos inscribirse lo antes posible."
     }     
 ]
 }
-  
