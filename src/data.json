@@ -1,106 +1,76 @@
 {
   "Lunes": [
       {
-        "tipo": "Exposición",
-        "fecha": "Lunes 13",
+        "tipo": "Jornadas académicas",
+        "fecha": "Lunes 20",
         "mes": "mayo",
-        "hora": "8:00 a.m. a 8:00 p.m.",
-        "titulo": "Exposición Sabedoras ambientales: la paz sabe a cocina Montemariana",
-        "lugar": "Sala de exposición alterna (piso 1)",
+        "hora": "3:00 p.m. a 6:00 p.m.",
+        "titulo": "Proceso de servicio para la paz desde el CEDAT",
+        "lugar": "Auditorio",
         "detalle": "Abierto al público",
         "id": 2020,
-        "color": "bg-naranja",
-        "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihatiDse_b0e3dwbrC4Qgue4o0g2LE_AgG_-fNlwwhYatg67EB9O7JY2gj2DCa5_KydcQ4rLHVNGgxX9Zt0WUpUjTTkRQosh4Xc=w3860-h2160-rw-v1",
-        "descripcion": "La exposición hace un recorrido por el entramado de la cocina Montemariana, la cual se ha mantenido después del conflicto como una propuesta de paz. Destaca el papel crucial de las mujeres en este entorno, al sacar el trabajo doméstico de los confines privados para convertirlo en un acto público y protagonista. A través de sus conocimientos, las mujeres han transformado la cocina en un epicentro de unión para una comunidad fragmentada por las secuelas del conflicto armado."
+        "color": "bg-azuloscuro",
+        "imagen": "",
+        "descripcion": ""
       }
       
 ],
   "Martes": [
     {
-      "tipo": "Exposición",
-      "fecha": "Martes 14",
+      "tipo": "Taller",
+      "fecha": "Martes 21",
       "mes": "mayo",
-      "hora": "8:00 a.m. a 8:00 p.m.",
-      "titulo": "Exposición Sabedoras ambientales: la paz sabe a cocina Montemariana",
-      "lugar": "Sala de exposición alterna (piso 1)",
+      "hora": "8:00 a.m. a 12:00 p.m.",
+      "titulo": "Encuentro Red de Unidades de graduados de Manizales y Caldas",
+      "lugar": "Auditorio",
       "detalle": "Abierto al público",
       "id": 2020,
-      "color": "bg-naranja",
-      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihatiDse_b0e3dwbrC4Qgue4o0g2LE_AgG_-fNlwwhYatg67EB9O7JY2gj2DCa5_KydcQ4rLHVNGgxX9Zt0WUpUjTTkRQosh4Xc=w3860-h2160-rw-v1",
-      "descripcion": "La exposición hace un recorrido por el entramado de la cocina Montemariana, la cual se ha mantenido después del conflicto como una propuesta de paz. Destaca el papel crucial de las mujeres en este entorno, al sacar el trabajo doméstico de los confines privados para convertirlo en un acto público y protagonista. A través de sus conocimientos, las mujeres han transformado la cocina en un epicentro de unión para una comunidad fragmentada por las secuelas del conflicto armado."
+      "color": "bg-magenta",
+      "imagen": "",
+      "descripcion": "Este espacio es una iniciativa de REMAS (Red de Unidades de Graduados de Manizales y Caldas) con el que se busca la articulación de las acciones de la red con el sector empresarial público y privado para la creación de alianzas que permitan la formación de competencias demandadas por el mercado laboral."
     },
     {
       "tipo": "Concierto",
-      "fecha": "Martes 14",
+      "fecha": "Martes 21",
       "mes": "mayo",
       "hora": "7:00 p.m.",
-      "titulo": "Las mujeres en la música clásica",
+      "titulo": "Coro de flautas de la Universidad de Caldas",
       "lugar": "Auditorio",
       "detalle": "Abierto al público",
       "id": 2020,
       "color": "bg-amarillo",
-      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbFSjA-cnr_uLIYKSwgaGyaBc805lxKddW-abLVKuNZwDsfpYp1NV0Kep16xEqwnsCUuwAGC2L2H5eFdV_ZDzOMUwjiAFpQVw=w2559-h1270-rw-v1",
-      "descripcion": "Los invitamos al concierto Las mujeres en la música clásica a cargo de los profesores del Departamento de Música de la Universidad de Caldas y el semillero de investigación Las mujeres y la flauta traversa. Entrada libre."
+      "imagen": "https://lh3.googleusercontent.com/u/1/drive-viewer/AKGpihbkD4U7Ry-I9VgsuFMUBjNX2VJcxIekpJlsiX6is_DGsvEzOp0g8MViceOaisMHumv9J1ptdMvcHbn0FELNFr6Dw_OLmyaCeoc=w3840-h2160-rw-v1",
+      "descripcion": "Te invitamos a compartir esta Temporada de Conciertos con tus amigos y familiares y a vivir la magia de la música en su máxima expresión. Entrada libre."
     }
   ],
   "Miércoles":[
     {
       "tipo": "Exposición",
-      "fecha": "Miércoles 15",
+      "fecha": "Miércoles 22",
       "mes": "mayo",
-      "hora": "8:00 a.m. a 8:00 p.m.",
-      "titulo": "Exposición Sabedoras ambientales: la paz sabe a cocina Montemariana",
-      "lugar": "Sala de exposición alterna (piso 1)",
+      "hora": "8:00 a.m. a 1:00 p.m.",
+      "titulo": "ExpoU 2024",
+      "lugar": "Parqueadero",
       "detalle": "Abierto al público",
       "id": 2020,
       "color": "bg-naranja",
-      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihatiDse_b0e3dwbrC4Qgue4o0g2LE_AgG_-fNlwwhYatg67EB9O7JY2gj2DCa5_KydcQ4rLHVNGgxX9Zt0WUpUjTTkRQosh4Xc=w3860-h2160-rw-v1",
-      "descripcion": "La exposición hace un recorrido por el entramado de la cocina Montemariana, la cual se ha mantenido después del conflicto como una propuesta de paz. Destaca el papel crucial de las mujeres en este entorno, al sacar el trabajo doméstico de los confines privados para convertirlo en un acto público y protagonista. A través de sus conocimientos, las mujeres han transformado la cocina en un epicentro de unión para una comunidad fragmentada por las secuelas del conflicto armado."
+      "imagen": "https://lh3.googleusercontent.com/u/1/drive-viewer/AKGpihZ-cqxQzisGmdaHxajmIynWeqKm6_K4DEJA4yEPRuSwrvnXj0poVfS8qWkiMx_Ou-V8Pu92E9X991AMpW2IWsj8HDZU1Wm6o3E=w3840-h2160-rw-v1",
+      "descripcion": "ExpoU 204 es una feria de universidades liderada por el periódico La PatriaDescubre tu camino académico en este espacio y sumérgete en experiencias únicas mientras exploras las mejores opciones universitarias."
     }
   ],
   "Jueves": [
     {
       "tipo": "Exposición",
-      "fecha": "Jueves 16",
+      "fecha": "Jueves 23",
       "mes": "mayo",
-      "hora": "8:00 a.m. a 8:00 p.m.",
-      "titulo": "Exposición Sabedoras ambientales: la paz sabe a cocina Montemariana ",
-      "lugar": "Sala de exposición alterna (piso 1)",
+      "hora": "8:00 a.m. a 1:00 p.m.",
+      "titulo": "ExpoU 2024",
+      "lugar": "Parqueadero",
       "detalle": "Abierto al público",
       "id": 2020,
       "color": "bg-naranja",
-      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihatiDse_b0e3dwbrC4Qgue4o0g2LE_AgG_-fNlwwhYatg67EB9O7JY2gj2DCa5_KydcQ4rLHVNGgxX9Zt0WUpUjTTkRQosh4Xc=w3860-h2160-rw-v1",
-      "descripcion": "La exposición hace un recorrido por el entramado de la cocina Montemariana, la cual se ha mantenido después del conflicto como una propuesta de paz. Destaca el papel crucial de las mujeres en este entorno, al sacar el trabajo doméstico de los confines privados para convertirlo en un acto público y protagonista. A través de sus conocimientos, las mujeres han transformado la cocina en un epicentro de unión para una comunidad fragmentada por las secuelas del conflicto armado."
+      "imagen": "https://lh3.googleusercontent.com/u/1/drive-viewer/AKGpihZ-cqxQzisGmdaHxajmIynWeqKm6_K4DEJA4yEPRuSwrvnXj0poVfS8qWkiMx_Ou-V8Pu92E9X991AMpW2IWsj8HDZU1Wm6o3E=w3840-h2160-rw-v1",
+      "descripcion": "ExpoU 204 es una feria de universidades liderada por el periódico La PatriaDescubre tu camino académico en este espacio y sumérgete en experiencias únicas mientras exploras las mejores opciones universitarias."
     }
-],
-  "Viernes": [
-    {
-      "tipo": "Congreso",
-      "fecha": "Viernes 17",
-      "mes": "mayo",
-      "hora": "7:00 a.m. a 6:00 p.m.",
-      "titulo": "VII Simposio de subespecialidad en medicina interna: I Simposio Regional de Hematología",
-      "lugar": "Auditorio",
-      "detalle": "Abierto al público con inscripción previa",
-      "id": 2020,
-      "color": "bg-violeta",
-      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihaRHnQ5sWlSffdVliSOCPpRA_G13t9yy4BYHV0I5OaIV7dDJBW3UMREQ2ca8gGWLdZ91ftyUw1CJuheLq36jNG8KTjmTaO7FzQ=w3860-h2160-rw-v1",
-      "descripcion": "Los esperamos al Simposio de Subespecialidades en Medicina Interna: I Simposio Regional de Hematología. Este evento tiene como objetivo proporcionar herramientas prácticas para la toma de decisiones clínicas relacionadas con la hematología. En el campo de la medicina, el trabajo en equipo es esencial, por ello les damos la más cordial bienvenida al eje hematológico interdisciplinario del primer simposio de hematología del Eje Cafetero. Estamos seguros de que esta experiencia será enriquecedora y colaborativa. La asistencia al Simposio y a los talleres post Congreso es limitada por lo que les recomendamos inscribirse lo antes posible."
-    }
-  ],
-  "Sábado":[
-    {
-      "tipo": "Congreso",
-      "fecha": "Sábado 18",
-      "mes": "mayo",
-      "hora": "8:00 a.m. a 12:00 p.m.",
-      "titulo": "Talleres VII Simposio de subespecialidad en medicina interna: I Simposio Regional de Hematología",
-      "lugar": "Auditorio",
-      "detalle": "Abierto al público con inscripción previa",
-      "id": 2020,
-      "color": "bg-violeta",
-      "imagen": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihaRHnQ5sWlSffdVliSOCPpRA_G13t9yy4BYHV0I5OaIV7dDJBW3UMREQ2ca8gGWLdZ91ftyUw1CJuheLq36jNG8KTjmTaO7FzQ=w3860-h2160-rw-v1",
-      "descripcion": "Los esperamos al Simposio de Subespecialidades en Medicina Interna: I Simposio Regional de Hematología. Este evento tiene como objetivo proporcionar herramientas prácticas para la toma de decisiones clínicas relacionadas con la hematología.En el campo de la medicina, el trabajo en equipo es esencial, por ello les damos la más cordial bienvenida al eje hematológico interdisciplinario del primer simposio de hematología del Eje Cafetero. Estamos seguros de que esta experiencia será enriquecedora y colaborativa. La asistencia al Simposio y a los talleres post Congreso es limitada por lo que les recomendamos inscribirse lo antes posible."
-    }     
 ]
 }
