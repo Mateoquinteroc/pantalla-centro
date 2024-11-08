@@ -9,15 +9,35 @@ import FooterCard from './FooterCard';
 import Recorrido3d from './Recorrido3d';
 import BotAI from './BotAI';
 import touch from '../public/img/touch.png';
-import { initGA } from './analytics';
-
+import { initGA, logEvent } from './analytics';
 
 function App() {
   
   useEffect(() => {
-    initGA(); // Inicializar Google Analytics al cargar la aplicación
+    // Inicializar Google Analytics
+    initGA();
+
+    // Agregar un listener global para capturar clics
+    const handleClick = (event) => {
+      // Obtén el elemento que fue clickeado
+      const target = event.target;
+
+      // Verifica si el elemento tiene un id o una clase
+      const elementInfo = target.id || target.className || target.tagName;
+
+      // Enviar el evento de clic a Google Analytics
+      logEvent('Click', 'User clicked on element', elementInfo);
+    };
+
+    // Añadir el evento global de clic
+    document.addEventListener('click', handleClick);
+
+    // Limpia el evento cuando el componente se desmonte
+    return () => {
+      document.removeEventListener('click', handleClick);
+    };
   }, []);
-  
+
   const categorias = Object.values(Data);
   const eventos = Object.values(Data).flatMap(categoria => categoria);
   console.log (Data)

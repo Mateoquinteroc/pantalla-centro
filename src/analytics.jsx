@@ -6,9 +6,10 @@ export const initGA = () => {
 };
 
 // Función para registrar eventos personalizados
-export const logEvent = (category, action) => {
+export const logEvent = (category, action, label = "") => {
     ReactGA.event({
         category: category,
         action: action,
+        label: label,
     });
 };
