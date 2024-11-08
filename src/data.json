@@ -72,5 +72,20 @@
       "imagen": "https://lh3.googleusercontent.com/u/1/drive-viewer/AKGpihZ-cqxQzisGmdaHxajmIynWeqKm6_K4DEJA4yEPRuSwrvnXj0poVfS8qWkiMx_Ou-V8Pu92E9X991AMpW2IWsj8HDZU1Wm6o3E=w3840-h2160-rw-v1",
       "descripcion": "ExpoU 204 es una feria de universidades liderada por el periódico La PatriaDescubre tu camino académico en este espacio y sumérgete en experiencias únicas mientras exploras las mejores opciones universitarias."
     }
+],
+"Viernes": [
+  {
+    "tipo": "Exposición",
+    "fecha": "Viernes 23",
+    "mes": "mayo",
+    "hora": "8:00 a.m. a 1:00 p.m.",
+    "titulo": "ExpoU 2024",
+    "lugar": "Parqueadero",
+    "detalle": "Abierto al público",
+    "id": 2020,
+    "color": "bg-naranja",
+    "imagen": "https://lh3.googleusercontent.com/u/1/drive-viewer/AKGpihZ-cqxQzisGmdaHxajmIynWeqKm6_K4DEJA4yEPRuSwrvnXj0poVfS8qWkiMx_Ou-V8Pu92E9X991AMpW2IWsj8HDZU1Wm6o3E=w3840-h2160-rw-v1",
+    "descripcion": "ExpoU 204 es una feria de universidades liderada por el periódico La PatriaDescubre tu camino académico en este espacio y sumérgete en experiencias únicas mientras exploras las mejores opciones universitarias."
+  }
 ]
 }

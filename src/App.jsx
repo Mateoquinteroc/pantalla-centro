@@ -9,9 +9,14 @@ import FooterCard from './FooterCard';
 import Recorrido3d from './Recorrido3d';
 import BotAI from './BotAI';
 import touch from '../public/img/touch.png';
+import { initGA } from './analytics';
 
 
 function App() {
+  
+  useEffect(() => {
+    initGA(); // Inicializar Google Analytics al cargar la aplicación
+  }, []);
   
   const categorias = Object.values(Data);
   const eventos = Object.values(Data).flatMap(categoria => categoria);
