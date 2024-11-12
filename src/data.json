@@ -1,91 +1,207 @@
 {
   "Lunes": [
-      {
-        "tipo": "Jornadas académicas",
-        "fecha": "Lunes 20",
-        "mes": "mayo",
-        "hora": "3:00 p.m. a 6:00 p.m.",
-        "titulo": "Proceso de servicio para la paz desde el CEDAT",
-        "lugar": "Auditorio",
-        "detalle": "Abierto al público",
-        "id": 2020,
-        "color": "bg-azuloscuro",
-        "imagen": "",
-        "descripcion": ""
-      }
-      
-],
-  "Martes": [
     {
-      "tipo": "Taller",
-      "fecha": "Martes 21",
-      "mes": "mayo",
-      "hora": "8:00 a.m. a 12:00 p.m.",
-      "titulo": "Encuentro Red de Unidades de graduados de Manizales y Caldas",
-      "lugar": "Auditorio",
+      "tipo": "Exposición",
+      "fecha": "Lunes 11",
+      "mes": "noviembre",
+      "hora": "8:00 a.m. a 8:00 p.m.",
+      "titulo": "Exposición fotográfica itinerante: Flores en el glaciar",
+      "lugar": "Vestíbulos (piso 4)",
       "detalle": "Abierto al público",
       "id": 2020,
-      "color": "bg-magenta",
+      "color": "bg-naranja",
       "imagen": "",
-      "descripcion": "Este espacio es una iniciativa de REMAS (Red de Unidades de Graduados de Manizales y Caldas) con el que se busca la articulación de las acciones de la red con el sector empresarial público y privado para la creación de alianzas que permitan la formación de competencias demandadas por el mercado laboral."
+      "descripcion": "Una exposición que invita a explorar el pasado y el presente del Volcán Nevado del Ruiz a través de la mirada de la fotografía y la crónica de viaje. Esta muestra busca sensibilizar sobre la realidad del glaciar y su relación con los municipios de Fresno y Murillo, en Tolima."
+    },
+    {
+      "tipo": "Exposición",
+      "fecha": "Lunes 11",
+      "mes": "noviembre",
+      "hora": "8:00 a.m. a 8:00 p.m.",
+      "titulo": "Archivo Rivera: El museo imaginado por José A. Velasco",
+      "lugar": "Vestíbulos (piso 4)",
+      "detalle": "Abierto al público",
+      "id": 2020,
+      "color": "bg-naranja",
+      "imagen": "",
+      "descripcion": "Esta exposición da a conocer el archivo de José Eustasio Rivera, custodiado por el Centro de Bibliotecas de la Universidad de Caldas, imaginado, en un principio, por su amigo Jose A. Velasco como material expositivo. Además, da algunas pistas sobre el último año de vida del escritor y el viaje emprendido en la novela."
+    }
+  ],
+  "Martes": [
+    {
+      "tipo": "Exposición",
+      "fecha": "Martes 12",
+      "mes": "noviembre",
+      "hora": "8:00 a.m. a 8:00 p.m.",
+      "titulo": "Exposición fotográfica itinerante: Flores en el glaciar",
+      "lugar": "Vestíbulos (piso 4)",
+      "detalle": "Abierto al público",
+      "id": 2020,
+      "color": "bg-naranja",
+      "imagen": "",
+      "descripcion": "Una exposición que invita a explorar el pasado y el presente del Volcán Nevado del Ruiz a través de la mirada de la fotografía y la crónica de viaje. Esta muestra busca sensibilizar sobre la realidad del glaciar y su relación con los municipios de Fresno y Murillo, en Tolima."
+    },
+    {
+      "tipo": "Exposición",
+      "fecha": "Martes 12",
+      "mes": "noviembre",
+      "hora": "8:00 a.m. a 8:00 p.m.",
+      "titulo": "Archivo Rivera: El museo imaginado por José A. Velasco",
+      "lugar": "Vestíbulos (piso 4)",
+      "detalle": "Abierto al público",
+      "id": 2020,
+      "color": "bg-naranja",
+      "imagen": "",
+      "descripcion": "Esta exposición da a conocer el archivo de José Eustasio Rivera, custodiado por el Centro de Bibliotecas de la Universidad de Caldas, imaginado, en un principio, por su amigo Jose A. Velasco como material expositivo. Además, da algunas pistas sobre el último año de vida del escritor y el viaje emprendido en la novela."
+    }
+  ],
+  "Miércoles": [
+    {
+      "tipo": "Varios",
+      "fecha": "Miércoles 13",
+      "mes": "noviembre",
+      "hora": "7:00 a.m.",
+      "titulo": "Desayuno rectores SUMA",
+      "lugar": "Auditorio",
+      "detalle": "Evento cerrado",
+      "id": 2020,
+      "color": "bg-azul",
+      "imagen": "",
+      "descripcion": ""
     },
     {
       "tipo": "Concierto",
-      "fecha": "Martes 21",
-      "mes": "mayo",
+      "fecha": "Miércoles 13",
+      "mes": "noviembre",
       "hora": "7:00 p.m.",
-      "titulo": "Coro de flautas de la Universidad de Caldas",
+      "titulo": "Recital de grado Johan Andrés Bermeo",
       "lugar": "Auditorio",
       "detalle": "Abierto al público",
       "id": 2020,
       "color": "bg-amarillo",
-      "imagen": "https://lh3.googleusercontent.com/u/1/drive-viewer/AKGpihbkD4U7Ry-I9VgsuFMUBjNX2VJcxIekpJlsiX6is_DGsvEzOp0g8MViceOaisMHumv9J1ptdMvcHbn0FELNFr6Dw_OLmyaCeoc=w3840-h2160-rw-v1",
-      "descripcion": "Te invitamos a compartir esta Temporada de Conciertos con tus amigos y familiares y a vivir la magia de la música en su máxima expresión. Entrada libre."
-    }
-  ],
-  "Miércoles":[
-    {
-      "tipo": "Exposición",
-      "fecha": "Miércoles 22",
-      "mes": "mayo",
-      "hora": "8:00 a.m. a 1:00 p.m.",
-      "titulo": "ExpoU 2024",
-      "lugar": "Parqueadero",
-      "detalle": "Abierto al público",
-      "id": 2020,
-      "color": "bg-naranja",
-      "imagen": "https://lh3.googleusercontent.com/u/1/drive-viewer/AKGpihZ-cqxQzisGmdaHxajmIynWeqKm6_K4DEJA4yEPRuSwrvnXj0poVfS8qWkiMx_Ou-V8Pu92E9X991AMpW2IWsj8HDZU1Wm6o3E=w3840-h2160-rw-v1",
-      "descripcion": "ExpoU 204 es una feria de universidades liderada por el periódico La PatriaDescubre tu camino académico en este espacio y sumérgete en experiencias únicas mientras exploras las mejores opciones universitarias."
+      "imagen": "https://drive.google.com/u/0/drive-viewer/AKGpihbAPV2lh8Z5FCxyDkveDNs7wSV9AsITuAvxGEP7e_PTrcAvULk5dUtRuMJTfyJa7fh__gDlA6K1A4nZk2efPKxyrXSKOfXitg=s1600-rw-v1",
+      "descripcion": ""
     }
   ],
   "Jueves": [
     {
+      "tipo": "Foro",
+      "fecha": "Jueves 14",
+      "mes": "noviembre",
+      "hora": "8:00 a.m. a 12:00 p.m.",
+      "titulo": "Foro de Políticas Públicas en educación superior",
+      "lugar": "Óculo",
+      "detalle": "Abierto al público",
+      "id": 2020,
+      "color": "bg-rojo",
+      "imagen": "https://drive.google.com/u/0/drive-viewer/AKGpihaLNPbP5XsfneO2Ryi-onOiV3H6S2f0xUS01UQqwT_2PEsIH6gjuD-jt33NUTgXQtduHCV2eaxqe1xqVVS05bjHtO9AB2x3Fhw=s1600-rw-v1",
+      "descripcion": ""
+    },
+    {
+      "tipo": "Varios",
+      "fecha": "Jueves 14",
+      "mes": "noviembre",
+      "hora": "4:00 p.m. a 6:00 p.m.",
+      "titulo": "Socialización: 15 días en el Museo",
+      "lugar": "Sala de exposiciones (piso 4)",
+      "detalle": "Abierto al público",
+      "id": 2020,
+      "color": "bg-azul",
+      "imagen": "https://drive.google.com/u/0/drive-viewer/AKGpihayvcY65EbKCLPn-yugHc3A7mCwtDh-GI965qySbrBsBTaLqwQbDZOBHPFau6JbGHgvD1kXIyAtinpOSozTIcx5YM8IcYxN5Wc=s1600-rw-v1",
+      "descripcion": ""
+    },
+    {
+      "tipo": "Concierto",
+      "fecha": "Jueves 14",
+      "mes": "noviembre",
+      "hora": "5:30 p.m.",
+      "titulo": "Temporada de Conciertos: Música de Cámara",
+      "lugar": "Auditorio",
+      "detalle": "Abierto al público",
+      "id": 2020,
+      "color": "bg-amarillo",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "tipo": "Concierto",
+      "fecha": "Jueves 14",
+      "mes": "noviembre",
+      "hora": "7:00 p.m.",
+      "titulo": "Temporada de Conciertos: Recital de Trombones",
+      "lugar": "Auditorio",
+      "detalle": "Abierto al público",
+      "id": 2020,
+      "color": "bg-amarillo",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
       "tipo": "Exposición",
-      "fecha": "Jueves 23",
-      "mes": "mayo",
-      "hora": "8:00 a.m. a 1:00 p.m.",
-      "titulo": "ExpoU 2024",
-      "lugar": "Parqueadero",
+      "fecha": "Jueves 14",
+      "mes": "noviembre",
+      "hora": "6:30 p.m. a 7:30 p.m.",
+      "titulo": "Inauguración exposición Bestiarios Mutantes",
+      "lugar": "Sala de exposiciones alterna (hall auditorio)",
       "detalle": "Abierto al público",
       "id": 2020,
       "color": "bg-naranja",
-      "imagen": "https://lh3.googleusercontent.com/u/1/drive-viewer/AKGpihZ-cqxQzisGmdaHxajmIynWeqKm6_K4DEJA4yEPRuSwrvnXj0poVfS8qWkiMx_Ou-V8Pu92E9X991AMpW2IWsj8HDZU1Wm6o3E=w3840-h2160-rw-v1",
-      "descripcion": "ExpoU 204 es una feria de universidades liderada por el periódico La PatriaDescubre tu camino académico en este espacio y sumérgete en experiencias únicas mientras exploras las mejores opciones universitarias."
+      "imagen": "https://drive.google.com/u/0/drive-viewer/AKGpihagPHC0LVabwVudeLQhypLD4Fzfg01KVRh58XURSnLuKhnUUaaxGwFxIqqsFPwYGTwDzyo0fYsP1BPkJUc2f6hV0-TsPbinlA0=s1600-rw-v1",
+      "descripcion": "Bestiario Mutantes es un proyecto basado en la relación que tienen los humanos con los animales, en donde se les da un protagonismo en la vida cotidiana de las personas."
+    },
+    {
+      "tipo": "Exposición",
+      "fecha": "Jueves 14",
+      "mes": "noviembre",
+      "hora": "8:00 a.m. a 8:00 p.m.",
+      "titulo": "Exposición fotográfica itinerante: Flores en el glaciar",
+      "lugar": "Vestíbulos (piso 4)",
+      "detalle": "Abierto al público",
+      "id": 2020,
+      "color": "bg-naranja",
+      "imagen": "",
+      "descripcion": "Una exposición que invita a explorar el pasado y el presente del Volcán Nevado del Ruiz a través de la mirada de la fotografía y la crónica de viaje. Esta muestra busca sensibilizar sobre la realidad del glaciar y su relación con los municipios de Fresno y Murillo, en Tolima."
     }
-],
-"Viernes": [
-  {
-    "tipo": "Exposición",
-    "fecha": "Viernes 23",
-    "mes": "mayo",
-    "hora": "8:00 a.m. a 1:00 p.m.",
-    "titulo": "ExpoU 2024",
-    "lugar": "Parqueadero",
-    "detalle": "Abierto al público",
-    "id": 2020,
-    "color": "bg-naranja",
-    "imagen": "https://lh3.googleusercontent.com/u/1/drive-viewer/AKGpihZ-cqxQzisGmdaHxajmIynWeqKm6_K4DEJA4yEPRuSwrvnXj0poVfS8qWkiMx_Ou-V8Pu92E9X991AMpW2IWsj8HDZU1Wm6o3E=w3840-h2160-rw-v1",
-    "descripcion": "ExpoU 204 es una feria de universidades liderada por el periódico La PatriaDescubre tu camino académico en este espacio y sumérgete en experiencias únicas mientras exploras las mejores opciones universitarias."
-  }
-]
+  ],
+  "Viernes": [
+    {
+      "tipo": "Foro",
+      "fecha": "Viernes 15",
+      "mes": "noviembre",
+      "hora": "7:30 a.m. a 12:30 p.m.",
+      "titulo": "II Conversatorio entre instituciones educativas constructuras de paz",
+      "lugar": "Auditorio",
+      "detalle": "Abierto al público",
+      "id": 2020,
+      "color": "bg-rojo",
+      "imagen": "https://drive.google.com/u/0/drive-viewer/AKGpihZrvBMp5IKz6jzi3TcEWoB4QyLwftxCLb7OJU4JI7lk3nniY5Zh22RikbwbCbyB3rux_anqytDFMw-CbNwFCFYNLyocPcyndhE=s1600-rw-v1",
+      "descripcion": ""
+    },
+    {
+      "tipo": "Exposición",
+      "fecha": "Viernes 15",
+      "mes": "noviembre",
+      "hora": "8:00 a.m. a 8:00 p.m.",
+      "titulo": "Exposición fotográfica itinerante: Flores en el glaciar",
+      "lugar": "Vestíbulos (piso 4)",
+      "detalle": "Abierto al público",
+      "id": 2020,
+      "color": "bg-naranja",
+      "imagen": "",
+      "descripcion": "Una exposición que invita a explorar el pasado y el presente del Volcán Nevado del Ruiz a través de la mirada de la fotografía y la crónica de viaje. Esta muestra busca sensibilizar sobre la realidad del glaciar y su relación con los municipios de Fresno y Murillo, en Tolima."
+    },
+    {
+      "tipo": "Exposición",
+      "fecha": "Viernes 15",
+      "mes": "noviembre",
+      "hora": "8:00 a.m. a 8:00 p.m.",
+      "titulo": "Archivo Rivera: El museo imaginado por José A. Velasco",
+      "lugar": "Vestíbulos (piso 4)",
+      "detalle": "Abierto al público",
+      "id": 2020,
+      "color": "bg-naranja",
+      "imagen": "",
+      "descripcion": "Esta exposición da a conocer el archivo de José Eustasio Rivera, custodiado por el Centro de Bibliotecas de la Universidad de Caldas, imaginado, en un principio, por su amigo Jose A. Velasco como material expositivo. Además, da algunas pistas sobre el último año de vida del escritor y el viaje emprendido en la novela."
+    }
+  ]
 }
