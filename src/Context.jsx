@@ -44,7 +44,7 @@ export const CardSelectProvider= ({children}) => {
         }else if (isCardBaseDetailsOpen == true) {
             setTimeout(() => {
                 closeCardBaseDetails()
-            }, 120000)
+            }, 240000)
         }else if (isCardDetailOpen == true){
             setTimeout(() => {
                 closeCardDetail()
